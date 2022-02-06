@@ -18,29 +18,29 @@ lib.ssMetadata = [
 		{name:"2Chineese_atlas_8", frames: [[0,0,1160,965],[0,967,1160,965]]},
 		{name:"2Chineese_atlas_9", frames: [[0,0,1160,965],[0,967,1160,965]]},
 		{name:"2Chineese_atlas_10", frames: [[0,0,1160,965],[0,967,1160,965]]},
-		{name:"2Chineese_atlas_11", frames: [[1981,198,46,21],[1999,811,47,15],[1785,1259,95,60],[1408,328,55,60],[150,747,55,60],[150,809,55,60],[150,871,55,60],[710,1132,55,60],[1850,1342,55,60],[1341,1383,55,60],[1398,1383,55,60],[1455,1383,55,60],[1907,1386,55,60],[1964,1386,55,60],[0,1392,55,60],[57,1392,55,60],[114,1392,55,60],[171,1392,55,60],[228,1392,55,57],[285,1392,55,57],[342,1392,55,57],[1055,913,47,36],[1136,688,206,171],[1344,688,38,22],[1104,913,56,30],[360,724,70,36],[1654,391,37,26],[658,856,27,22],[995,913,58,37],[1494,840,160,160],[1656,960,160,160],[1818,960,160,160],[150,961,160,160],[312,1084,129,130],[210,582,259,140],[0,171,369,155],[371,171,369,155],[742,171,369,155],[1113,171,369,155],[658,780,83,74],[1686,1259,97,62],[1980,1044,63,76],[76,1260,63,76],[434,1266,63,76],[499,1266,63,76],[564,1266,63,76],[629,1266,63,76],[872,1305,63,76],[937,1305,63,76],[1002,1305,63,76],[1067,1305,63,76],[1132,1305,63,76],[1197,1305,63,76],[1262,1305,63,76],[1327,1305,63,76],[1392,1305,63,76],[1457,1305,63,76],[1785,1321,63,76],[845,562,61,82],[845,646,61,82],[1980,960,61,82],[1981,113,62,83],[312,964,173,118],[487,964,173,118],[662,964,173,118],[1384,1002,173,118],[1960,1252,61,81],[196,1257,61,81],[1882,1259,61,81],[371,1216,61,82],[1494,715,141,119],[0,984,141,119],[969,1031,141,119],[1112,1031,141,119],[196,1123,87,132],[443,1132,87,132],[532,1132,87,132],[621,1132,87,132],[1687,1122,89,135],[1778,1122,89,135],[1869,1122,89,135],[105,1123,89,135],[1344,715,148,235],[210,724,148,235],[845,733,148,235],[0,747,148,235],[1579,1253,105,77],[1947,225,75,177],[1704,171,27,45],[1885,420,145,245],[1462,952,27,45],[1638,593,145,245],[1960,1122,85,128],[749,780,89,141],[1785,836,252,122],[1945,1335,81,49],[360,885,387,77],[995,952,387,77],[872,1291,677,12],[1384,952,76,44],[1750,0,229,223],[0,328,1406,34],[1785,667,212,167],[2029,198,4,67],[0,0,348,169],[76,1344,445,10],[0,1356,445,10],[1999,667,35,95],[1981,0,63,111],[432,724,35,29],[1199,913,34,28],[1235,913,34,28],[1162,913,35,29],[2035,198,13,11],[1733,171,15,12],[1733,185,15,12],[1733,199,15,12],[2024,267,15,12],[2024,281,15,12],[2024,295,15,12],[2024,309,15,12],[893,1152,89,126],[1656,840,121,118],[0,1105,103,129],[796,1222,74,113],[984,1152,89,126],[770,1102,121,118],[1582,1122,103,129],[0,1236,74,113],[1407,1170,84,119],[1559,1002,89,118],[1493,1170,84,119],[1166,1170,117,88],[285,1216,84,119],[1075,1152,89,118],[1999,764,45,45],[710,1222,84,119],[1255,1031,118,88],[893,1102,45,45],[360,768,296,115],[1785,593,90,71],[1704,225,241,193],[1142,364,254,162],[1142,528,246,158],[1654,420,229,171],[471,580,194,186],[675,562,168,216],[243,364,215,216],[1484,171,218,218],[460,364,213,214],[0,559,208,186],[908,560,226,171],[1390,555,246,158],[1398,391,254,162],[0,364,241,193],[675,364,231,196],[908,364,232,194],[995,865,325,46],[443,1084,325,46],[1255,1122,325,46],[350,0,348,169],[700,0,348,169],[0,1368,445,10],[0,1380,445,10],[1050,0,348,169],[1400,0,348,169],[447,1383,445,10],[894,1383,445,10],[1686,1323,68,70],[995,733,130,130],[1522,1332,68,70],[837,970,130,130],[1285,1170,120,85],[1592,1332,72,64]]},
-		{name:"2Chineese_atlas_12", frames: [[0,1405,218,380],[1410,1615,218,380],[698,1616,218,380],[220,1618,218,380],[440,1618,218,380],[579,509,346,179],[1043,1615,365,291],[1474,0,504,251],[1474,253,504,251],[0,256,504,251],[506,256,504,251],[1012,295,353,182],[1012,506,577,214],[0,509,577,214],[579,722,577,214],[1158,722,577,214],[1043,1278,727,154],[1043,1434,594,179],[1630,1738,348,169],[1037,0,435,293],[1737,506,292,326],[698,1278,343,336],[702,938,347,338],[1051,938,347,338],[1400,938,347,338],[0,1065,347,338],[0,725,349,338],[349,1278,347,338],[351,938,349,338],[1639,1434,352,302],[1749,834,277,309],[0,0,1035,126],[0,128,1035,126]]},
+		{name:"2Chineese_atlas_11", frames: [[0,0,1160,965],[0,967,1280,853]]},
+		{name:"2Chineese_atlas_12", frames: [[0,855,1155,945],[0,0,1280,853]]},
 		{name:"2Chineese_atlas_13", frames: [[0,0,1155,945],[0,947,1155,945]]},
 		{name:"2Chineese_atlas_14", frames: [[0,0,1121,897],[0,899,1121,896]]},
-		{name:"2Chineese_atlas_15", frames: [[1116,0,407,363],[342,675,409,365],[451,313,431,360],[1443,1684,406,339],[1525,0,413,345],[0,313,449,360],[0,1684,479,288],[481,1684,479,288],[0,675,340,458],[0,1604,1809,78],[0,160,1114,151],[0,0,1114,158],[962,1684,479,288],[753,1034,1035,126],[753,901,1036,131],[333,1162,1035,126],[884,365,1035,132],[333,1290,1035,126],[884,499,1035,132],[333,1418,1035,126],[884,633,1035,132],[753,767,1035,132],[0,1135,331,467]]},
-		{name:"2Chineese_atlas_16", frames: [[858,1283,503,523],[1363,1259,503,511],[1284,855,640,402],[642,857,640,424],[0,1287,427,640],[429,1287,427,640],[0,0,640,427],[642,429,640,426],[642,0,640,427],[1284,0,640,427],[0,429,640,427],[0,858,640,427],[1284,429,640,424]]},
-		{name:"2Chineese_atlas_17", frames: [[0,495,685,413],[602,0,685,413],[687,415,685,413],[1289,0,685,413],[687,830,685,413],[0,910,685,413],[687,1245,685,413],[1374,415,640,427],[1374,844,640,427],[1374,1273,640,427],[0,0,600,493],[0,1325,600,467]]},
+		{name:"2Chineese_atlas_15", frames: [[0,806,941,915],[1086,0,941,916],[0,0,1084,804]]},
+		{name:"2Chineese_atlas_16", frames: [[0,746,1140,738],[0,0,1144,744]]},
+		{name:"2Chineese_atlas_17", frames: [[1059,0,950,698],[0,1370,926,673],[0,665,926,703],[0,0,1057,663],[928,700,640,960]]},
 		{name:"2Chineese_atlas_18", frames: [[0,0,926,626],[928,0,789,717],[0,628,789,717],[791,719,789,717],[0,1438,1451,386]]},
 		{name:"2Chineese_atlas_19", frames: [[0,0,832,673],[834,0,774,717],[0,675,774,717],[776,719,774,717]]},
-		{name:"2Chineese_atlas_20", frames: [[1541,0,410,895],[0,1308,1779,177],[0,938,890,368],[638,0,901,420],[642,1487,600,503],[638,422,640,514],[0,1487,640,480],[1244,1487,600,501],[0,0,636,640]]},
-		{name:"2Chineese_atlas_21", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
-		{name:"2Chineese_atlas_22", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
+		{name:"2Chineese_atlas_20", frames: [[0,0,774,717],[776,0,774,717],[0,719,774,717],[0,1574,1307,412],[776,719,640,853]]},
+		{name:"2Chineese_atlas_21", frames: [[1303,695,665,647],[0,1300,665,647],[667,1344,665,647],[1334,1344,665,647],[0,767,883,531],[661,0,640,706],[0,0,659,765],[1303,0,640,693]]},
+		{name:"2Chineese_atlas_22", frames: [[0,0,875,479],[877,0,640,640],[0,481,640,640],[0,1123,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
 		{name:"2Chineese_atlas_23", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
-		{name:"2Chineese_atlas_24", frames: [[0,0,875,479],[877,0,640,640],[0,481,640,640],[0,1123,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
-		{name:"2Chineese_atlas_25", frames: [[1303,695,665,647],[0,1300,665,647],[667,1344,665,647],[1334,1344,665,647],[0,767,883,531],[661,0,640,706],[0,0,659,765],[1303,0,640,693]]},
-		{name:"2Chineese_atlas_26", frames: [[0,0,774,717],[776,0,774,717],[0,719,774,717],[0,1574,1307,412],[776,719,640,853]]},
-		{name:"2Chineese_atlas_27", frames: [[1059,0,950,698],[0,1370,926,673],[0,665,926,703],[0,0,1057,663],[928,700,640,960]]},
-		{name:"2Chineese_atlas_28", frames: [[0,746,1140,738],[0,0,1144,744]]},
+		{name:"2Chineese_atlas_24", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
+		{name:"2Chineese_atlas_25", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
+		{name:"2Chineese_atlas_26", frames: [[1541,0,410,895],[0,1308,1779,177],[0,938,890,368],[638,0,901,420],[642,1487,600,503],[638,422,640,514],[0,1487,640,480],[1244,1487,600,501],[0,0,636,640]]},
+		{name:"2Chineese_atlas_27", frames: [[0,495,685,413],[602,0,685,413],[687,415,685,413],[1289,0,685,413],[687,830,685,413],[0,910,685,413],[687,1245,685,413],[1374,415,640,427],[1374,844,640,427],[1374,1273,640,427],[0,0,600,493],[0,1325,600,467]]},
+		{name:"2Chineese_atlas_28", frames: [[858,1283,503,523],[1363,1259,503,511],[1284,855,640,402],[642,857,640,424],[0,1287,427,640],[429,1287,427,640],[0,0,640,427],[642,429,640,426],[642,0,640,427],[1284,0,640,427],[0,429,640,427],[0,858,640,427],[1284,429,640,424]]},
 		{name:"2Chineese_atlas_29", frames: [[905,1636,468,379],[0,1078,426,471],[430,1636,473,398],[1117,0,618,372],[0,544,454,532],[0,0,457,542],[1102,578,606,353],[459,0,656,372],[456,578,644,333],[860,1115,1114,172],[860,1289,1114,172],[456,933,1113,180],[860,1463,1114,171],[459,374,1167,202],[0,1551,428,463],[430,1115,428,463]]},
 		{name:"2Chineese_atlas_30", frames: [[0,0,1114,158],[0,160,1114,158],[0,320,1114,158],[0,480,1114,158],[0,640,1114,158],[0,800,1114,158],[0,960,1114,158],[0,1120,1114,158],[0,1280,1114,158],[0,1440,1114,158],[0,1600,1114,158],[0,1760,1114,158]]},
-		{name:"2Chineese_atlas_31", frames: [[0,806,941,915],[1086,0,941,916],[0,0,1084,804]]},
-		{name:"2Chineese_atlas_32", frames: [[0,855,1155,945],[0,0,1280,853]]},
-		{name:"2Chineese_atlas_33", frames: [[0,0,1160,965],[0,967,1280,853]]}
+		{name:"2Chineese_atlas_31", frames: [[1116,0,407,363],[342,675,409,365],[451,313,431,360],[1443,1684,406,339],[1525,0,413,345],[0,313,449,360],[0,1684,479,288],[481,1684,479,288],[0,675,340,458],[0,1604,1809,78],[0,160,1114,151],[0,0,1114,158],[962,1684,479,288],[753,1034,1035,126],[753,901,1036,131],[333,1162,1035,126],[884,365,1035,132],[333,1290,1035,126],[884,499,1035,132],[333,1418,1035,126],[884,633,1035,132],[753,767,1035,132],[0,1135,331,467]]},
+		{name:"2Chineese_atlas_32", frames: [[0,1405,218,380],[1410,1615,218,380],[698,1616,218,380],[220,1618,218,380],[440,1618,218,380],[579,509,346,179],[1043,1615,365,291],[1474,0,504,251],[1474,253,504,251],[0,256,504,251],[506,256,504,251],[1012,295,353,182],[1012,506,577,214],[0,509,577,214],[579,722,577,214],[1158,722,577,214],[1043,1278,727,154],[1043,1434,594,179],[1630,1738,348,169],[1037,0,435,293],[1737,506,292,326],[698,1278,343,336],[702,938,347,338],[1051,938,347,338],[1400,938,347,338],[0,1065,347,338],[0,725,349,338],[349,1278,347,338],[351,938,349,338],[1639,1434,352,302],[1749,834,277,309],[0,0,1035,126],[0,128,1035,126]]},
+		{name:"2Chineese_atlas_33", frames: [[1981,198,46,21],[1999,811,47,15],[1785,1259,95,60],[1408,328,55,60],[150,747,55,60],[150,809,55,60],[150,871,55,60],[710,1132,55,60],[1850,1342,55,60],[1341,1383,55,60],[1398,1383,55,60],[1455,1383,55,60],[1907,1386,55,60],[1964,1386,55,60],[0,1392,55,60],[57,1392,55,60],[114,1392,55,60],[171,1392,55,60],[228,1392,55,57],[285,1392,55,57],[342,1392,55,57],[1055,913,47,36],[1136,688,206,171],[1344,688,38,22],[1104,913,56,30],[360,724,70,36],[1654,391,37,26],[658,856,27,22],[995,913,58,37],[1494,840,160,160],[1656,960,160,160],[1818,960,160,160],[150,961,160,160],[312,1084,129,130],[210,582,259,140],[0,171,369,155],[371,171,369,155],[742,171,369,155],[1113,171,369,155],[658,780,83,74],[1686,1259,97,62],[1980,1044,63,76],[76,1260,63,76],[434,1266,63,76],[499,1266,63,76],[564,1266,63,76],[629,1266,63,76],[872,1305,63,76],[937,1305,63,76],[1002,1305,63,76],[1067,1305,63,76],[1132,1305,63,76],[1197,1305,63,76],[1262,1305,63,76],[1327,1305,63,76],[1392,1305,63,76],[1457,1305,63,76],[1785,1321,63,76],[845,562,61,82],[845,646,61,82],[1980,960,61,82],[1981,113,62,83],[312,964,173,118],[487,964,173,118],[662,964,173,118],[1384,1002,173,118],[1960,1252,61,81],[196,1257,61,81],[1882,1259,61,81],[371,1216,61,82],[1494,715,141,119],[0,984,141,119],[969,1031,141,119],[1112,1031,141,119],[196,1123,87,132],[443,1132,87,132],[532,1132,87,132],[621,1132,87,132],[1687,1122,89,135],[1778,1122,89,135],[1869,1122,89,135],[105,1123,89,135],[1344,715,148,235],[210,724,148,235],[845,733,148,235],[0,747,148,235],[1579,1253,105,77],[1947,225,75,177],[1704,171,27,45],[1885,420,145,245],[1462,952,27,45],[1638,593,145,245],[1960,1122,85,128],[749,780,89,141],[1785,836,252,122],[1945,1335,81,49],[360,885,387,77],[995,952,387,77],[872,1291,677,12],[1384,952,76,44],[1750,0,229,223],[0,328,1406,34],[1785,667,212,167],[2029,198,4,67],[0,0,348,169],[76,1344,445,10],[0,1356,445,10],[1999,667,35,95],[1981,0,63,111],[432,724,35,29],[1199,913,34,28],[1235,913,34,28],[1162,913,35,29],[2035,198,13,11],[1733,171,15,12],[1733,185,15,12],[1733,199,15,12],[2024,267,15,12],[2024,281,15,12],[2024,295,15,12],[2024,309,15,12],[893,1152,89,126],[1656,840,121,118],[0,1105,103,129],[796,1222,74,113],[984,1152,89,126],[770,1102,121,118],[1582,1122,103,129],[0,1236,74,113],[1407,1170,84,119],[1559,1002,89,118],[1493,1170,84,119],[1166,1170,117,88],[285,1216,84,119],[1075,1152,89,118],[1999,764,45,45],[710,1222,84,119],[1255,1031,118,88],[893,1102,45,45],[360,768,296,115],[1785,593,90,71],[1704,225,241,193],[1142,364,254,162],[1142,528,246,158],[1654,420,229,171],[471,580,194,186],[675,562,168,216],[243,364,215,216],[1484,171,218,218],[460,364,213,214],[0,559,208,186],[908,560,226,171],[1390,555,246,158],[1398,391,254,162],[0,364,241,193],[675,364,231,196],[908,364,232,194],[995,865,325,46],[443,1084,325,46],[1255,1122,325,46],[350,0,348,169],[700,0,348,169],[0,1368,445,10],[0,1380,445,10],[1050,0,348,169],[1400,0,348,169],[447,1383,445,10],[894,1383,445,10],[1686,1323,68,70],[995,733,130,130],[1522,1332,68,70],[837,970,130,130],[1285,1170,120,85],[1592,1332,72,64]]}
 ];
 
 
@@ -147,63 +147,63 @@ p.nominalBounds = new cjs.Rectangle(0,0,3844,905);
 
 
 (lib.CachedBmp_832 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_831 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_830 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_829 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_828 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_827 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_826 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_825 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_824 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -217,147 +217,147 @@ p.nominalBounds = new cjs.Rectangle(0,0,3844,905);
 
 
 (lib.CachedBmp_822 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_821 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_820 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_819 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_818 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_817 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_816 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_815 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_814 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_813 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_812 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_811 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_810 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_809 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_808 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_807 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_806 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_805 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_804 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_803 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_802 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
@@ -371,182 +371,182 @@ p.nominalBounds = new cjs.Rectangle(0,0,3844,905);
 
 
 (lib.CachedBmp_800 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_799 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_798 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_797 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_796 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_795 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_794 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_793 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_792 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_790 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_788 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_786 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_791 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_784 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_783 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_782 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_781 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_780 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_779 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_778 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_777 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_776 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_775 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_774 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_773 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_772 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
@@ -560,434 +560,434 @@ p.nominalBounds = new cjs.Rectangle(0,0,3844,905);
 
 
 (lib.CachedBmp_770 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_769 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_768 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_767 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_766 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_765 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_764 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_763 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_762 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_761 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_760 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_759 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_758 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_757 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_756 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_755 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_754 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_753 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_752 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(56);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_751 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(57);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_750 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_749 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_748 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(60);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_747 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(61);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_746 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(62);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_745 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(63);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_744 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(64);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_743 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(65);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_742 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(66);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_741 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(67);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_740 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(68);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_739 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(69);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_738 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(70);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_737 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(71);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_736 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(72);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_735 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(73);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_734 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_733 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_732 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_731 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_730 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(74);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_729 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(75);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_728 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(76);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_727 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(77);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_726 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(78);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_725 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(79);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_724 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(80);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_723 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(81);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_722 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(82);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_721 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(83);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_720 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(84);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_719 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(85);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_718 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(86);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_717 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(87);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_716 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(88);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_715 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(89);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_714 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(90);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_713 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(91);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_712 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(92);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_711 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(93);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_710 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(94);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_709 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(95);
 }).prototype = p = new cjs.Sprite();
 
@@ -1006,7 +1006,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3072,28);
 
 
 (lib.CachedBmp_706 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
@@ -1031,7 +1031,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2757,437);
 
 
 (lib.CachedBmp_701 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(96);
 }).prototype = p = new cjs.Sprite();
 
@@ -1056,7 +1056,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3747,28);
 
 
 (lib.CachedBmp_697 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
@@ -1081,35 +1081,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 (lib.CachedBmp_692 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(97);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_691 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_848 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+(lib.CachedBmp_851 = function() {
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_847 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+(lib.CachedBmp_850 = function() {
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(98);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_688 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(99);
 }).prototype = p = new cjs.Sprite();
 
@@ -1122,29 +1122,29 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 
-(lib.CachedBmp_846 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+(lib.CachedBmp_849 = function() {
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_685 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_684 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(100);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_683 = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1182,21 +1182,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 (lib.CachedBmp_677 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_676 = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_675 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(101);
 }).prototype = p = new cjs.Sprite();
 
@@ -1210,7 +1210,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 (lib.CachedBmp_673 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(102);
 }).prototype = p = new cjs.Sprite();
 
@@ -1229,21 +1229,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3764,526);
 
 
 (lib.CachedBmp_669 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_667 = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_666 = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1274,21 +1274,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3975,696);
 
 
 (lib.CachedBmp_661 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_659 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_668 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
@@ -1301,35 +1301,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_656 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(103);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_655 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_654 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(104);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_653 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(105);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_651 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(106);
 }).prototype = p = new cjs.Sprite();
 
@@ -1343,7 +1343,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_648 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1413,28 +1413,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_638 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_637 = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_636 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_635 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1448,7 +1448,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_633 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
@@ -1476,7 +1476,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_629 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
@@ -1490,28 +1490,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_627 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(107);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_626 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(108);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_625 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(109);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_624 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
@@ -1544,7 +1544,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,4032,1079);
 
 
 (lib.CachedBmp_619 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(110);
 }).prototype = p = new cjs.Sprite();
 
@@ -1557,7 +1557,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3001,701);
 
 
 (lib.CachedBmp_616 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(111);
 }).prototype = p = new cjs.Sprite();
 
@@ -1672,70 +1672,70 @@ p.nominalBounds = new cjs.Rectangle(0,0,3747,31);
 
 
 (lib.CachedBmp_592 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_591 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_590 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_589 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_588 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_587 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_586 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_585 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_584 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_583 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
@@ -1755,7 +1755,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,4100,752);
 
 
 (lib.CachedBmp_580 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
@@ -1768,49 +1768,49 @@ p.nominalBounds = new cjs.Rectangle(0,0,5517,1075);
 
 
 (lib.CachedBmp_578 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_576 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_574 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_572 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_570 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_568 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_566 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
@@ -1889,196 +1889,196 @@ p.nominalBounds = new cjs.Rectangle(0,0,3980,1057);
 
 
 (lib.CachedBmp_553 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(112);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_552 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(113);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_551 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(114);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_550 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(115);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_549 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(116);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_548 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(117);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_547 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(118);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_546 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(119);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_545 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(120);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_544 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(121);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_543 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(122);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_542 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(123);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_541 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(124);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_540 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(125);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_539 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(126);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_538 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(127);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_537 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(128);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_536 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(129);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_534 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(130);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_532 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(131);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_530 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(132);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_528 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(133);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_526 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(134);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_533 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(135);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_524 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(136);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_522 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(137);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_535 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(138);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_520 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(139);
 }).prototype = p = new cjs.Sprite();
 
@@ -2106,7 +2106,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3980,1057);
 
 
 (lib.CachedBmp_516 = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -2134,119 +2134,119 @@ p.nominalBounds = new cjs.Rectangle(0,0,3980,1057);
 
 
 (lib.CachedBmp_512 = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_511 = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_510 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(140);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_509 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(141);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_508 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(142);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_507 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(143);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_506 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(144);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_505 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(145);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_504 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(146);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_503 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(147);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_502 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(148);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_501 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(149);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_500 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(150);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_499 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(151);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_498 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(152);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_497 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(153);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_496 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(154);
 }).prototype = p = new cjs.Sprite();
 
@@ -2267,14 +2267,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3980,1057);
 
 
 (lib.CachedBmp_493 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(155);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_492 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(156);
 }).prototype = p = new cjs.Sprite();
 
@@ -2293,14 +2293,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,279);
 
 
 (lib.CachedBmp_488 = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_487 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(157);
 }).prototype = p = new cjs.Sprite();
 
@@ -2405,7 +2405,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,279);
 
 
 (lib.CachedBmp_472 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
@@ -2426,35 +2426,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,279);
 
 
 (lib.CachedBmp_469 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_468 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(158);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_467 = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_466 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_465 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
@@ -2500,56 +2500,56 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,2202);
 
 
 (lib.CachedBmp_458 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(159);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_457 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(160);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_456 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(161);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_455 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(162);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_453 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(163);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_451 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(164);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_450 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(165);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_449 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(166);
 }).prototype = p = new cjs.Sprite();
 
@@ -2563,7 +2563,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,2202);
 
 
 (lib.CachedBmp_447 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(167);
 }).prototype = p = new cjs.Sprite();
 
@@ -2577,35 +2577,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,2202);
 
 
 (lib.CachedBmp_445 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(168);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_444 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(169);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_443 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(170);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_442 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(171);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_441 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
@@ -2636,84 +2636,84 @@ p.nominalBounds = new cjs.Rectangle(0,0,3023,803);
 
 
 (lib.CachedBmp_436 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_435 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_434 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_433 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_432 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_431 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_430 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_429 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_428 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_427 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_426 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_425 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(172);
 }).prototype = p = new cjs.Sprite();
 
@@ -2745,7 +2745,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3849,28);
 
 
 (lib.CachedBmp_420 = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
@@ -2758,91 +2758,91 @@ p.nominalBounds = new cjs.Rectangle(0,0,2251,137);
 
 
 (lib.alcedinidae = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.autumn = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.cheese = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.chinaFlag = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.chinesePeople = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.chineseWall = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_0 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_1 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_10 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_11 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_12 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_13 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_14 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
@@ -2912,315 +2912,315 @@ p.nominalBounds = new cjs.Rectangle(0,0,2251,137);
 
 
 (lib.confetti_23 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_24 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_25 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_26 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_27 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_28 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_29 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_3 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_30 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_31 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_32 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_33 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_4 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_5 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_6 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_7 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_8 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_9 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.dimSum = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.dragon = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.ear = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.eye = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.groundsel = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.theGoosePagoda = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.HotPepper = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.leshan = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.magnifire = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(173);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.motacilla = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.mountFuji = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.pandaBear = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.passer = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.pelecanus = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.psittacula = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.rat = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.rice = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.snake = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.spring = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.summer = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.sun = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.sunflower = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.taracota = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.templeOfHeaven = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.turtle = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.upupa = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.winter = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -7192,10 +7192,10 @@ if (reversed == null) { reversed = false; }
 	mask.setTransform(641.6,360.725);
 
 	// basta
-	this.instance_1 = new lib.CachedBmp_848();
+	this.instance_1 = new lib.CachedBmp_851();
 	this.instance_1.setTransform(818.2,346.2,0.3333,0.3333);
 
-	this.instance_2 = new lib.CachedBmp_847();
+	this.instance_2 = new lib.CachedBmp_850();
 	this.instance_2.setTransform(854.05,362.5,0.3333,0.3333);
 
 	this.instance_3 = new lib.CachedBmp_688();
@@ -7204,7 +7204,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_4 = new lib.CachedBmp_687();
 	this.instance_4.setTransform(825.25,338.15,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_846();
+	this.instance_5 = new lib.CachedBmp_849();
 	this.instance_5.setTransform(871,440.5,0.3333,0.3333);
 
 	this.instance_6 = new lib.CachedBmp_685();
@@ -14816,124 +14816,124 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/CachedBmp_836.png?1644170222858", id:"CachedBmp_836"},
-		{src:"images/CachedBmp_835.png?1644170222858", id:"CachedBmp_835"},
-		{src:"images/CachedBmp_708.png?1644170222858", id:"CachedBmp_708"},
-		{src:"images/CachedBmp_707.png?1644170222858", id:"CachedBmp_707"},
-		{src:"images/CachedBmp_704.png?1644170222858", id:"CachedBmp_704"},
-		{src:"images/CachedBmp_703.png?1644170222858", id:"CachedBmp_703"},
-		{src:"images/CachedBmp_702.png?1644170222858", id:"CachedBmp_702"},
-		{src:"images/CachedBmp_700.png?1644170222858", id:"CachedBmp_700"},
-		{src:"images/CachedBmp_699.png?1644170222858", id:"CachedBmp_699"},
-		{src:"images/CachedBmp_698.png?1644170222858", id:"CachedBmp_698"},
-		{src:"images/CachedBmp_695.png?1644170222858", id:"CachedBmp_695"},
-		{src:"images/CachedBmp_694.png?1644170222858", id:"CachedBmp_694"},
-		{src:"images/CachedBmp_693.png?1644170222858", id:"CachedBmp_693"},
-		{src:"images/CachedBmp_681.png?1644170222858", id:"CachedBmp_681"},
-		{src:"images/CachedBmp_680.png?1644170222858", id:"CachedBmp_680"},
-		{src:"images/CachedBmp_679.png?1644170222858", id:"CachedBmp_679"},
-		{src:"images/CachedBmp_678.png?1644170222858", id:"CachedBmp_678"},
-		{src:"images/CachedBmp_672.png?1644170222858", id:"CachedBmp_672"},
-		{src:"images/CachedBmp_671.png?1644170222858", id:"CachedBmp_671"},
-		{src:"images/CachedBmp_665.png?1644170222858", id:"CachedBmp_665"},
-		{src:"images/CachedBmp_664.png?1644170222858", id:"CachedBmp_664"},
-		{src:"images/CachedBmp_663.png?1644170222858", id:"CachedBmp_663"},
-		{src:"images/CachedBmp_670.png?1644170222858", id:"CachedBmp_670"},
-		{src:"images/CachedBmp_657.png?1644170222858", id:"CachedBmp_657"},
-		{src:"images/CachedBmp_621.png?1644170222858", id:"CachedBmp_621"},
-		{src:"images/CachedBmp_620.png?1644170222858", id:"CachedBmp_620"},
-		{src:"images/CachedBmp_618.png?1644170222858", id:"CachedBmp_618"},
-		{src:"images/CachedBmp_615.png?1644170222858", id:"CachedBmp_615"},
-		{src:"images/CachedBmp_613.png?1644170222858", id:"CachedBmp_613"},
-		{src:"images/CachedBmp_611.png?1644170222858", id:"CachedBmp_611"},
-		{src:"images/CachedBmp_609.png?1644170222858", id:"CachedBmp_609"},
-		{src:"images/CachedBmp_607.png?1644170222858", id:"CachedBmp_607"},
-		{src:"images/CachedBmp_605.png?1644170222858", id:"CachedBmp_605"},
-		{src:"images/CachedBmp_617.png?1644170222858", id:"CachedBmp_617"},
-		{src:"images/CachedBmp_603.png?1644170222858", id:"CachedBmp_603"},
-		{src:"images/CachedBmp_602.png?1644170222858", id:"CachedBmp_602"},
-		{src:"images/CachedBmp_601.png?1644170222858", id:"CachedBmp_601"},
-		{src:"images/CachedBmp_600.png?1644170222858", id:"CachedBmp_600"},
-		{src:"images/CachedBmp_599.png?1644170222858", id:"CachedBmp_599"},
-		{src:"images/CachedBmp_598.png?1644170222858", id:"CachedBmp_598"},
-		{src:"images/CachedBmp_597.png?1644170222858", id:"CachedBmp_597"},
-		{src:"images/CachedBmp_596.png?1644170222858", id:"CachedBmp_596"},
-		{src:"images/CachedBmp_595.png?1644170222858", id:"CachedBmp_595"},
-		{src:"images/CachedBmp_594.png?1644170222858", id:"CachedBmp_594"},
-		{src:"images/CachedBmp_593.png?1644170222858", id:"CachedBmp_593"},
-		{src:"images/CachedBmp_581.png?1644170222858", id:"CachedBmp_581"},
-		{src:"images/CachedBmp_579.png?1644170222858", id:"CachedBmp_579"},
-		{src:"images/CachedBmp_577.png?1644170222858", id:"CachedBmp_577"},
-		{src:"images/CachedBmp_564.png?1644170222858", id:"CachedBmp_564"},
-		{src:"images/CachedBmp_563.png?1644170222858", id:"CachedBmp_563"},
-		{src:"images/CachedBmp_562.png?1644170222858", id:"CachedBmp_562"},
-		{src:"images/CachedBmp_561.png?1644170222858", id:"CachedBmp_561"},
-		{src:"images/CachedBmp_560.png?1644170222858", id:"CachedBmp_560"},
-		{src:"images/CachedBmp_559.png?1644170222858", id:"CachedBmp_559"},
-		{src:"images/CachedBmp_558.png?1644170222858", id:"CachedBmp_558"},
-		{src:"images/CachedBmp_557.png?1644170222858", id:"CachedBmp_557"},
-		{src:"images/CachedBmp_556.png?1644170222858", id:"CachedBmp_556"},
-		{src:"images/CachedBmp_555.png?1644170222858", id:"CachedBmp_555"},
-		{src:"images/CachedBmp_554.png?1644170222858", id:"CachedBmp_554"},
-		{src:"images/CachedBmp_490.png?1644170222858", id:"CachedBmp_490"},
-		{src:"images/CachedBmp_491.png?1644170222858", id:"CachedBmp_491"},
-		{src:"images/CachedBmp_462.png?1644170222858", id:"CachedBmp_462"},
-		{src:"images/CachedBmp_460.png?1644170222858", id:"CachedBmp_460"},
-		{src:"images/CachedBmp_459.png?1644170222858", id:"CachedBmp_459"},
-		{src:"images/CachedBmp_705.png?1644170222858", id:"CachedBmp_705"},
-		{src:"images/CachedBmp_439.png?1644170222858", id:"CachedBmp_439"},
-		{src:"images/CachedBmp_438.png?1644170222858", id:"CachedBmp_438"},
-		{src:"images/CachedBmp_437.png?1644170222858", id:"CachedBmp_437"},
-		{src:"images/CachedBmp_424.png?1644170222858", id:"CachedBmp_424"},
-		{src:"images/CachedBmp_423.png?1644170222858", id:"CachedBmp_423"},
-		{src:"images/CachedBmp_422.png?1644170222858", id:"CachedBmp_422"},
-		{src:"images/CachedBmp_419.png?1644170222858", id:"CachedBmp_419"},
-		{src:"images/2Chineese_atlas_1.png?1644170221260", id:"2Chineese_atlas_1"},
-		{src:"images/2Chineese_atlas_2.png?1644170221260", id:"2Chineese_atlas_2"},
-		{src:"images/2Chineese_atlas_3.png?1644170221260", id:"2Chineese_atlas_3"},
-		{src:"images/2Chineese_atlas_4.png?1644170221260", id:"2Chineese_atlas_4"},
-		{src:"images/2Chineese_atlas_5.png?1644170221260", id:"2Chineese_atlas_5"},
-		{src:"images/2Chineese_atlas_6.png?1644170221260", id:"2Chineese_atlas_6"},
-		{src:"images/2Chineese_atlas_7.png?1644170221261", id:"2Chineese_atlas_7"},
-		{src:"images/2Chineese_atlas_8.png?1644170221261", id:"2Chineese_atlas_8"},
-		{src:"images/2Chineese_atlas_9.png?1644170221261", id:"2Chineese_atlas_9"},
-		{src:"images/2Chineese_atlas_10.png?1644170221261", id:"2Chineese_atlas_10"},
-		{src:"images/2Chineese_atlas_11.png?1644170221264", id:"2Chineese_atlas_11"},
-		{src:"images/2Chineese_atlas_12.png?1644170221265", id:"2Chineese_atlas_12"},
-		{src:"images/2Chineese_atlas_13.png?1644170221265", id:"2Chineese_atlas_13"},
-		{src:"images/2Chineese_atlas_14.png?1644170221266", id:"2Chineese_atlas_14"},
-		{src:"images/2Chineese_atlas_15.png?1644170221266", id:"2Chineese_atlas_15"},
-		{src:"images/2Chineese_atlas_16.png?1644170221266", id:"2Chineese_atlas_16"},
-		{src:"images/2Chineese_atlas_17.png?1644170221267", id:"2Chineese_atlas_17"},
-		{src:"images/2Chineese_atlas_18.png?1644170221267", id:"2Chineese_atlas_18"},
-		{src:"images/2Chineese_atlas_19.png?1644170221267", id:"2Chineese_atlas_19"},
-		{src:"images/2Chineese_atlas_20.png?1644170221268", id:"2Chineese_atlas_20"},
-		{src:"images/2Chineese_atlas_21.png?1644170221268", id:"2Chineese_atlas_21"},
-		{src:"images/2Chineese_atlas_22.png?1644170221268", id:"2Chineese_atlas_22"},
-		{src:"images/2Chineese_atlas_23.png?1644170221269", id:"2Chineese_atlas_23"},
-		{src:"images/2Chineese_atlas_24.png?1644170221269", id:"2Chineese_atlas_24"},
-		{src:"images/2Chineese_atlas_25.png?1644170221270", id:"2Chineese_atlas_25"},
-		{src:"images/2Chineese_atlas_26.png?1644170221270", id:"2Chineese_atlas_26"},
-		{src:"images/2Chineese_atlas_27.png?1644170221270", id:"2Chineese_atlas_27"},
-		{src:"images/2Chineese_atlas_28.png?1644170221271", id:"2Chineese_atlas_28"},
-		{src:"images/2Chineese_atlas_29.png?1644170221272", id:"2Chineese_atlas_29"},
-		{src:"images/2Chineese_atlas_30.png?1644170221272", id:"2Chineese_atlas_30"},
-		{src:"images/2Chineese_atlas_31.png?1644170221272", id:"2Chineese_atlas_31"},
-		{src:"images/2Chineese_atlas_32.png?1644170221273", id:"2Chineese_atlas_32"},
-		{src:"images/2Chineese_atlas_33.png?1644170221273", id:"2Chineese_atlas_33"},
-		{src:"sounds/clickSound.mp3?1644170222858", id:"clickSound"},
-		{src:"sounds/failure.mp3?1644170222858", id:"failure"},
-		{src:"sounds/failureManSound.mp3?1644170222858", id:"failureManSound"},
-		{src:"sounds/lotterySound.mp3?1644170222858", id:"lotterySound"},
-		{src:"sounds/mainMusic.mp3?1644170222858", id:"mainMusic"},
-		{src:"sounds/startScene.mp3?1644170222858", id:"startScene"},
-		{src:"sounds/success.mp3?1644170222858", id:"success"},
-		{src:"sounds/successManSound.mp3?1644170222858", id:"successManSound"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1644170222858", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1644170222858", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1644170222858", id:"an.TextInput"},
-		{src:"components/ui/src/css.js?1644170222858", id:"an.CSS"},
-		{src:"components/ui/src/combobox.js?1644170222858", id:"an.ComboBox"}
+		{src:"images/CachedBmp_836.png?1644177757697", id:"CachedBmp_836"},
+		{src:"images/CachedBmp_835.png?1644177757697", id:"CachedBmp_835"},
+		{src:"images/CachedBmp_708.png?1644177757697", id:"CachedBmp_708"},
+		{src:"images/CachedBmp_707.png?1644177757697", id:"CachedBmp_707"},
+		{src:"images/CachedBmp_704.png?1644177757697", id:"CachedBmp_704"},
+		{src:"images/CachedBmp_703.png?1644177757697", id:"CachedBmp_703"},
+		{src:"images/CachedBmp_702.png?1644177757697", id:"CachedBmp_702"},
+		{src:"images/CachedBmp_700.png?1644177757697", id:"CachedBmp_700"},
+		{src:"images/CachedBmp_699.png?1644177757697", id:"CachedBmp_699"},
+		{src:"images/CachedBmp_698.png?1644177757697", id:"CachedBmp_698"},
+		{src:"images/CachedBmp_695.png?1644177757697", id:"CachedBmp_695"},
+		{src:"images/CachedBmp_694.png?1644177757697", id:"CachedBmp_694"},
+		{src:"images/CachedBmp_693.png?1644177757697", id:"CachedBmp_693"},
+		{src:"images/CachedBmp_681.png?1644177757697", id:"CachedBmp_681"},
+		{src:"images/CachedBmp_680.png?1644177757697", id:"CachedBmp_680"},
+		{src:"images/CachedBmp_679.png?1644177757697", id:"CachedBmp_679"},
+		{src:"images/CachedBmp_678.png?1644177757697", id:"CachedBmp_678"},
+		{src:"images/CachedBmp_672.png?1644177757697", id:"CachedBmp_672"},
+		{src:"images/CachedBmp_671.png?1644177757697", id:"CachedBmp_671"},
+		{src:"images/CachedBmp_665.png?1644177757697", id:"CachedBmp_665"},
+		{src:"images/CachedBmp_664.png?1644177757697", id:"CachedBmp_664"},
+		{src:"images/CachedBmp_663.png?1644177757697", id:"CachedBmp_663"},
+		{src:"images/CachedBmp_670.png?1644177757697", id:"CachedBmp_670"},
+		{src:"images/CachedBmp_657.png?1644177757697", id:"CachedBmp_657"},
+		{src:"images/CachedBmp_621.png?1644177757697", id:"CachedBmp_621"},
+		{src:"images/CachedBmp_620.png?1644177757697", id:"CachedBmp_620"},
+		{src:"images/CachedBmp_618.png?1644177757697", id:"CachedBmp_618"},
+		{src:"images/CachedBmp_615.png?1644177757697", id:"CachedBmp_615"},
+		{src:"images/CachedBmp_613.png?1644177757697", id:"CachedBmp_613"},
+		{src:"images/CachedBmp_611.png?1644177757697", id:"CachedBmp_611"},
+		{src:"images/CachedBmp_609.png?1644177757697", id:"CachedBmp_609"},
+		{src:"images/CachedBmp_607.png?1644177757698", id:"CachedBmp_607"},
+		{src:"images/CachedBmp_605.png?1644177757698", id:"CachedBmp_605"},
+		{src:"images/CachedBmp_617.png?1644177757698", id:"CachedBmp_617"},
+		{src:"images/CachedBmp_603.png?1644177757698", id:"CachedBmp_603"},
+		{src:"images/CachedBmp_602.png?1644177757698", id:"CachedBmp_602"},
+		{src:"images/CachedBmp_601.png?1644177757698", id:"CachedBmp_601"},
+		{src:"images/CachedBmp_600.png?1644177757698", id:"CachedBmp_600"},
+		{src:"images/CachedBmp_599.png?1644177757698", id:"CachedBmp_599"},
+		{src:"images/CachedBmp_598.png?1644177757698", id:"CachedBmp_598"},
+		{src:"images/CachedBmp_597.png?1644177757698", id:"CachedBmp_597"},
+		{src:"images/CachedBmp_596.png?1644177757698", id:"CachedBmp_596"},
+		{src:"images/CachedBmp_595.png?1644177757698", id:"CachedBmp_595"},
+		{src:"images/CachedBmp_594.png?1644177757698", id:"CachedBmp_594"},
+		{src:"images/CachedBmp_593.png?1644177757698", id:"CachedBmp_593"},
+		{src:"images/CachedBmp_581.png?1644177757698", id:"CachedBmp_581"},
+		{src:"images/CachedBmp_579.png?1644177757698", id:"CachedBmp_579"},
+		{src:"images/CachedBmp_577.png?1644177757698", id:"CachedBmp_577"},
+		{src:"images/CachedBmp_564.png?1644177757698", id:"CachedBmp_564"},
+		{src:"images/CachedBmp_563.png?1644177757698", id:"CachedBmp_563"},
+		{src:"images/CachedBmp_562.png?1644177757698", id:"CachedBmp_562"},
+		{src:"images/CachedBmp_561.png?1644177757698", id:"CachedBmp_561"},
+		{src:"images/CachedBmp_560.png?1644177757698", id:"CachedBmp_560"},
+		{src:"images/CachedBmp_559.png?1644177757698", id:"CachedBmp_559"},
+		{src:"images/CachedBmp_558.png?1644177757698", id:"CachedBmp_558"},
+		{src:"images/CachedBmp_557.png?1644177757698", id:"CachedBmp_557"},
+		{src:"images/CachedBmp_556.png?1644177757698", id:"CachedBmp_556"},
+		{src:"images/CachedBmp_555.png?1644177757698", id:"CachedBmp_555"},
+		{src:"images/CachedBmp_554.png?1644177757698", id:"CachedBmp_554"},
+		{src:"images/CachedBmp_490.png?1644177757698", id:"CachedBmp_490"},
+		{src:"images/CachedBmp_491.png?1644177757698", id:"CachedBmp_491"},
+		{src:"images/CachedBmp_462.png?1644177757698", id:"CachedBmp_462"},
+		{src:"images/CachedBmp_460.png?1644177757698", id:"CachedBmp_460"},
+		{src:"images/CachedBmp_459.png?1644177757698", id:"CachedBmp_459"},
+		{src:"images/CachedBmp_705.png?1644177757698", id:"CachedBmp_705"},
+		{src:"images/CachedBmp_439.png?1644177757698", id:"CachedBmp_439"},
+		{src:"images/CachedBmp_438.png?1644177757698", id:"CachedBmp_438"},
+		{src:"images/CachedBmp_437.png?1644177757698", id:"CachedBmp_437"},
+		{src:"images/CachedBmp_424.png?1644177757698", id:"CachedBmp_424"},
+		{src:"images/CachedBmp_423.png?1644177757698", id:"CachedBmp_423"},
+		{src:"images/CachedBmp_422.png?1644177757698", id:"CachedBmp_422"},
+		{src:"images/CachedBmp_419.png?1644177757698", id:"CachedBmp_419"},
+		{src:"images/2Chineese_atlas_1.png?1644177754439", id:"2Chineese_atlas_1"},
+		{src:"images/2Chineese_atlas_2.png?1644177754440", id:"2Chineese_atlas_2"},
+		{src:"images/2Chineese_atlas_3.png?1644177754441", id:"2Chineese_atlas_3"},
+		{src:"images/2Chineese_atlas_4.png?1644177754442", id:"2Chineese_atlas_4"},
+		{src:"images/2Chineese_atlas_5.png?1644177754442", id:"2Chineese_atlas_5"},
+		{src:"images/2Chineese_atlas_6.png?1644177754443", id:"2Chineese_atlas_6"},
+		{src:"images/2Chineese_atlas_7.png?1644177754444", id:"2Chineese_atlas_7"},
+		{src:"images/2Chineese_atlas_8.png?1644177754445", id:"2Chineese_atlas_8"},
+		{src:"images/2Chineese_atlas_9.png?1644177754445", id:"2Chineese_atlas_9"},
+		{src:"images/2Chineese_atlas_10.png?1644177754446", id:"2Chineese_atlas_10"},
+		{src:"images/2Chineese_atlas_11.png?1644177754447", id:"2Chineese_atlas_11"},
+		{src:"images/2Chineese_atlas_12.png?1644177754448", id:"2Chineese_atlas_12"},
+		{src:"images/2Chineese_atlas_13.png?1644177754449", id:"2Chineese_atlas_13"},
+		{src:"images/2Chineese_atlas_14.png?1644177754450", id:"2Chineese_atlas_14"},
+		{src:"images/2Chineese_atlas_15.png?1644177754451", id:"2Chineese_atlas_15"},
+		{src:"images/2Chineese_atlas_16.png?1644177754452", id:"2Chineese_atlas_16"},
+		{src:"images/2Chineese_atlas_17.png?1644177754453", id:"2Chineese_atlas_17"},
+		{src:"images/2Chineese_atlas_18.png?1644177754454", id:"2Chineese_atlas_18"},
+		{src:"images/2Chineese_atlas_19.png?1644177754455", id:"2Chineese_atlas_19"},
+		{src:"images/2Chineese_atlas_20.png?1644177754456", id:"2Chineese_atlas_20"},
+		{src:"images/2Chineese_atlas_21.png?1644177754457", id:"2Chineese_atlas_21"},
+		{src:"images/2Chineese_atlas_22.png?1644177754458", id:"2Chineese_atlas_22"},
+		{src:"images/2Chineese_atlas_23.png?1644177754460", id:"2Chineese_atlas_23"},
+		{src:"images/2Chineese_atlas_24.png?1644177754461", id:"2Chineese_atlas_24"},
+		{src:"images/2Chineese_atlas_25.png?1644177754462", id:"2Chineese_atlas_25"},
+		{src:"images/2Chineese_atlas_26.png?1644177754463", id:"2Chineese_atlas_26"},
+		{src:"images/2Chineese_atlas_27.png?1644177754465", id:"2Chineese_atlas_27"},
+		{src:"images/2Chineese_atlas_28.png?1644177754466", id:"2Chineese_atlas_28"},
+		{src:"images/2Chineese_atlas_29.png?1644177754468", id:"2Chineese_atlas_29"},
+		{src:"images/2Chineese_atlas_30.png?1644177754469", id:"2Chineese_atlas_30"},
+		{src:"images/2Chineese_atlas_31.png?1644177754471", id:"2Chineese_atlas_31"},
+		{src:"images/2Chineese_atlas_32.png?1644177754474", id:"2Chineese_atlas_32"},
+		{src:"images/2Chineese_atlas_33.png?1644177754481", id:"2Chineese_atlas_33"},
+		{src:"sounds/clickSound.mp3?1644177757698", id:"clickSound"},
+		{src:"sounds/failure.mp3?1644177757698", id:"failure"},
+		{src:"sounds/failureManSound.mp3?1644177757698", id:"failureManSound"},
+		{src:"sounds/lotterySound.mp3?1644177757698", id:"lotterySound"},
+		{src:"sounds/mainMusic.mp3?1644177757698", id:"mainMusic"},
+		{src:"sounds/startScene.mp3?1644177757698", id:"startScene"},
+		{src:"sounds/success.mp3?1644177757698", id:"success"},
+		{src:"sounds/successManSound.mp3?1644177757698", id:"successManSound"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1644177757698", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1644177757698", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1644177757698", id:"an.TextInput"},
+		{src:"components/ui/src/css.js?1644177757698", id:"an.CSS"},
+		{src:"components/ui/src/combobox.js?1644177757698", id:"an.ComboBox"}
 	],
 	preloads: []
 };
