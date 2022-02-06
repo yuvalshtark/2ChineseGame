@@ -2,7 +2,7 @@
 
 #comboBox{
     direction: rtl;
-    font-size: 28px;
+    font-size: 27px;
     text-align: center;
     font-family: 'Assistant';
     border-radius: 0.2em;
@@ -23,7 +23,7 @@
 
 #inputText, #inputText2{
 direction: rtl;
-font-size: 35px;
+font-size: 34px;
 text-align: center;
 font-family: 'Assistant';
 border-radius: 0.5em;

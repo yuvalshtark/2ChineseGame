@@ -27,6 +27,7 @@ iframe {
     position: absolute;
     top: 0;
     width: 100%;
+    z-index: 1;
 }
 
 #gameArea {
@@ -224,11 +225,57 @@ width: 170px;
     display: block;
 }
 
+#titlehowToPlay{
+    font-size: 30pt;
+    margin-top: -50px;
+    color:#7c020c;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+#pText{
+    width: 650px;
+    margin-right: 60px;
+    font-size: 14pt;
+    margin-top: -3px;
+}
+.howToPlayText{
+    text-align: right;
+    margin-right: 190px;
+    width: 500px;
+    margin-bottom: 30px;
+    font-size: 12pt;
+    font-weight: 600;
+}
+
+#howToPlayTextArrows{
+transform: translateY(5px);
+display: block;
+}
+
+#howToPlayTextSpace{
+transform: translateY(11px);
+}
+
+#howToPlayTextPause{
+transform: translateY(36px);
+}
+
+#howToPlayTextMagnifyingGlass{
+transform: translateY(63px);
+}
+
+#howToPlayLastText{
+    margin-top: 78px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 18pt;
+
+}
 .closeHowToPlay{
     height: 40px;
     width: 40px;
     margin-right: 730px;
-    margin-top: 20px;
+    margin-top: 14px;
     cursor: pointer;
     filter: drop-shadow(0 0 0.50rem rgba(5, 5, 5, 0.342));
 }
@@ -240,6 +287,14 @@ width: 170px;
     animation-duration: 1s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
+}
+
+#loadingText{
+    text-align: center;
+    margin-top: 360px;
+    color:#7c020c;
+    font-size: 30pt;
+    z-index: 2;
 }
 
 @-webkit-keyframes bounceInDown {

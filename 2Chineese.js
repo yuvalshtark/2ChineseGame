@@ -18,29 +18,29 @@ lib.ssMetadata = [
 		{name:"2Chineese_atlas_8", frames: [[0,0,1160,965],[0,967,1160,965]]},
 		{name:"2Chineese_atlas_9", frames: [[0,0,1160,965],[0,967,1160,965]]},
 		{name:"2Chineese_atlas_10", frames: [[0,0,1160,965],[0,967,1160,965]]},
-		{name:"2Chineese_atlas_11", frames: [[0,0,1160,965],[0,967,1280,853]]},
-		{name:"2Chineese_atlas_12", frames: [[0,855,1155,945],[0,0,1280,853]]},
+		{name:"2Chineese_atlas_11", frames: [[1981,198,46,21],[1999,811,47,15],[1785,1259,95,60],[1408,328,55,60],[150,747,55,60],[150,809,55,60],[150,871,55,60],[710,1132,55,60],[1850,1342,55,60],[1341,1383,55,60],[1398,1383,55,60],[1455,1383,55,60],[1907,1386,55,60],[1964,1386,55,60],[0,1392,55,60],[57,1392,55,60],[114,1392,55,60],[171,1392,55,60],[228,1392,55,57],[285,1392,55,57],[342,1392,55,57],[1055,913,47,36],[1136,688,206,171],[1344,688,38,22],[1104,913,56,30],[360,724,70,36],[1654,391,37,26],[658,856,27,22],[995,913,58,37],[1494,840,160,160],[1656,960,160,160],[1818,960,160,160],[150,961,160,160],[312,1084,129,130],[210,582,259,140],[0,171,369,155],[371,171,369,155],[742,171,369,155],[1113,171,369,155],[658,780,83,74],[1686,1259,97,62],[1980,1044,63,76],[76,1260,63,76],[434,1266,63,76],[499,1266,63,76],[564,1266,63,76],[629,1266,63,76],[872,1305,63,76],[937,1305,63,76],[1002,1305,63,76],[1067,1305,63,76],[1132,1305,63,76],[1197,1305,63,76],[1262,1305,63,76],[1327,1305,63,76],[1392,1305,63,76],[1457,1305,63,76],[1785,1321,63,76],[845,562,61,82],[845,646,61,82],[1980,960,61,82],[1981,113,62,83],[312,964,173,118],[487,964,173,118],[662,964,173,118],[1384,1002,173,118],[1960,1252,61,81],[196,1257,61,81],[1882,1259,61,81],[371,1216,61,82],[1494,715,141,119],[0,984,141,119],[969,1031,141,119],[1112,1031,141,119],[196,1123,87,132],[443,1132,87,132],[532,1132,87,132],[621,1132,87,132],[1687,1122,89,135],[1778,1122,89,135],[1869,1122,89,135],[105,1123,89,135],[1344,715,148,235],[210,724,148,235],[845,733,148,235],[0,747,148,235],[1579,1253,105,77],[1947,225,75,177],[1704,171,27,45],[1885,420,145,245],[1462,952,27,45],[1638,593,145,245],[1960,1122,85,128],[749,780,89,141],[1785,836,252,122],[1945,1335,81,49],[360,885,387,77],[995,952,387,77],[872,1291,677,12],[1384,952,76,44],[1750,0,229,223],[0,328,1406,34],[1785,667,212,167],[2029,198,4,67],[0,0,348,169],[76,1344,445,10],[0,1356,445,10],[1999,667,35,95],[1981,0,63,111],[432,724,35,29],[1199,913,34,28],[1235,913,34,28],[1162,913,35,29],[2035,198,13,11],[1733,171,15,12],[1733,185,15,12],[1733,199,15,12],[2024,267,15,12],[2024,281,15,12],[2024,295,15,12],[2024,309,15,12],[893,1152,89,126],[1656,840,121,118],[0,1105,103,129],[796,1222,74,113],[984,1152,89,126],[770,1102,121,118],[1582,1122,103,129],[0,1236,74,113],[1407,1170,84,119],[1559,1002,89,118],[1493,1170,84,119],[1166,1170,117,88],[285,1216,84,119],[1075,1152,89,118],[1999,764,45,45],[710,1222,84,119],[1255,1031,118,88],[893,1102,45,45],[360,768,296,115],[1785,593,90,71],[1704,225,241,193],[1142,364,254,162],[1142,528,246,158],[1654,420,229,171],[471,580,194,186],[675,562,168,216],[243,364,215,216],[1484,171,218,218],[460,364,213,214],[0,559,208,186],[908,560,226,171],[1390,555,246,158],[1398,391,254,162],[0,364,241,193],[675,364,231,196],[908,364,232,194],[995,865,325,46],[443,1084,325,46],[1255,1122,325,46],[350,0,348,169],[700,0,348,169],[0,1368,445,10],[0,1380,445,10],[1050,0,348,169],[1400,0,348,169],[447,1383,445,10],[894,1383,445,10],[1686,1323,68,70],[995,733,130,130],[1522,1332,68,70],[837,970,130,130],[1285,1170,120,85],[1592,1332,72,64]]},
+		{name:"2Chineese_atlas_12", frames: [[0,1405,218,380],[1410,1615,218,380],[698,1616,218,380],[220,1618,218,380],[440,1618,218,380],[579,509,346,179],[1043,1615,365,291],[1474,0,504,251],[1474,253,504,251],[0,256,504,251],[506,256,504,251],[1012,295,353,182],[1012,506,577,214],[0,509,577,214],[579,722,577,214],[1158,722,577,214],[1043,1278,727,154],[1043,1434,594,179],[1630,1738,348,169],[1037,0,435,293],[1737,506,292,326],[698,1278,343,336],[702,938,347,338],[1051,938,347,338],[1400,938,347,338],[0,1065,347,338],[0,725,349,338],[349,1278,347,338],[351,938,349,338],[1639,1434,352,302],[1749,834,277,309],[0,0,1035,126],[0,128,1035,126]]},
 		{name:"2Chineese_atlas_13", frames: [[0,0,1155,945],[0,947,1155,945]]},
 		{name:"2Chineese_atlas_14", frames: [[0,0,1121,897],[0,899,1121,896]]},
-		{name:"2Chineese_atlas_15", frames: [[0,806,941,915],[1086,0,941,916],[0,0,1084,804]]},
-		{name:"2Chineese_atlas_16", frames: [[0,746,1140,738],[0,0,1144,744]]},
-		{name:"2Chineese_atlas_17", frames: [[1059,0,950,698],[0,1370,926,673],[0,665,926,703],[0,0,1057,663],[928,700,640,960]]},
+		{name:"2Chineese_atlas_15", frames: [[1116,0,407,363],[342,675,409,365],[451,313,431,360],[1443,1684,406,339],[1525,0,413,345],[0,313,449,360],[0,1684,479,288],[481,1684,479,288],[0,675,340,458],[0,1604,1809,78],[0,160,1114,151],[0,0,1114,158],[962,1684,479,288],[753,1034,1035,126],[753,901,1036,131],[333,1162,1035,126],[884,365,1035,132],[333,1290,1035,126],[884,499,1035,132],[333,1418,1035,126],[884,633,1035,132],[753,767,1035,132],[0,1135,331,467]]},
+		{name:"2Chineese_atlas_16", frames: [[858,1283,503,523],[1363,1259,503,511],[1284,855,640,402],[642,857,640,424],[0,1287,427,640],[429,1287,427,640],[0,0,640,427],[642,429,640,426],[642,0,640,427],[1284,0,640,427],[0,429,640,427],[0,858,640,427],[1284,429,640,424]]},
+		{name:"2Chineese_atlas_17", frames: [[0,495,685,413],[602,0,685,413],[687,415,685,413],[1289,0,685,413],[687,830,685,413],[0,910,685,413],[687,1245,685,413],[1374,415,640,427],[1374,844,640,427],[1374,1273,640,427],[0,0,600,493],[0,1325,600,467]]},
 		{name:"2Chineese_atlas_18", frames: [[0,0,926,626],[928,0,789,717],[0,628,789,717],[791,719,789,717],[0,1438,1451,386]]},
 		{name:"2Chineese_atlas_19", frames: [[0,0,832,673],[834,0,774,717],[0,675,774,717],[776,719,774,717]]},
-		{name:"2Chineese_atlas_20", frames: [[0,0,774,717],[776,0,774,717],[0,719,774,717],[0,1574,1307,412],[776,719,640,853]]},
-		{name:"2Chineese_atlas_21", frames: [[1303,695,665,647],[0,1300,665,647],[667,1344,665,647],[1334,1344,665,647],[0,767,883,531],[661,0,640,706],[0,0,659,765],[1303,0,640,693]]},
-		{name:"2Chineese_atlas_22", frames: [[0,0,875,479],[877,0,640,640],[0,481,640,640],[0,1123,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
+		{name:"2Chineese_atlas_20", frames: [[1541,0,410,895],[0,1308,1779,177],[0,938,890,368],[638,0,901,420],[642,1487,600,503],[638,422,640,514],[0,1487,640,480],[1244,1487,600,501],[0,0,636,640]]},
+		{name:"2Chineese_atlas_21", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
+		{name:"2Chineese_atlas_22", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
 		{name:"2Chineese_atlas_23", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
-		{name:"2Chineese_atlas_24", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
-		{name:"2Chineese_atlas_25", frames: [[0,0,640,640],[0,642,640,640],[0,1284,640,640],[642,0,640,640],[1284,0,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
-		{name:"2Chineese_atlas_26", frames: [[1541,0,410,895],[0,1308,1779,177],[0,938,890,368],[638,0,901,420],[642,1487,600,503],[638,422,640,514],[0,1487,640,480],[1244,1487,600,501],[0,0,636,640]]},
-		{name:"2Chineese_atlas_27", frames: [[0,495,685,413],[602,0,685,413],[687,415,685,413],[1289,0,685,413],[687,830,685,413],[0,910,685,413],[687,1245,685,413],[1374,415,640,427],[1374,844,640,427],[1374,1273,640,427],[0,0,600,493],[0,1325,600,467]]},
-		{name:"2Chineese_atlas_28", frames: [[858,1283,503,523],[1363,1259,503,511],[1284,855,640,402],[642,857,640,424],[0,1287,427,640],[429,1287,427,640],[0,0,640,427],[642,429,640,426],[642,0,640,427],[1284,0,640,427],[0,429,640,427],[0,858,640,427],[1284,429,640,424]]},
+		{name:"2Chineese_atlas_24", frames: [[0,0,875,479],[877,0,640,640],[0,481,640,640],[0,1123,640,640],[642,642,640,640],[642,1284,640,640],[1284,642,640,640],[1284,1284,640,640]]},
+		{name:"2Chineese_atlas_25", frames: [[1303,695,665,647],[0,1300,665,647],[667,1344,665,647],[1334,1344,665,647],[0,767,883,531],[661,0,640,706],[0,0,659,765],[1303,0,640,693]]},
+		{name:"2Chineese_atlas_26", frames: [[0,0,774,717],[776,0,774,717],[0,719,774,717],[0,1574,1307,412],[776,719,640,853]]},
+		{name:"2Chineese_atlas_27", frames: [[1059,0,950,698],[0,1370,926,673],[0,665,926,703],[0,0,1057,663],[928,700,640,960]]},
+		{name:"2Chineese_atlas_28", frames: [[0,746,1140,738],[0,0,1144,744]]},
 		{name:"2Chineese_atlas_29", frames: [[905,1636,468,379],[0,1078,426,471],[430,1636,473,398],[1117,0,618,372],[0,544,454,532],[0,0,457,542],[1102,578,606,353],[459,0,656,372],[456,578,644,333],[860,1115,1114,172],[860,1289,1114,172],[456,933,1113,180],[860,1463,1114,171],[459,374,1167,202],[0,1551,428,463],[430,1115,428,463]]},
 		{name:"2Chineese_atlas_30", frames: [[0,0,1114,158],[0,160,1114,158],[0,320,1114,158],[0,480,1114,158],[0,640,1114,158],[0,800,1114,158],[0,960,1114,158],[0,1120,1114,158],[0,1280,1114,158],[0,1440,1114,158],[0,1600,1114,158],[0,1760,1114,158]]},
-		{name:"2Chineese_atlas_31", frames: [[1116,0,407,363],[342,675,409,365],[451,313,431,360],[1443,1684,406,339],[1525,0,413,345],[0,313,449,360],[0,1684,479,288],[481,1684,479,288],[0,675,340,458],[0,1604,1809,78],[0,160,1114,151],[0,0,1114,158],[962,1684,479,288],[753,1034,1035,126],[753,901,1036,131],[333,1162,1035,126],[884,365,1035,132],[333,1290,1035,126],[884,499,1035,132],[333,1418,1035,126],[884,633,1035,132],[753,767,1035,132],[0,1135,331,467]]},
-		{name:"2Chineese_atlas_32", frames: [[0,1405,218,380],[1410,1615,218,380],[698,1616,218,380],[220,1618,218,380],[440,1618,218,380],[579,509,346,179],[1043,1615,365,291],[1474,0,504,251],[1474,253,504,251],[0,256,504,251],[506,256,504,251],[1012,295,353,182],[1012,506,577,214],[0,509,577,214],[579,722,577,214],[1158,722,577,214],[1043,1278,727,154],[1043,1434,594,179],[1630,1738,348,169],[1037,0,435,293],[1737,506,292,326],[698,1278,343,336],[702,938,347,338],[1051,938,347,338],[1400,938,347,338],[0,1065,347,338],[0,725,349,338],[349,1278,347,338],[351,938,349,338],[1639,1434,352,302],[1749,834,277,309],[0,0,1035,126],[0,128,1035,126]]},
-		{name:"2Chineese_atlas_33", frames: [[1981,198,46,21],[1999,811,47,15],[1785,1259,95,60],[1408,328,55,60],[150,747,55,60],[150,809,55,60],[150,871,55,60],[710,1132,55,60],[1850,1342,55,60],[1341,1383,55,60],[1398,1383,55,60],[1455,1383,55,60],[1907,1386,55,60],[1964,1386,55,60],[0,1392,55,60],[57,1392,55,60],[114,1392,55,60],[171,1392,55,60],[228,1392,55,57],[285,1392,55,57],[342,1392,55,57],[1055,913,47,36],[1136,688,206,171],[1344,688,38,22],[1104,913,56,30],[360,724,70,36],[1654,391,37,26],[658,856,27,22],[995,913,58,37],[1494,840,160,160],[1656,960,160,160],[1818,960,160,160],[150,961,160,160],[312,1084,129,130],[210,582,259,140],[0,171,369,155],[371,171,369,155],[742,171,369,155],[1113,171,369,155],[658,780,83,74],[1686,1259,97,62],[1980,1044,63,76],[76,1260,63,76],[434,1266,63,76],[499,1266,63,76],[564,1266,63,76],[629,1266,63,76],[872,1305,63,76],[937,1305,63,76],[1002,1305,63,76],[1067,1305,63,76],[1132,1305,63,76],[1197,1305,63,76],[1262,1305,63,76],[1327,1305,63,76],[1392,1305,63,76],[1457,1305,63,76],[1785,1321,63,76],[845,562,61,82],[845,646,61,82],[1980,960,61,82],[1981,113,62,83],[312,964,173,118],[487,964,173,118],[662,964,173,118],[1384,1002,173,118],[1960,1252,61,81],[196,1257,61,81],[1882,1259,61,81],[371,1216,61,82],[1494,715,141,119],[0,984,141,119],[969,1031,141,119],[1112,1031,141,119],[196,1123,87,132],[443,1132,87,132],[532,1132,87,132],[621,1132,87,132],[1687,1122,89,135],[1778,1122,89,135],[1869,1122,89,135],[105,1123,89,135],[1344,715,148,235],[210,724,148,235],[845,733,148,235],[0,747,148,235],[1579,1253,105,77],[1947,225,75,177],[1704,171,27,45],[1885,420,145,245],[1462,952,27,45],[1638,593,145,245],[1960,1122,85,128],[749,780,89,141],[1785,836,252,122],[1945,1335,81,49],[360,885,387,77],[995,952,387,77],[872,1291,677,12],[1384,952,76,44],[1750,0,229,223],[0,328,1406,34],[1785,667,212,167],[2029,198,4,67],[0,0,348,169],[76,1344,445,10],[0,1356,445,10],[1999,667,35,95],[1981,0,63,111],[432,724,35,29],[1199,913,34,28],[1235,913,34,28],[1162,913,35,29],[2035,198,13,11],[1733,171,15,12],[1733,185,15,12],[1733,199,15,12],[2024,267,15,12],[2024,281,15,12],[2024,295,15,12],[2024,309,15,12],[893,1152,89,126],[1656,840,121,118],[0,1105,103,129],[796,1222,74,113],[984,1152,89,126],[770,1102,121,118],[1582,1122,103,129],[0,1236,74,113],[1407,1170,84,119],[1559,1002,89,118],[1493,1170,84,119],[1166,1170,117,88],[285,1216,84,119],[1075,1152,89,118],[1999,764,45,45],[710,1222,84,119],[1255,1031,118,88],[893,1102,45,45],[360,768,296,115],[1785,593,90,71],[1704,225,241,193],[1142,364,254,162],[1142,528,246,158],[1654,420,229,171],[471,580,194,186],[675,562,168,216],[243,364,215,216],[1484,171,218,218],[460,364,213,214],[0,559,208,186],[908,560,226,171],[1390,555,246,158],[1398,391,254,162],[0,364,241,193],[675,364,231,196],[908,364,232,194],[995,865,325,46],[443,1084,325,46],[1255,1122,325,46],[350,0,348,169],[700,0,348,169],[0,1368,445,10],[0,1380,445,10],[1050,0,348,169],[1400,0,348,169],[447,1383,445,10],[894,1383,445,10],[1686,1323,68,70],[995,733,130,130],[1522,1332,68,70],[837,970,130,130],[1285,1170,120,85],[1592,1332,72,64]]}
+		{name:"2Chineese_atlas_31", frames: [[0,806,941,915],[1086,0,941,916],[0,0,1084,804]]},
+		{name:"2Chineese_atlas_32", frames: [[0,855,1155,945],[0,0,1280,853]]},
+		{name:"2Chineese_atlas_33", frames: [[0,0,1160,965],[0,967,1280,853]]}
 ];
 
 
@@ -147,63 +147,63 @@ p.nominalBounds = new cjs.Rectangle(0,0,3844,905);
 
 
 (lib.CachedBmp_832 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_831 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_830 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_829 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_828 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_827 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_826 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_825 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_824 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -217,147 +217,147 @@ p.nominalBounds = new cjs.Rectangle(0,0,3844,905);
 
 
 (lib.CachedBmp_822 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_821 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_820 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_819 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_818 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_817 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_816 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_815 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_814 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_813 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_812 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_811 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_810 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_809 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_808 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_807 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_806 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_805 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_804 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_803 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_802 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
@@ -371,182 +371,182 @@ p.nominalBounds = new cjs.Rectangle(0,0,3844,905);
 
 
 (lib.CachedBmp_800 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_799 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_798 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_797 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_796 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_795 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_794 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_793 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_792 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_790 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_788 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_786 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_791 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_784 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_783 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_782 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_781 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_780 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_779 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_778 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_777 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_776 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_775 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_774 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_773 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_772 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
@@ -560,434 +560,434 @@ p.nominalBounds = new cjs.Rectangle(0,0,3844,905);
 
 
 (lib.CachedBmp_770 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_769 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_768 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_767 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_766 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_765 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_764 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_763 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_762 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_761 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_760 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_759 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_758 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_757 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_756 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_755 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_754 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_753 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_752 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(56);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_751 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(57);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_750 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_749 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_748 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(60);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_747 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(61);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_746 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(62);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_745 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(63);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_744 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(64);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_743 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(65);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_742 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(66);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_741 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(67);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_740 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(68);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_739 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(69);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_738 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(70);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_737 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(71);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_736 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(72);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_735 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(73);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_734 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_733 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_732 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_731 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_730 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(74);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_729 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(75);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_728 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(76);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_727 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(77);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_726 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(78);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_725 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(79);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_724 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(80);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_723 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(81);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_722 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(82);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_721 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(83);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_720 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(84);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_719 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(85);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_718 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(86);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_717 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(87);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_716 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(88);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_715 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(89);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_714 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(90);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_713 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(91);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_712 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(92);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_711 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(93);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_710 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(94);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_709 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(95);
 }).prototype = p = new cjs.Sprite();
 
@@ -1006,7 +1006,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3072,28);
 
 
 (lib.CachedBmp_706 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
@@ -1031,7 +1031,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2757,437);
 
 
 (lib.CachedBmp_701 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(96);
 }).prototype = p = new cjs.Sprite();
 
@@ -1056,7 +1056,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3747,28);
 
 
 (lib.CachedBmp_697 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
@@ -1081,35 +1081,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 (lib.CachedBmp_692 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(97);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_691 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_690 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+(lib.CachedBmp_842 = function() {
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_689 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+(lib.CachedBmp_841 = function() {
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(98);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_688 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(99);
 }).prototype = p = new cjs.Sprite();
 
@@ -1122,29 +1122,29 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 
-(lib.CachedBmp_686 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+(lib.CachedBmp_840 = function() {
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_685 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_684 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(100);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_683 = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1182,21 +1182,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 (lib.CachedBmp_677 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_676 = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_675 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(101);
 }).prototype = p = new cjs.Sprite();
 
@@ -1210,7 +1210,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 (lib.CachedBmp_673 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(102);
 }).prototype = p = new cjs.Sprite();
 
@@ -1229,21 +1229,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3764,526);
 
 
 (lib.CachedBmp_669 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_667 = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_666 = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1274,21 +1274,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3975,696);
 
 
 (lib.CachedBmp_661 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_659 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_668 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
@@ -1301,35 +1301,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_656 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(103);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_655 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_654 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(104);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_653 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(105);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_651 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(106);
 }).prototype = p = new cjs.Sprite();
 
@@ -1343,7 +1343,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_648 = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1413,28 +1413,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_638 = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_637 = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_636 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_635 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1448,7 +1448,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_633 = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
@@ -1476,7 +1476,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_629 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
@@ -1490,28 +1490,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,3198,792);
 
 
 (lib.CachedBmp_627 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(107);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_626 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(108);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_625 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(109);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_624 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
@@ -1544,7 +1544,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,4032,1079);
 
 
 (lib.CachedBmp_619 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(110);
 }).prototype = p = new cjs.Sprite();
 
@@ -1557,7 +1557,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3001,701);
 
 
 (lib.CachedBmp_616 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(111);
 }).prototype = p = new cjs.Sprite();
 
@@ -1672,70 +1672,70 @@ p.nominalBounds = new cjs.Rectangle(0,0,3747,31);
 
 
 (lib.CachedBmp_592 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_591 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_590 = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_589 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_588 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_587 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_586 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_585 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_584 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_583 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
@@ -1755,7 +1755,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,4100,752);
 
 
 (lib.CachedBmp_580 = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
@@ -1768,49 +1768,49 @@ p.nominalBounds = new cjs.Rectangle(0,0,5517,1075);
 
 
 (lib.CachedBmp_578 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_576 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_574 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_572 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_570 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_568 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_566 = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
@@ -1889,196 +1889,196 @@ p.nominalBounds = new cjs.Rectangle(0,0,3980,1057);
 
 
 (lib.CachedBmp_553 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(112);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_552 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(113);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_551 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(114);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_550 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(115);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_549 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(116);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_548 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(117);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_547 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(118);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_546 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(119);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_545 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(120);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_544 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(121);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_543 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(122);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_542 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(123);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_541 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(124);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_540 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(125);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_539 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(126);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_538 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(127);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_537 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(128);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_536 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(129);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_534 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(130);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_532 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(131);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_530 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(132);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_528 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(133);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_526 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(134);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_533 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(135);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_524 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(136);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_522 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(137);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_535 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(138);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_520 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(139);
 }).prototype = p = new cjs.Sprite();
 
@@ -2106,7 +2106,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3980,1057);
 
 
 (lib.CachedBmp_516 = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -2134,119 +2134,119 @@ p.nominalBounds = new cjs.Rectangle(0,0,3980,1057);
 
 
 (lib.CachedBmp_512 = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_511 = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_510 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(140);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_509 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(141);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_508 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(142);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_507 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(143);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_506 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(144);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_505 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(145);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_504 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(146);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_503 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(147);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_502 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(148);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_501 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(149);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_500 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(150);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_499 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(151);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_498 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(152);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_497 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(153);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_496 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(154);
 }).prototype = p = new cjs.Sprite();
 
@@ -2267,14 +2267,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3980,1057);
 
 
 (lib.CachedBmp_493 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(155);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_492 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(156);
 }).prototype = p = new cjs.Sprite();
 
@@ -2293,14 +2293,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,279);
 
 
 (lib.CachedBmp_488 = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_487 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(157);
 }).prototype = p = new cjs.Sprite();
 
@@ -2405,7 +2405,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,279);
 
 
 (lib.CachedBmp_472 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
@@ -2426,35 +2426,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,279);
 
 
 (lib.CachedBmp_469 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_468 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(158);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_467 = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_466 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_465 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
@@ -2500,56 +2500,56 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,2202);
 
 
 (lib.CachedBmp_458 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(159);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_457 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(160);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_456 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(161);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_455 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(162);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_453 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(163);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_451 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(164);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_450 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(165);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_449 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(166);
 }).prototype = p = new cjs.Sprite();
 
@@ -2563,7 +2563,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,2202);
 
 
 (lib.CachedBmp_447 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(167);
 }).prototype = p = new cjs.Sprite();
 
@@ -2577,35 +2577,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,3913,2202);
 
 
 (lib.CachedBmp_445 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(168);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_444 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(169);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_443 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(170);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_442 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(171);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_441 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
@@ -2636,84 +2636,84 @@ p.nominalBounds = new cjs.Rectangle(0,0,3023,803);
 
 
 (lib.CachedBmp_436 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_435 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_434 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_433 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_432 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_431 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_430 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_429 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_428 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_427 = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_426 = function() {
-	this.initialize(ss["2Chineese_atlas_32"]);
+	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_425 = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(172);
 }).prototype = p = new cjs.Sprite();
 
@@ -2745,7 +2745,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3849,28);
 
 
 (lib.CachedBmp_420 = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
@@ -2758,91 +2758,91 @@ p.nominalBounds = new cjs.Rectangle(0,0,2251,137);
 
 
 (lib.alcedinidae = function() {
-	this.initialize(ss["2Chineese_atlas_11"]);
+	this.initialize(ss["2Chineese_atlas_33"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.autumn = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.cheese = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.chinaFlag = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.chinesePeople = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.chineseWall = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_0 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_1 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_10 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_11 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_12 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_13 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_14 = function() {
-	this.initialize(ss["2Chineese_atlas_22"]);
+	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
@@ -2912,315 +2912,315 @@ p.nominalBounds = new cjs.Rectangle(0,0,2251,137);
 
 
 (lib.confetti_23 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_24 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_25 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_26 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_27 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_28 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_29 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_3 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_30 = function() {
-	this.initialize(ss["2Chineese_atlas_24"]);
+	this.initialize(ss["2Chineese_atlas_22"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_31 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_32 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_33 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_4 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_5 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_6 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_7 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_8 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.confetti_9 = function() {
-	this.initialize(ss["2Chineese_atlas_25"]);
+	this.initialize(ss["2Chineese_atlas_21"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.dimSum = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.dragon = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.ear = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.eye = function() {
-	this.initialize(ss["2Chineese_atlas_15"]);
+	this.initialize(ss["2Chineese_atlas_31"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.groundsel = function() {
-	this.initialize(ss["2Chineese_atlas_31"]);
+	this.initialize(ss["2Chineese_atlas_15"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.theGoosePagoda = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.HotPepper = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.leshan = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.magnifire = function() {
-	this.initialize(ss["2Chineese_atlas_33"]);
+	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(173);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.motacilla = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.mountFuji = function() {
-	this.initialize(ss["2Chineese_atlas_16"]);
+	this.initialize(ss["2Chineese_atlas_28"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.pandaBear = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.passer = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.pelecanus = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.psittacula = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.rat = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.rice = function() {
-	this.initialize(ss["2Chineese_atlas_17"]);
+	this.initialize(ss["2Chineese_atlas_27"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.snake = function() {
-	this.initialize(ss["2Chineese_atlas_21"]);
+	this.initialize(ss["2Chineese_atlas_25"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.spring = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.summer = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.sun = function() {
-	this.initialize(ss["2Chineese_atlas_26"]);
+	this.initialize(ss["2Chineese_atlas_20"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.sunflower = function() {
-	this.initialize(ss["2Chineese_atlas_20"]);
+	this.initialize(ss["2Chineese_atlas_26"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.taracota = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.templeOfHeaven = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.turtle = function() {
-	this.initialize(ss["2Chineese_atlas_28"]);
+	this.initialize(ss["2Chineese_atlas_16"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.upupa = function() {
-	this.initialize(ss["2Chineese_atlas_12"]);
+	this.initialize(ss["2Chineese_atlas_32"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.winter = function() {
-	this.initialize(ss["2Chineese_atlas_27"]);
+	this.initialize(ss["2Chineese_atlas_17"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -5129,11 +5129,11 @@ if (reversed == null) { reversed = false; }
 	this.shape.setTransform(24.0438,40.3484);
 
 	this.shape_1 = new cjs.Shape();
-	this.shape_1.graphics.f().s("#AC040D").ss(0.4,1,0,4).p("AAAhZIAACzAgThZIAACXAgJhZIAACmAgdhZIAACKAAKhZIAACzAAehZIAACXAAUhZIAACm");
+	this.shape_1.graphics.f().s("#AC040D").ss(0.4,1,0,4).p("AAUhZIAACmAAehZIAACXAAKhZIAACzAgdhZIAACKAgJhZIAACmAgThZIAACXAAAhZIAACz");
 	this.shape_1.setTransform(24.075,71.4);
 
 	this.shape_2 = new cjs.Shape();
-	this.shape_2.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQACAAACAAIAAAAQACgBACAAIAHAAIABABIACAAIACAAQBAACAvAyQAxA0AABKQAABKgxA1QgiAkgrAMQgSAEgTABIgJAAQgHgBgGgBQgDgBgDgBQgggKgZgnQgig1AAhKQAAhKAig0QAdgtAngHgAgCiyIAFAAQABAAAAAAQAtACAfAyQAiA1AABJQAABKgiA0QgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQghg0AAhKQAAhJAhg1QAggyAugCgAgMiyQAEAAAGAAAAGiyQAEAAADAAQAnAHAdAtQAiA0AABKQAABKgiA1QgZAnggAKQgDABgDABQgGABgHABAgEC0QgTgBgSgEQgrgMgigkQgxg1AAhKQAAhKAxg0QAugyBAgCAgRCyQgIgBgHgBQgwgKgmgoQgxg0AAhKQAAhJAxg1QAtgvA9gFAANiyQA9AFAsAvQAxA1AABJQAABKgxA0QglAogwAKQgHABgIABQgFAAgGABAgICzQgFgBgEAA");
+	this.shape_2.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQAEAAAGAAIAFAAQABAAAAAAIACAAIACAAQBAACAvAyQAxA0AABKQAABKgxA1QgiAkgrAMQgSAEgTABIgJAAQgTgBgSgEQgrgMgigkQgxg1AAhKQAAhKAxg0QAugyBAgCIAAAAQACgBACAAIAHAAIABABQAtACAfAyQAiA1AABJQAABKgiA0QgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQghg0AAhKQAAhJAhg1QAggyAugCAgMiyQACAAACAAAAGiyQAEAAADAAQAnAHAdAtQAiA0AABKQAABKgiA1QgZAnggAKQgDABgDABQgFAAgGABAgRCyQgIgBgHgBQgwgKgmgoQgxg0AAhKQAAhJAxg1QAtgvA9gFAgRCyQgDgBgDgBQgggKgZgnQgig1AAhKQAAhKAig0QAdgtAngHAANiyQA9AFAsAvQAxA1AABJQAABKgxA0QglAogwAKQgHABgIABQgGABgHABAgICzQgFgBgEAAAgEC0QgHgBgGgB");
 	this.shape_2.setTransform(24.075,40.025);
 
 	this.shape_3 = new cjs.Shape();
@@ -5141,7 +5141,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_3.setTransform(24.05,8.75);
 
 	this.shape_4 = new cjs.Shape();
-	this.shape_4.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACIgNgCIAJABIACAAIABAAIAKAAIACAAIALgBIgNACgAASAAIAPgBIgPABIAGAAIgGAAIgLABIAMgBIgMABIgCAAIgKAAIgBAAIgCAAIgKgBIAKABIgJgBIgGAAIAGAAIgPgBIAPABIANACQgTAAgSgDIAJAAIAJABIAFAAIASAAIATAAIABAAIAEAAIAJgBIAJAAQgSADgTAAIANgCgAgRAAIAAAAgAgRAAIAAAAg");
+	this.shape_4.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACIgNgCIgGAAIAGAAIgPgBIAPABIANACQgTAAgSgDIAJAAIAJABIAFAAIASAAIATAAIABAAIAEAAIAJgBIAJAAQgSADgTAAIANgCIgNACgAAFABIACAAIALgBIgLABIAMgBIgMABIgCAAIgKAAIgBAAIgCAAIgKgBIAKABIACAAIABAAIAKAAgAgIABIgJgBIAJABgAASAAIAPgBIgPABIAGAAIgGAAIAAAAgAAHABIAAAAgAASAAIAAAAg");
 	this.shape_4.setTransform(24.075,57.75);
 
 	this.shape_5 = new cjs.Shape();
@@ -5149,23 +5149,23 @@ if (reversed == null) { reversed = false; }
 	this.shape_5.setTransform(24.075,40.2);
 
 	this.shape_6 = new cjs.Shape();
-	this.shape_6.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgpQghg0AAhLQAAhJAhg0QAggzAugCQguACggAzQghA0AABJQAABLAhA0QAbApAjAJIgFAAQgggKgZgnQgig1AAhLQAAhJAig1QAdgtAngGQg9AFgtAvQgxA0AABJQAABLAxA0QAmAnAwAKIgJgBQgrgLgigkQgxg1AAhLQAAhJAxg1QAugxBAgDIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIAFAAIABAAQAtADAfAyQAiA0AABJQAABLgiA0QgaApgiAJIgBAAIgTAAgAgMiwIAKgBIgKABIAEgBIgEABIAAAAIAAAAgAAUCyQAigJAagpQAig0AAhLQAAhJgig0QgfgygtgDIACAAIACAAQAnABAiAIQAyANAoAeIADACQBEA0AABHQAABIhEA0IgDACQgoAegyANQgTAFgUACQArgLAigkQAxg1AAhLQAAhJgxg1QgvgxhAgDQBAADAvAxQAxA1AABJQAABLgxA1QgiAkgrALIgJABQAwgKAlgnQAxg0AAhLQAAhJgxg0Qgsgvg9gFQAnAGAdAtQAiA1AABJQAABLgiA1QgZAnggAKIgEAAIAAAAgAANiwIgHgBIAHABgABRCBQAig1AAhLQAAhJgig1QgdgtgngGQA9AFAsAvQAxA0AABJQAABLgxA0QglAngwAKIgJABQAggKAZgngAggCxQgwgKgmgnQgxg0AAhLQAAhJAxg0QAtgvA9gFQgnAGgdAtQgiA1AABJQAABLAiA1QAZAnAgAKIgJgBgAAhCxIAAAAgAhQCpQgygNgpgeQgWgRgQgSIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQApgeAygNQAigIAmgBQhAADguAxQgxA1AABJQAABLAxA1QAiAkArALQgUgCgTgFgAAEixg");
+	this.shape_6.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgpQghg0AAhLQAAhJAhg0QAggzAugCQguACggAzQghA0AABJQAABLAhA0QAbApAjAJIgFAAQgggKgZgnQgig1AAhLQAAhJAig1QAdgtAngGQgnAGgdAtQgiA1AABJQAABLAiA1QAZAnAgAKIgJgBQgwgKgmgnQgxg0AAhLQAAhJAxg0QAtgvA9gFIAAAAIAAAAQg9AFgtAvQgxA0AABJQAABLAxA0QAmAnAwAKIgJgBQgrgLgigkQgxg1AAhLQAAhJAxg1QAugxBAgDIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIAFAAIABAAQAtADAfAyQAiA0AABJQAABLgiA0QgaApgiAJIgBAAIgTAAgAgMiwIAKgBIgKABIAEgBIgEABIAAAAgAAUCyQAigJAagpQAig0AAhLQAAhJgig0QgfgygtgDIACAAIACAAQAnABAiAIQAyANAoAeIADACQBEA0AABHQAABIhEA0IgDACQgoAegyANQgTAFgUACQArgLAigkQAxg1AAhLQAAhJgxg1QgvgxhAgDQBAADAvAxQAxA1AABJQAABLgxA1QgiAkgrALIgJABQAwgKAlgnQAxg0AAhLQAAhJgxg0Qgsgvg9gFQAnAGAdAtQAiA1AABJQAABLgiA1QgZAnggAKIgEAAIAAAAgAANiwIgHgBIAHABgABRCBQAig1AAhLQAAhJgig1QgdgtgngGQA9AFAsAvQAxA0AABJQAABLgxA0QglAngwAKIgJABQAggKAZgngAAhCxIAAAAgAhQCpQgygNgpgeQgWgRgQgSIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQApgeAygNQAigIAmgBQhAADguAxQgxA1AABJQAABLAxA1QAiAkArALQgUgCgTgFgAgMiwIAAAAgAAEixg");
 	this.shape_6.setTransform(24.075,39.875);
 
 	this.shape_7 = new cjs.Shape();
-	this.shape_7.graphics.f().s("#FFFFFF").ss(0.3).p("AgRCyQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QADgDADgDIAKgJQAIgGAHgFIATgLQABAAAAAAQABAAAAgBQABAAAAAAQABAAAAgBQALgEAMgDQAAgBABAAQABAAABgBQABAAAAAAQABAAABAAQAKgDAKAAQACgBABAAIAAAAQACAAACAAIAAAAQACgBACAAIAHAAIABABIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgHgBgGgBQgDgBgDgBQgggKgZgnQgBgBAAAAQgBgBAAAAQgIgOgHgQQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFAgCiyIAFAAQABAAAAAAQAhACAZAbQAKAKAIANQAiA1AABJQAAASgCARQgEAcgJAZQgBADgBAEQgEAJgFAJQgCAFgDAFQgCACgBABQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgEAAAgMiyQAEAAAGAAAAGiyQAEAAADAAQABAAABABQABAAABAAQAVACATAHQABABABAAQAAAAABAAIAYANQAHAEAGAFIAQAOQADACACADQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgGABgHABAhxALQAAgFAAgGQAAhJAhg1QAJgNAJgKQAagcAigBAgEC0QgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCAA/iVQAJAKAJANQAiA0AABKQAAAGAAAHQgBABAAACQAAAGgBAFABSB+QgBAAAAABQgZAnggAKQgDABgDABQgFAAgGABAgICzQgFgBgFgBQgjgJgbgqQAAAAgBgBQAAgBgBgB");
+	this.shape_7.graphics.f().s("#FFFFFF").ss(0.3).p("AgRCyQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QADgDADgDIAKgJQAIgGAHgFIATgLQABAAAAAAQABAAAAgBQABAAAAAAQABAAAAgBQALgEAMgDQAAgBABAAQABAAABgBQABAAAAAAQABAAABAAQAKgDAKAAQACgBABAAIAAAAQAEAAAGAAIAFAAQABAAAAAAIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCIAAAAQACgBACAAIAHAAIABABQAhACAZAbQAKAKAIANQAiA1AABJQAAASgCARQgEAcgJAZQgBADgBAEQgEAJgFAJQgCAFgDAFQgCACgBABQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQAAAAgBgBQAAgBgBgBAgMiyQACAAACAAAAGiyQAEAAADAAQABAAABABQABAAABAAQAVACATAHQABABABAAQAAAAABAAIAYANQAHAEAGAFIAQAOQADACACADQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgFAAgGABAgRCyQgDgBgDgBQgggKgZgnQgBgBAAAAQgBgBAAAAQgIgOgHgQQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFAhxALQAAgFAAgGQAAhJAhg1QAJgNAJgKQAagcAigBAA/iVQAJAKAJANQAiA0AABKQAAAGAAAHQgBABAAACQAAAGgBAFABSB+QgBAAAAABQgZAnggAKQgDABgDABQgGABgHABAgICzQgFgBgEAAAgEC0QgHgBgGgB");
 	this.shape_7.setTransform(24.075,40.025);
 
 	this.shape_8 = new cjs.Shape();
-	this.shape_8.graphics.lf(["#FF8051","#FFC67A"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgqIgBgBIgBgBIgLgWIgDgHIgEgKIgNhKIAAgLQAAhJAhg0QAJgOAJgKQAagcAigBIAFAAIABAAQAhACAZAbQAKAKAIAOQAiA0AABJQAAASgCARQgEAdgJAYIgCAHIgJASIgFAKIgDADQgaAqgiAJIgBAAIgTAAgABRCAIABgBQAJgPAGgQIABgCIABgFQAJgYAEgdIABgIIABgLIAAgDIABgNQAAhJgig1QgJgNgJgKQgWgXgagFIABAAQAWACATAHIACABIABAAIAYANIAIAFIAFAEIAQAOIAFAGQAxA0AABJQAAA1gZAqQgKARgOAOQglAogwAKIgJABQAggKAZgogAggCxQgwgKgmgoQgOgOgKgRQgZgqAAg1QAAhJAxg0IAGgHIAKgJIALgIIAFgDIASgKIABgBIABAAIABgBIABAAQALgFAMgDIABgBIACAAIABAAIACgBIAVgDIACgBQgcAFgXAYQgJAKgIANQgiA1AABJQAAA1ARAqQAHAQAIAOIABABIABABQAZAoAgAKIgJgBgAB3CAQAOgPAKgRQAZgqAAg1QAAhJgxg1QgNgNgNgKQgmgbgvgCQAnABAiAIQAcAHAZANQAUAKARANIADACQBEAzAABIQAAA2glAqQgNAPgSANIgDACQgoAegyANQgTAFgUACQArgLAiglgAhQCpQgygNgpgeQgTgOgOgQIgFgFIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQASgNAUgKQAZgNAcgHQAigIAmgBQgvACglAbQgOAKgMANQgxA1AABJQAAA1AZAqQAKARAOAPQAiAlArALQgUgCgTgFgABjBZIAAAAg");
+	this.shape_8.graphics.lf(["#FF8051","#FFC67A"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgqIgBgBIgBgBIgLgWIgDgHIgEgKIgNhKIAAgLQAAhJAhg0QAJgOAJgKQAagcAigBIAFAAIABAAQAhACAZAbQAKAKAIAOQAiA0AABJQAAASgCARIABgIIABgLIAAgDIABgNQAAhJgig1QgJgNgJgKQgWgXgagFIABAAQAWACATAHIACABIABAAIAYANIAIAFIAFAEIAQAOIAFAGQAxA0AABJQAAA1gZAqQgKARgOAOQglAogwAKIgJABQAggKAZgoIABgBQAJgPAGgQIABgCIABgFQAJgYAEgdQgEAdgJAYIgCAHIgJASIgFAKIgDADQgaAqgiAJIgBAAIgTAAgAggCxQgwgKgmgoQgOgOgKgRQgZgqAAg1QAAhJAxg0IAGgHIAKgJIALgIIAFgDIASgKIABgBIABAAIABgBIABAAQALgFAMgDIABgBIACAAIABAAIACgBIAVgDIACgBQgcAFgXAYQgJAKgIANQgiA1AABJQAAA1ARAqQAHAQAIAOIABABIABABQAZAoAgAKIgJgBgAB3CAQAOgPAKgRQAZgqAAg1QAAhJgxg1QgNgNgNgKQgmgbgvgCQAnABAiAIQAcAHAZANQAUAKARANIADACQBEAzAABIQAAA2glAqQgNAPgSANIgDACQgoAegyANQgTAFgUACQArgLAiglgAhQCpQgygNgpgeQgTgOgOgQIgFgFIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQASgNAUgKQAZgNAcgHQAigIAmgBQgvACglAbQgOAKgMANQgxA1AABJQAAA1AZAqQAKARAOAPQAiAlArALQgUgCgTgFg");
 	this.shape_8.setTransform(24.075,39.9);
 
 	this.shape_9 = new cjs.Shape();
-	this.shape_9.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACQgTAAgSgDIAJAAIAPABIANACIgNgCIAJABIgKgBIAKABIgJgBIgGAAIAFAAIASAAIATAAIABAAIAEAAIgGAAIAGAAIAJgBIgPABIAPgBIAJAAQgSADgTAAIANgCIgLABIALgBIgNACgAgFABIAKAAIACAAIgCAAIgKAAIgBAAIgCAAIACAAIAAAAIABAAgAAHABIAMgBIgMABgAgggBIAJABIAGAAIgPgBgAgggBIAAAAg");
+	this.shape_9.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACIgNgCIgGAAIAGAAIgPgBIAPABIANACQgTAAgSgDIAJAAIAJABIAFAAIAKABIgJgBIAJABIACAAIABAAIAKAAIACAAIgCAAIgKAAIgBAAIgCAAIgKgBIASAAIATAAIABAAIAEAAIAJgBIgPABIAGAAIgGAAIgLABIAMgBIgMABIALgBIgNACgAASAAIAPgBIAJAAQgSADgTAAIANgCgAAHABIAAAAgAASAAIAAAAg");
 	this.shape_9.setTransform(24.075,57.75);
 
 	this.shape_10 = new cjs.Shape();
-	this.shape_10.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AgXCyQgggKgZgnIgBgCIgBgBQgIgOgHgQQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEIAAAAIAAAAIgCAAIgVADIgCABIgBAAIgCABIgBAAQgMADgLAFIgBAAIgBABIgBAAIgBABIgSAKIgQALIgKAJIgGAHQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIgKABIAEgBIgEABIAKgBQgiACgaAbQgJAKgJAOQghA0AABJIAAAMIANBKIAEAJIADAHIALAWIABABIABACQAbApAjAJIgFAAgABQCAIADgEIAFgKIAJgSIACgGIgBAEIgBACQgGAQgJAPIgBACQgZAnggAKIgEAAQAigJAagpgAB2CAQAOgPAKgRQAZgqAAg1QAAhJgxg0IgFgGIgQgOIgNgJIgYgMIgBgBIgCAAQgTgIgWgCIgBAAIgCAAIgHgBIAHABIACAAQAaAFAWAXQAJAKAJANQAiA1AABJIgBAOIAAACIgBAMIgBAHQACgRAAgSQAAhJgig0QgIgOgKgKQgZgbghgCIACAAIACAAQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgngAgMiwIAAAAgAgCixIAAAAg");
+	this.shape_10.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AgXCyQgggKgZgnIgBgCIgBgBQgIgOgHgQQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEIAAAAIAAAAIgCAAIgVADIgCABIgBAAIgCABIgBAAQgMADgLAFIgBAAIgBABIgBAAIgBABIgSAKIgQALIgKAJIgGAHQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIgEABIAEgBIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIgKABIAKgBQgiACgaAbQgJAKgJAOQghA0AABJIAAAMIANBKIAEAJIADAHIALAWIABABIABACQAbApAjAJIgFAAgABQCAIADgEIAFgKIAJgSIACgGIgBAEIgBACQgGAQgJAPIgBACQgZAnggAKIgEAAQAigJAagpgAB2CAQAOgPAKgRQAZgqAAg1QAAhJgxg0IgFgGIgQgOIgNgJIgYgMIgBgBIgCAAQgTgIgWgCIgBAAIgCAAIgHgBIACAAQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgngAByABQAAhJgig0QgIgOgKgKQgZgbghgCIACAAIAHABIACAAQAaAFAWAXQAJAKAJANQAiA1AABJIgBAOIAAACIgBAMIgBAHQACgRAAgSgAAGixgAgCixIAAAAg");
 	this.shape_10.setTransform(24.075,39.875);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).to({state:[{t:this.shape_10},{t:this.shape_5},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_1},{t:this.shape_3},{t:this.shape}]},1).wait(1));
@@ -7013,7 +7013,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_2.setTransform(24.075,70.9);
 
 	this.shape_3 = new cjs.Shape();
-	this.shape_3.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQACAAACAAIAAAAQACgBACAAIAHAAIABABQAhACAZAbQAKAKAIANQAiA1AABJQAAA1gRAqQgHAQgKAPQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQgJgPgHgQQgRgqAAg1QAAhJAhg1QAJgNAJgKQAagcAigBIAFAAQABAAAAAAIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgHgBgGgBQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QANgNAOgKQAjgZAsgEgAgMiyQAEAAAGAAAAGiyQAEAAADAAQAcAFAWAYQAJAKAJANQAiA0AABKQAAA1gRAqQgHARgKAPQgZAnggAKQgDABgDABQgGABgHABAgEC0QgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCAgRCyQgDgBgDgBQgggKgZgnQgKgPgHgRQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFAANiyQAsAEAjAZQAOAKAMANQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgFAAgGABAgICzQgFgBgEAA");
+	this.shape_3.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQACAAACAAIAAAAQACgBACAAIAHAAIABABIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCAgCiyIAFAAQABAAAAAAQAhACAZAbQAKAKAIANQAiA1AABJQAAA1gRAqQgHAQgKAPQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQgJgPgHgQQgRgqAAg1QAAhJAhg1QAJgNAJgKQAagcAigBgAgMiyQAEAAAGAAAAGiyQAEAAADAAQAcAFAWAYQAJAKAJANQAiA0AABKQAAA1gRAqQgHARgKAPQgZAnggAKQgDABgDABQgGABgHABAgRCyQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QANgNAOgKQAjgZAsgEAgRCyQgDgBgDgBQgggKgZgnQgKgPgHgRQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFAANiyQAsAEAjAZQAOAKAMANQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgFAAgGABAgEC0QgHgBgGgBAgICzQgFgBgEAA");
 	this.shape_3.setTransform(24.075,39.525);
 
 	this.shape_4 = new cjs.Shape();
@@ -7025,30 +7025,26 @@ if (reversed == null) { reversed = false; }
 	this.shape_5.setTransform(24.075,39.7);
 
 	this.shape_6 = new cjs.Shape();
-	this.shape_6.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgpQgJgPgHgRQgRgqAAg1QAAhJAhg0QAJgOAJgKQAagbAigCQgiACgaAbQgJAKgJAOQghA0AABJQAAA1ARAqQAHARAJAPQAbApAjAJIgFAAQgggKgZgnQgKgQgHgRQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEQgcAEgXAYQgJAKgIANQgiA1AABJQAAA1ARAqQAHARAKAQQAZAnAgAKIgJgBQgwgKgmgnQgOgPgKgRQgZgqAAg1QAAhJAxg0QANgOAOgKQAjgZAsgDQgsADgjAZQgOAKgNAOQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIAFAAIABAAQAhACAZAbQAKAKAIAOQAiA0AABJQAAA1gRAqQgHARgKAPQgaApgiAJIgBAAIgTAAgAgMiwIAKgBIgKABIAEgBIgEABIAAAAIAAAAgABQCAQAKgPAHgRQARgqAAg1QAAhJgig0QgIgOgKgKQgZgbghgCIACAAIACAAQAnABAiAIQAcAIAZAMQAUAKARANIADACQBEA0AABHQAAA2glAqQgNAPgSANIgDACQgoAegyANQgTAFgUACQArgLAigkQAOgQAKgRQAZgqAAg1QAAhJgxg1QgNgNgNgKQgmgbgvgCQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgnQAOgPAKgRQAZgqAAg1QAAhJgxg0QgMgOgOgKQgjgZgsgDQAcAEAWAYQAJAKAJANQAiA1AABJQAAA1gSAqQgGARgKAQQgZAnggAKIgEAAQAigJAagpgAANiwIgHgBIAHABgABRCBQAKgQAGgRQASgqAAg1QAAhJgig1QgJgNgJgKQgWgYgcgEQAsADAjAZQAOAKAMAOQAxA0AABJQAAA1gZAqQgKARgOAPQglAngwAKIgJABQAggKAZgngAAhCxIAAAAgAhQCpQgygNgpgeQgTgOgOgQIgFgFIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQASgNAUgKQAZgMAcgIQAigIAmgBQgvACglAbQgOAKgMANQgxA1AABJQAAA1AZAqQAKARAOAQQAiAkArALQgUgCgTgFgAAEixgAgIixIAAAAg");
+	this.shape_6.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgpQgJgPgHgRQgRgqAAg1QAAhJAhg0QAJgOAJgKQAagbAigCIAFAAIABAAIgBAAIgFAAIgKABIAEgBIgEABIAKgBQgiACgaAbQgJAKgJAOQghA0AABJQAAA1ARAqQAHARAJAPQAbApAjAJIgFAAQgggKgZgnQgKgQgHgRQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEQgcAEgXAYQgJAKgIANQgiA1AABJQAAA1ARAqQAHARAKAQQAZAnAgAKIgJgBQgwgKgmgnQgOgPgKgRQgZgqAAg1QAAhJAxg0QANgOAOgKQAjgZAsgDIAAAAIAAAAQgsADgjAZQgOAKgNAOQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIAAAAIAEAAIAHAAIABAAQAhACAZAbQAKAKAIAOQAiA0AABJQAAA1gRAqQgHARgKAPQgaApgiAJIgBAAIgTAAgAAUCyQAigJAagpQAKgPAHgRQARgqAAg1QAAhJgig0QgIgOgKgKQgZgbghgCIACAAIACAAQAnABAiAIQAcAIAZAMQAUAKARANIADACQBEA0AABHQAAA2glAqQgNAPgSANIgDACQgoAegyANQgTAFgUACQArgLAigkQAOgQAKgRQAZgqAAg1QAAhJgxg1QgNgNgNgKQgmgbgvgCQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgnQAOgPAKgRQAZgqAAg1QAAhJgxg0QgMgOgOgKQgjgZgsgDQAcAEAWAYQAJAKAJANQAiA1AABJQAAA1gSAqQgGARgKAQQgZAnggAKIgEAAIAAAAgAANiwIgHgBIAHABgABRCBQAKgQAGgRQASgqAAg1QAAhJgig1QgJgNgJgKQgWgYgcgEQAsADAjAZQAOAKAMAOQAxA0AABJQAAA1gZAqQgKARgOAPQglAngwAKIgJABQAggKAZgngAAhCxIAAAAgAhQCpQgygNgpgeQgTgOgOgQIgFgFIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQASgNAUgKQAZgMAcgIQAigIAmgBQgvACglAbQgOAKgMANQgxA1AABJQAAA1AZAqQAKARAOAQQAiAkArALQgUgCgTgFgAAEixg");
 	this.shape_6.setTransform(24.075,39.375);
 
 	this.shape_7 = new cjs.Shape();
-	this.shape_7.graphics.f().s("#AC040D").ss(0.4,1,0,4).p("AAUhZIAACmAAehZIAACXAAKhZIAACzAgdhZIAACKAgJhZIAACmAgThZIAACXAAAhZIAACz");
-	this.shape_7.setTransform(24.075,71.4);
+	this.shape_7.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQACAAACAAIAAAAQACgBACAAIAHAAIABABIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgHgBgGgBQgDgBgDgBQgggKgZgnQgKgPgHgRQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFgAgCiyIAFAAQABAAAAAAQAhACAZAbQAKAKAIANQAiA1AABJQAAA1gRAqQgHAQgKAPQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQgJgPgHgQQgRgqAAg1QAAhJAhg1QAJgNAJgKQAagcAigBgAgMiyQAEAAAGAAAAGiyQAEAAADAAQAsAEAjAZQAOAKAMANQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgGABgHABAgRCyQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QANgNAOgKQAjgZAsgEAgEC0QgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCAANiyQAcAFAWAYQAJAKAJANQAiA0AABKQAAA1gRAqQgHARgKAPQgZAnggAKQgDABgDABQgFAAgGABAgICzQgFgBgEAA");
+	this.shape_7.setTransform(24.075,40.025);
 
 	this.shape_8 = new cjs.Shape();
-	this.shape_8.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQAEAAAGAAIAFAAQABAAAAAAIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCIAAAAQACgBACAAIAHAAIABABQAhACAZAbQAKAKAIANQAiA1AABJQAAA1gRAqQgHAQgKAPQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQgJgPgHgQQgRgqAAg1QAAhJAhg1QAJgNAJgKQAagcAigBAgMiyQACAAACAAAAGiyQAEAAADAAQAcAFAWAYQAJAKAJANQAiA0AABKQAAA1gRAqQgHARgKAPQgZAnggAKQgDABgDABQgFAAgGABAgRCyQgDgBgDgBQgggKgZgnQgKgPgHgRQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFAgRCyQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QANgNAOgKQAjgZAsgEAANiyQAsAEAjAZQAOAKAMANQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgGABgHABAgICzQgFgBgEAAAgEC0QgHgBgGgB");
-	this.shape_8.setTransform(24.075,40.025);
+	this.shape_8.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AgXCyQgggKgZgnQgKgQgHgRQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEIAAAAIAAAAQgsADgjAZQgOAKgNAOQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIgKABIAEgBIgEABIAKgBQgiACgaAbQgJAKgJAOQghA0AABJQAAA1ARAqQAHARAJAPQAbApAjAJIgFAAgABQCAQAKgPAHgRQARgqAAg1QAAhJgig0QgIgOgKgKQgZgbghgCIACAAIACAAQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgnQAOgPAKgRQAZgqAAg1QAAhJgxg0QgMgOgOgKQgjgZgsgDIgHgBIAHABQAcAEAWAYQAJAKAJANQAiA1AABJQAAA1gSAqQgGARgKAQQgZAnggAKIgEAAQAigJAagpgAgMiwIAAAAgAgCixIAAAAg");
+	this.shape_8.setTransform(24.075,39.875);
 
 	this.shape_9 = new cjs.Shape();
-	this.shape_9.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AgXCyQgggKgZgnQgKgQgHgRQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEIAAAAIAAAAQgsADgjAZQgOAKgNAOQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIgKABIAKgBQgiACgaAbQgJAKgJAOQghA0AABJQAAA1ARAqQAHARAJAPQAbApAjAJIgFAAgAgMiwIAEgBIgEABgABQCAQAKgPAHgRQARgqAAg1QAAhJgig0QgIgOgKgKQgZgbghgCIACAAIACAAQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgnQAOgPAKgRQAZgqAAg1QAAhJgxg0QgMgOgOgKQgjgZgsgDIgHgBIAHABQAcAEAWAYQAJAKAJANQAiA1AABJQAAA1gSAqQgGARgKAQQgZAnggAKIgEAAQAigJAagpgAgCixIAAAAg");
-	this.shape_9.setTransform(24.075,39.875);
+	this.shape_9.graphics.lf(["#FF8051","#FFC67A"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgqQgJgOgHgRQgRgqAAg1QAAhJAhg0QAJgOAJgKQAagcAigBIAFAAIABAAQAhACAZAbQAKAKAIAOQAiA0AABJQAAA1gRAqQgHARgKAOQgaAqgiAJIgBAAIgTAAgABRCAQAKgPAGgRQASgqAAg1QAAhJgig1QgJgNgJgKQgWgYgcgFQAsAEAjAZQAOAKAMAOQAxA0AABJQAAA1gZAqQgKARgOAOQglAogwAKIgJABQAggKAZgogAggCxQgwgKgmgoQgOgOgKgRQgZgqAAg1QAAhJAxg0QANgOAOgKQAjgZAsgEQgcAFgXAYQgJAKgIANQgiA1AABJQAAA1ARAqQAHARAKAPQAZAoAgAKIgJgBgAB3CAQAOgPAKgRQAZgqAAg1QAAhJgxg1QgNgNgNgKQgmgbgvgCQAnABAiAIQAcAHAZANQAUAKARANIADACQBEAzAABIQAAA2glAqQgNAPgSANIgDACQgoAegyANQgTAFgUACQArgLAiglgAhQCpQgygNgpgeQgTgOgOgQIgFgFIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQASgNAUgKQAZgNAcgHQAigIAmgBQgvACglAbQgOAKgMANQgxA1AABJQAAA1AZAqQAKARAOAPQAiAlArALQgUgCgTgFg");
+	this.shape_9.setTransform(24.075,39.9);
 
 	this.shape_10 = new cjs.Shape();
-	this.shape_10.graphics.lf(["#FF8051","#FFC67A"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgqQgJgOgHgRQgRgqAAg1QAAhJAhg0QAJgOAJgKQAagcAigBIAFAAIABAAQAhACAZAbQAKAKAIAOQAiA0AABJQAAA1gRAqQgHARgKAOQgaAqgiAJIgBAAIgTAAgABRCAQAKgPAGgRQASgqAAg1QAAhJgig1QgJgNgJgKQgWgYgcgFQAsAEAjAZQAOAKAMAOQAxA0AABJQAAA1gZAqQgKARgOAOQglAogwAKIgJABQAggKAZgogAggCxQgwgKgmgoQgOgOgKgRQgZgqAAg1QAAhJAxg0QANgOAOgKQAjgZAsgEQgcAFgXAYQgJAKgIANQgiA1AABJQAAA1ARAqQAHARAKAPQAZAoAgAKIgJgBgAB3CAQAOgPAKgRQAZgqAAg1QAAhJgxg1QgNgNgNgKQgmgbgvgCQAnABAiAIQAcAHAZANQAUAKARANIADACQBEAzAABIQAAA2glAqQgNAPgSANIgDACQgoAegyANQgTAFgUACQArgLAiglgAhQCpQgygNgpgeQgTgOgOgQIgFgFIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQASgNAUgKQAZgNAcgHQAigIAmgBQgvACglAbQgOAKgMANQgxA1AABJQAAA1AZAqQAKARAOAPQAiAlArALQgUgCgTgFg");
-	this.shape_10.setTransform(24.075,39.9);
+	this.shape_10.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACIgNgCIAJABIgJgBIANACQgTAAgSgDIAJAAIAPABIgGAAIAFAAIAKABIgKgBIASAAIATAAIABAAIAEAAIgGAAIAGAAIAJgBIgPABIAPgBIAJAAQgSADgTAAIANgCIgLABIgCAAIgKAAIgBAAIgCAAIACAAIABAAIAKAAIACAAIALgBIgNACgAAHABIAMgBIgMABgAgRAAIAAAAgAgggBIAJABIAGAAIgPgBg");
+	this.shape_10.setTransform(24.075,57.75);
 
-	this.shape_11 = new cjs.Shape();
-	this.shape_11.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACIgNgCIANACQgTAAgSgDIAJAAIAPABIgGAAIAFAAIAKABIgKgBIASAAIATAAIABAAIAEAAIAJgBIgPABIAGAAIgGAAIAPgBIAJAAQgSADgTAAIANgCIgNACgAAFABIACAAIALgBIgLABIgCAAIgKAAIgBAAIgCAAIACAAIABAAIAKAAgAAHABIAMgBIgMABgAgIABIgJgBIAJABgAgggBIAJABIAGAAIgPgBg");
-	this.shape_11.setTransform(24.075,57.75);
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_6},{t:this.shape_5,p:{y:39.7}},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1,p:{y:8.25}}]}).to({state:[{t:this.shape_5,p:{y:40.2}},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_1,p:{y:8.75}},{t:this.shape_7}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_6},{t:this.shape_5,p:{y:39.7}},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2,p:{y:70.9}},{t:this.shape_1,p:{y:8.25}}]}).to({state:[{t:this.shape_5,p:{y:40.2}},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_1,p:{y:8.75}},{t:this.shape_2,p:{y:71.4}}]},1).wait(1));
 
 	this._renderFirstFrame();
 
@@ -7087,11 +7083,11 @@ if (reversed == null) { reversed = false; }
 
 	// button
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f().s("#AC040D").ss(0.4,1,0,4).p("AAUhZIAACmAAehZIAACXAAKhZIAACzAgdhZIAACKAgJhZIAACmAgThZIAACXAAAhZIAACz");
+	this.shape.graphics.f().s("#AC040D").ss(0.4,1,0,4).p("AAAhZIAACzAgThZIAACXAgJhZIAACmAgdhZIAACKAAKhZIAACzAAehZIAACXAAUhZIAACm");
 	this.shape.setTransform(24.075,71.4);
 
 	this.shape_1 = new cjs.Shape();
-	this.shape_1.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQAEAAAGAAIAFAAQABAAAAAAIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCIAAAAQACgBACAAIAHAAIABABQAhACAZAbQAKAKAIANQAiA1AABJQAAA1gRAqQgHAQgKAPQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQgJgPgHgQQgRgqAAg1QAAhJAhg1QAJgNAJgKQAagcAigBAgMiyQACAAACAAAAGiyQAEAAADAAQAsAEAjAZQAOAKAMANQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgFAAgGABAgRCyQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QANgNAOgKQAjgZAsgEAgRCyQgDgBgDgBQgggKgZgnQgKgPgHgRQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFAANiyQAcAFAWAYQAJAKAJANQAiA0AABKQAAA1gRAqQgHARgKAPQgZAnggAKQgDABgDABQgGABgHABAgICzQgFgBgEAAAgEC0QgHgBgGgB");
+	this.shape_1.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQACAAACAAIAAAAQACgBACAAIAHAAIABABQAhACAZAbQAKAKAIANQAiA1AABJQAAA1gRAqQgHAQgKAPQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQgJgPgHgQQgRgqAAg1QAAhJAhg1QAJgNAJgKQAagcAigBIAFAAQABAAAAAAIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgHgBgGgBQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QANgNAOgKQAjgZAsgEgAgMiyQAEAAAGAAAAGiyQAEAAADAAQAcAFAWAYQAJAKAJANQAiA0AABKQAAA1gRAqQgHARgKAPQgZAnggAKQgDABgDABQgGABgHABAgEC0QgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCAgRCyQgDgBgDgBQgggKgZgnQgKgPgHgRQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFAANiyQAsAEAjAZQAOAKAMANQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgFAAgGABAgICzQgFgBgEAA");
 	this.shape_1.setTransform(24.075,40.025);
 
 	this.shape_2 = new cjs.Shape();
@@ -7099,7 +7095,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_2.setTransform(24.05,8.75);
 
 	this.shape_3 = new cjs.Shape();
-	this.shape_3.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACIgNgCIgGAAIAGAAIgPgBIAPABIANACQgTAAgSgDIAJAAIAJABIAFAAIASAAIATAAIABAAIAEAAIAJgBIAJAAQgSADgTAAIANgCIgLABIALgBIgNACgAgFABIAKAAIACAAIAMgBIgMABIgCAAIgKAAIgBAAIgCAAIgKgBIAKABIgJgBIAJABIACAAIAAAAIABAAgAASAAIAPgBIgPABIAGAAIgGAAIAAAAgAgIABIAAAAgAASAAIAAAAg");
+	this.shape_3.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACIgNgCIAJABIACAAIABAAIAKAAIACAAIALgBIgNACgAASAAIAPgBIgPABIAGAAIgGAAIgLABIAMgBIgMABIgCAAIgKAAIgBAAIgCAAIgKgBIAKABIgJgBIgGAAIAGAAIgPgBIAPABIANACQgTAAgSgDIAJAAIAJABIAFAAIASAAIATAAIABAAIAEAAIAJgBIAJAAQgSADgTAAIANgCgAgRAAIAAAAg");
 	this.shape_3.setTransform(24.075,57.75);
 
 	this.shape_4 = new cjs.Shape();
@@ -7107,19 +7103,19 @@ if (reversed == null) { reversed = false; }
 	this.shape_4.setTransform(24.075,40.2);
 
 	this.shape_5 = new cjs.Shape();
-	this.shape_5.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgpQgJgPgHgRQgRgqAAg1QAAhJAhg0QAJgOAJgKQAagbAigCQgiACgaAbQgJAKgJAOQghA0AABJQAAA1ARAqQAHARAJAPQAbApAjAJIgFAAQgggKgZgnQgKgQgHgRQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEQgcAEgXAYQgJAKgIANQgiA1AABJQAAA1ARAqQAHARAKAQQAZAnAgAKIgJgBQgwgKgmgnQgOgPgKgRQgZgqAAg1QAAhJAxg0QANgOAOgKQAjgZAsgDIAAAAIAAAAQgsADgjAZQgOAKgNAOQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIAFAAIABAAQAhACAZAbQAKAKAIAOQAiA0AABJQAAA1gRAqQgHARgKAPQgaApgiAJIgBAAIgTAAgAgMiwIAKgBIgKABIAEgBIgEABIAAAAgAAUCyQAigJAagpQAKgPAHgRQARgqAAg1QAAhJgig0QgIgOgKgKQgZgbghgCIACAAIACAAQAnABAiAIQAcAIAZAMQAUAKARANIADACQBEA0AABHQAAA2glAqQgNAPgSANIgDACQgoAegyANQgTAFgUACQArgLAigkQAOgQAKgRQAZgqAAg1QAAhJgxg1QgNgNgNgKQgmgbgvgCQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgnQAOgPAKgRQAZgqAAg1QAAhJgxg0QgMgOgOgKQgjgZgsgDQAcAEAWAYQAJAKAJANQAiA1AABJQAAA1gSAqQgGARgKAQQgZAnggAKIgEAAIAAAAgAANiwIgHgBIAHABgABRCBQAKgQAGgRQASgqAAg1QAAhJgig1QgJgNgJgKQgWgYgcgEQAsADAjAZQAOAKAMAOQAxA0AABJQAAA1gZAqQgKARgOAPQglAngwAKIgJABQAggKAZgngAAhCxIAAAAgAhQCpQgygNgpgeQgTgOgOgQIgFgFIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQASgNAUgKQAZgMAcgIQAigIAmgBQgvACglAbQgOAKgMANQgxA1AABJQAAA1AZAqQAKARAOAQQAiAkArALQgUgCgTgFgAgMiwIAAAAgAAEixg");
+	this.shape_5.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AAACyIgSAAQgjgJgbgpQgJgPgHgRQgRgqAAg1QAAhJAhg0QAJgOAJgKQAagbAigCQgiACgaAbQgJAKgJAOQghA0AABJQAAA1ARAqQAHARAJAPQAbApAjAJIgFAAQgggKgZgnQgKgQgHgRQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEQgcAEgXAYQgJAKgIANQgiA1AABJQAAA1ARAqQAHARAKAQQAZAnAgAKIgJgBQgwgKgmgnQgOgPgKgRQgZgqAAg1QAAhJAxg0QANgOAOgKQAjgZAsgDIAAAAIAAAAQgsADgjAZQgOAKgNAOQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIAFAAIABAAQAhACAZAbQAKAKAIAOQAiA0AABJQAAA1gRAqQgHARgKAPQgaApgiAJIgBAAIgTAAgAgMiwIAKgBIgKABIAEgBIgEABgAAUCyQAigJAagpQAKgPAHgRQARgqAAg1QAAhJgig0QgIgOgKgKQgZgbghgCIACAAIACAAQAnABAiAIQAcAIAZAMQAUAKARANIADACQBEA0AABHQAAA2glAqQgNAPgSANIgDACQgoAegyANQgTAFgUACQArgLAigkQAOgQAKgRQAZgqAAg1QAAhJgxg1QgNgNgNgKQgmgbgvgCQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgnQAOgPAKgRQAZgqAAg1QAAhJgxg0QgMgOgOgKQgjgZgsgDQAcAEAWAYQAJAKAJANQAiA1AABJQAAA1gSAqQgGARgKAQQgZAnggAKIgEAAIAAAAgAANiwIgHgBIAHABgABRCBQAKgQAGgRQASgqAAg1QAAhJgig1QgJgNgJgKQgWgYgcgEQAsADAjAZQAOAKAMAOQAxA0AABJQAAA1gZAqQgKARgOAPQglAngwAKIgJABQAggKAZgngAAhCxIAAAAgAhQCpQgygNgpgeQgTgOgOgQIgFgFIgIgMQgYgkAAgrQAAgqAYgkIAIgLQAQgTAWgRQASgNAUgKQAZgMAcgIQAigIAmgBQgvACglAbQgOAKgMANQgxA1AABJQAAA1AZAqQAKARAOAQQAiAkArALQgUgCgTgFgAAEixg");
 	this.shape_5.setTransform(24.075,39.875);
 
 	this.shape_6 = new cjs.Shape();
-	this.shape_6.graphics.f().s("#AC040D").ss(0.4,1,0,4).p("AAAhZIAACzAgThZIAACXAgJhZIAACmAgdhZIAACKAAKhZIAACzAAehZIAACXAAUhZIAACm");
+	this.shape_6.graphics.f().s("#AC040D").ss(0.4,1,0,4).p("AAUhZIAACmAAehZIAACXAAKhZIAACzAgdhZIAACKAgJhZIAACmAgThZIAACXAAAhZIAACz");
 	this.shape_6.setTransform(24.075,71.4);
 
 	this.shape_7 = new cjs.Shape();
-	this.shape_7.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQACAAACAAIAAAAQACgBACAAIAHAAIABABIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgHgBgGgBQgDgBgDgBQgggKgZgnQgKgPgHgRQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFgAgCiyIAFAAQABAAAAAAQAhACAZAbQAKAKAIANQAiA1AABJQAAA1gRAqQgHAQgKAPQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQgJgPgHgQQgRgqAAg1QAAhJAhg1QAJgNAJgKQAagcAigBgAgMiyQAEAAAGAAAAGiyQAEAAADAAQAsAEAjAZQAOAKAMANQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgGABgHABAgRCyQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QANgNAOgKQAjgZAsgEAgEC0QgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCAANiyQAcAFAWAYQAJAKAJANQAiA0AABKQAAA1gRAqQgHARgKAPQgZAnggAKQgDABgDABQgFAAgGABAgICzQgFgBgEAA");
+	this.shape_7.graphics.f().s("#FFFFFF").ss(0.3).p("AgMiyIAAAAQAEAAAGAAIAFAAQABAAAAAAIACAAIACAAQAvACAmAbQANAKANANQAxA0AABKQAAA1gZAqQgKARgOAPQgiAkgrAMQgSAEgTABIgJAAQgTgBgSgEQgrgMgigkQgOgPgKgRQgZgqAAg1QAAhKAxg0QAMgNAOgKQAlgbAvgCIAAAAQACgBACAAIAHAAIABABQAhACAZAbQAKAKAIANQAiA1AABJQAAA1gRAqQgHAQgKAPQgaApgiAKIgBAAQgGABgGABIgCAAIgKAAQgBAAAAAAIgCAAQgFgBgFgBQgjgJgbgqQgJgPgHgQQgRgqAAg1QAAhJAhg1QAJgNAJgKQAagcAigBAgMiyQACAAACAAAAGiyQAEAAADAAQAcAFAWAYQAJAKAJANQAiA0AABKQAAA1gRAqQgHARgKAPQgZAnggAKQgDABgDABQgFAAgGABAgRCyQgDgBgDgBQgggKgZgnQgKgPgHgRQgRgqAAg1QAAhKAig0QAIgNAKgKQAWgYAcgFAgRCyQgIgBgHgBQgwgKgmgoQgOgPgKgQQgZgqAAg1QAAhJAxg1QANgNAOgKQAjgZAsgEAANiyQAsAEAjAZQAOAKAMANQAxA1AABJQAAA1gZAqQgKAQgOAPQglAogwAKQgHABgIABQgGABgHABAgICzQgFgBgEAAAgEC0QgHgBgGgB");
 	this.shape_7.setTransform(24.075,40.025);
 
 	this.shape_8 = new cjs.Shape();
-	this.shape_8.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AgXCyQgggKgZgnQgKgQgHgRQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEIAAAAIAAAAQgsADgjAZQgOAKgNAOQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIgKABIAEgBIgEABIAKgBQgiACgaAbQgJAKgJAOQghA0AABJQAAA1ARAqQAHARAJAPQAbApAjAJIgFAAgABQCAQAKgPAHgRQARgqAAg1QAAhJgig0QgIgOgKgKQgZgbghgCIACAAIACAAQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgnQAOgPAKgRQAZgqAAg1QAAhJgxg0QgMgOgOgKQgjgZgsgDIgHgBIAHABQAcAEAWAYQAJAKAJANQAiA1AABJQAAA1gSAqQgGARgKAQQgZAnggAKIgEAAQAigJAagpgAgMiwIAAAAgAgCixIAAAAg");
+	this.shape_8.graphics.lf(["#FFB384","#FFEC8B"],[0,1],2.9,-16.6,-4.3,22.7).s().p("AgXCyQgggKgZgnQgKgQgHgRQgRgqAAg1QAAhJAig1QAIgNAJgKQAXgYAcgEIAAAAIAAAAQgsADgjAZQgOAKgNAOQgxA0AABJQAAA1AZAqQAKARAOAPQAmAnAwAKIgJgBQgrgLgigkQgOgQgKgRQgZgqAAg1QAAhJAxg1QAMgNAOgKQAlgbAvgCIAAAAIAEAAIAHAAIABAAIgBAAIgFAAIgKABIAKgBQgiACgaAbQgJAKgJAOQghA0AABJQAAA1ARAqQAHARAJAPQAbApAjAJIgFAAgAgMiwIAEgBIgEABgABQCAQAKgPAHgRQARgqAAg1QAAhJgig0QgIgOgKgKQgZgbghgCIACAAIACAAQAvACAmAbQANAKANANQAxA1AABJQAAA1gZAqQgKARgOAQQgiAkgrALIgJABQAwgKAlgnQAOgPAKgRQAZgqAAg1QAAhJgxg0QgMgOgOgKQgjgZgsgDIgHgBIAHABQAcAEAWAYQAJAKAJANQAiA1AABJQAAA1gSAqQgGARgKAQQgZAnggAKIgEAAQAigJAagpgAgCixIAAAAg");
 	this.shape_8.setTransform(24.075,39.875);
 
 	this.shape_9 = new cjs.Shape();
@@ -7127,7 +7123,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_9.setTransform(24.075,39.9);
 
 	this.shape_10 = new cjs.Shape();
-	this.shape_10.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACIgNgCIAJABIgJgBIANACQgTAAgSgDIAJAAIAPABIgGAAIAFAAIAKABIgKgBIASAAIATAAIABAAIAEAAIgGAAIAGAAIAJgBIgPABIAPgBIAJAAQgSADgTAAIANgCIgLABIgCAAIgKAAIgBAAIgCAAIACAAIABAAIAKAAIACAAIALgBIgNACgAAHABIAMgBIgMABgAgRAAIAAAAgAgggBIAJABIAGAAIgPgBg");
+	this.shape_10.graphics.f("#FF995F").s().p("AAFACIAAAAgAgEACIgNgCIANACQgTAAgSgDIAJAAIAPABIgGAAIAFAAIAKABIgKgBIASAAIATAAIABAAIAEAAIAJgBIgPABIAGAAIgGAAIAPgBIAJAAQgSADgTAAIANgCIgNACgAAFABIACAAIALgBIgLABIgCAAIgKAAIgBAAIgCAAIACAAIABAAIAKAAgAAHABIAMgBIgMABgAgIABIgJgBIAJABgAgggBIAJABIAGAAIgPgBg");
 	this.shape_10.setTransform(24.075,57.75);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).to({state:[{t:this.shape_4},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_2},{t:this.shape_6}]},1).wait(1));
@@ -7196,10 +7192,10 @@ if (reversed == null) { reversed = false; }
 	mask.setTransform(641.6,360.725);
 
 	// basta
-	this.instance_1 = new lib.CachedBmp_690();
+	this.instance_1 = new lib.CachedBmp_842();
 	this.instance_1.setTransform(818.2,346.2,0.3333,0.3333);
 
-	this.instance_2 = new lib.CachedBmp_689();
+	this.instance_2 = new lib.CachedBmp_841();
 	this.instance_2.setTransform(854.05,362.5,0.3333,0.3333);
 
 	this.instance_3 = new lib.CachedBmp_688();
@@ -7208,7 +7204,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_4 = new lib.CachedBmp_687();
 	this.instance_4.setTransform(825.25,338.15,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_686();
+	this.instance_5 = new lib.CachedBmp_840();
 	this.instance_5.setTransform(871,440.5,0.3333,0.3333);
 
 	this.instance_6 = new lib.CachedBmp_685();
@@ -12842,10 +12838,8 @@ if (reversed == null) { reversed = false; }
 		// -----------------------------------------------
 		
 		// -----  קריאה לפונקציה שמכניסה את קטעי הסאונד למחשק
+		init_sounds();
 		// טעינת סאונד לתוך הקוד
-		
-		init_sounds()
-		
 		function init_sounds()
 		{
 		    createjs.Sound.registerSound("sounds/mainMusic.mp3", "mainMusic");
@@ -12891,39 +12885,39 @@ if (reversed == null) { reversed = false; }
 		[
 		    [
 		        [["אילו מהמקומות הבאים אינו נמצא בסין?",lib.chinaFlag],["העיר האסורה", false],[lib.taracota,false],[lib.mountFuji,true],[lib.leshan, false],["בייג׳ין", false],["שנגחאי", false]],
-		        // [["כמה אנשים חיים בסין?",lib.chinesePeople],["1.4 מילארד", true],["25 מיליון",false],["מיליארד",false],["2.2 מיליארד", false],["250 מיליון", false],["30.2 מיליון", false]],
-		        // [["סין ידועה באוכלוסייתה הגדולה, ושנגחאי היא הדוגמה הטובה ביותר לכך. כמה אנשים חיים בשנגחאי?"],["כ-25 מיליון",true],["כ-200 אלף",false],["כ-2 מיליון",false]],
-		        // [["מהו אורך החומה הסינית?"],["19.57 ק״מ", false],["24.972 ק״מ",false],["21.196 ק״מ",true],["31.29 ק״מ",false]],
-		        // [["שני ההרים הגבוהים בעולם נמצאים בחלקם בסין"],["לא נכון", false],["נכון",true]],
-		        // [["מהו השם המלא והרשמי של סין?"],["הרפובליקה העממית של סין", true],["ממלכת סין", false],["אימפריית סין", false],["ארצות הברית של סין", false]],
-		        // [["מי אני? חיה חמודה שנפוצה באיזור סצ'ואן שבסין. יש לי פרווה בצבע חום אדמדם ועל אף שמי, אני לא דוב אמיתי"],["אני דוב חום יונק, גדול ואחד מהטורפים הגדולים ביותר בעולם", false],["אני פנדה אדומה, יונק קטן ואני לא קרובה של הפנדה הענקית",true],["אני דוב שחור אסייתי, אני יונק גדול שאוכל הכל", false]],
-		        // [["מהו המאכל שנמצא כמעט בכל ארוחה סינית?"],[lib.rice, true],["נודלס", false],[lib.cheese, false],["סושי", false],["סמוסה", false],[lib.dimSum, false]],
-		        // [["מאיזה חומר עשויים הפסלים שבתמונה?",lib.taracota],["טרקוטה",true],["חימר",false],["בוץ",false],["פלדה",false]],
-		        // [["דים סאם הוא מאכל סיני שמוגש ככיסונים מאודים או מטוגנים. לרוב אוכלים אותו בבוקר, וניתן למצוא אותו בבתי תה",lib.dimSum],["נכון", true],["לא נכון", false]],
-		        // [["מהי עיר הבירה של סין?"],["שנגחאי", false],["בייג׳ין", true],["ווהאן", false]],
+		        [["כמה אנשים חיים בסין?",lib.chinesePeople],["1.4 מילארד", true],["25 מיליון",false],["מיליארד",false],["2.2 מיליארד", false],["250 מיליון", false],["30.2 מיליון", false]],
+		        [["סין ידועה באוכלוסייתה הגדולה, ושנגחאי היא הדוגמה הטובה ביותר לכך. כמה אנשים חיים בשנגחאי?"],["כ-25 מיליון",true],["כ-200 אלף",false],["כ-2 מיליון",false]],
+		        [["מהו אורך החומה הסינית?"],["19.57 ק״מ", false],["24.972 ק״מ",false],["21.196 ק״מ",true],["31.29 ק״מ",false]],
+		        [["שני ההרים הגבוהים בעולם נמצאים בחלקם בסין"],["לא נכון", false],["נכון",true]],
+		        [["מהו השם המלא והרשמי של סין?"],["הרפובליקה העממית של סין", true],["ממלכת סין", false],["אימפריית סין", false],["ארצות הברית של סין", false]],
+		        [["מי אני? חיה חמודה שנפוצה באיזור סצ'ואן שבסין. יש לי פרווה בצבע חום אדמדם ועל אף שמי, אני לא דוב אמיתי"],["אני דוב חום יונק, גדול ואחד מהטורפים הגדולים ביותר בעולם", false],["אני פנדה אדומה, יונק קטן ואני לא קרובה של הפנדה הענקית",true],["אני דוב שחור אסייתי, אני יונק גדול שאוכל הכל", false]],
+		        [["מהו המאכל שנמצא כמעט בכל ארוחה סינית?"],[lib.rice, true],["נודלס", false],[lib.cheese, false],["סושי", false],["סמוסה", false],[lib.dimSum, false]],
+		        [["מאיזה חומר עשויים הפסלים שבתמונה?",lib.taracota],["טרקוטה",true],["חימר",false],["בוץ",false],["פלדה",false]],
+		        [["דים סאם הוא מאכל סיני שמוגש ככיסונים מאודים או מטוגנים. לרוב אוכלים אותו בבוקר, וניתן למצוא אותו בבתי תה",lib.dimSum],["נכון", true],["לא נכון", false]],
+		        [["מהי עיר הבירה של סין?"],["שנגחאי", false],["בייג׳ין", true],["ווהאן", false]],
 		        [["ישנם הרבה אתרי מורשת של אונסק״ו הנמתאים בסין. איזה מהם הוא אחד משבעת פלאי תבל?"],["העיר האסורה", false],["מקדש השמיים", false],["טירת הקיץ", false],["החומה הסינית", true]],
 		        [["מי אני? אני נמצאת בביג׳יין, הייתי ארמונם של קיסרי סין במשך שנים רבות, ולקח 18 שנה לבנות אותי?"],["העיר האסורה", true],[lib.theGoosePagoda, false],["מגדל הפעמון", false],[lib.chineseWall, false],[lib.templeOfHeaven, false]],
 		        [["מהי החיה הלאומית של סין?"],[lib.turtle, false],[lib.dragon,false],[lib.pandaBear,true],[lib.rat, false],[lib.snake, false]]
 		    ],
 		    [
-		    [["איזה משפט מתאים לעונות הסתיו?"],["כל העלים הכתומים נשרו מן העצים",true],["מאוד חם בחוץ, השמש חזקה ומסנוורת",false],["לא כל כך קר והרבה פרחים פורחים",false],["לבשתי מעיל חם וגרבתי גרבי צמר",false]],
-		    [["אילו פעילויות עושים בקיץ?"],["לובשים בגד ים",true],["קופצים בשלולית",false],["גולשים סקי",false],["לובשים מעיל", false]],
-		    [["איזו עונה מגיעה אחרי הקיץ?"],["סתיו",true],["חורף",false],["אביב",false]],
-		    [["מי אני? אני צמח גבוה עם פרחים לבנים ואני מבשר את בוא הסתיו"],["חצב", true],["כלנית",false],[lib.sunflower,false],[lib.groundsel, false],["נרקיס",false]],
-		    [["איזו ציפור מסמלת את בוא הגשם?"],[lib.motacilla,true],[lib.passer,false],[lib.pelecanus,false],[lib.upupa,false],[lib.alcedinidae,false],[lib.psittacula,false]],
-		    [["מהם עלי כותרת?"],["עלים צבעוניים שתפקידם הוא למשוך חרקים אל הפרח", true],["עלים הנמצאים באדמה ודרכם הצמח מקבל מים",false],["גרגירי אבקה באמצעותם הצמח יכול להתרבות",false]],
-		    [["איזה איבר מאפשר לנו לשמוע את ציוץ הציפורים?"],[lib.ear, true],[lib.eye,false],["פה",false],["ידיים",false]],
-		    [["חריף נחשב טעם",lib.HotPepper],["לא נכון", true],["נכון",false]],
-		    [["איך קוראים לגשם הראשון?"],["היורה", true],["טל",false],["מבול",false]],
-		    [["מהי המילה הנרדפת לשמש",lib.sun],["חמה", true],["סהר",false],["ירח",false],["לבנה",false]],
-		    [["כמה ימים יש בשנה?"],["365 ימים", true],["452 ימים",false],["600 ימים",false],["522 ימים", false],["250 ימים",false],["300 ימים",false]],
-		    [["איזה מהצמחים הבאים משמש להכנת בגדים?"],["כותנה", true],["כרכום",false],["אקליפטוס",false],["גפן",false]],
-		    [["איך קוראים לצאצא של הציפור?"],["גוזל", true],["כפיר",false],["אפרוח",false],["סייח", false],["עופר",false]],
-		    [["מה משמיע רעש?"],["רעם", true],["ברק",false]],
-		    [["איזו חיה מחליפה צבעים?"],["זיקית", true],["ג׳ירפה",false],["יען",false],["דבורה",false]],
-		    [["מי מהחיות הבאות מכינה את הדבש?"],["דבורה", true],["גירית",false],["דוב",false]],
-		    [["מי אני? אני חיה קטנה שנחשבת חרוצה, ואפשר למצוא אותי גם בבית וגם בגינה אבל הקן שלי נמצא לרוב מתחת לאדמה"],["נמלה",true],["זבוב",false],["יתוש",false],["עכביש",false]],
-		    [["איזו תמונה מייצגת את עונת האביב?"],[lib.spring, true],[lib.autumn, false],[lib.summer,false],[lib.winter, false]]
+		        [["איזה משפט מתאים לעונות הסתיו?"],["כל העלים הכתומים נשרו מן העצים",true],["מאוד חם בחוץ, השמש חזקה ומסנוורת",false],["לא כל כך קר והרבה פרחים פורחים",false],["לבשתי מעיל חם וגרבתי גרבי צמר",false]],
+		        [["אילו פעילויות עושים בקיץ?"],["לובשים בגד ים",true],["קופצים בשלולית",false],["גולשים סקי",false],["לובשים מעיל", false]],
+		        [["איזו עונה מגיעה אחרי הקיץ?"],["סתיו",true],["חורף",false],["אביב",false]],
+		        [["מי אני? אני צמח גבוה עם פרחים לבנים ואני מבשר את בוא הסתיו"],["חצב", true],["כלנית",false],[lib.sunflower,false],[lib.groundsel, false],["נרקיס",false]],
+		        [["איזו ציפור מסמלת את בוא הגשם?"],[lib.motacilla,true],[lib.passer,false],[lib.pelecanus,false],[lib.upupa,false],[lib.alcedinidae,false],[lib.psittacula,false]],
+		        [["מהם עלי כותרת?"],["עלים צבעוניים שתפקידם הוא למשוך חרקים אל הפרח", true],["עלים הנמצאים באדמה ודרכם הצמח מקבל מים",false],["גרגירי אבקה באמצעותם הצמח יכול להתרבות",false]],
+		        [["איזה איבר מאפשר לנו לשמוע את ציוץ הציפורים?"],[lib.ear, true],[lib.eye,false],["פה",false],["ידיים",false]],
+		        [["חריף נחשב טעם",lib.HotPepper],["לא נכון", true],["נכון",false]],
+		        [["איך קוראים לגשם הראשון?"],["היורה", true],["טל",false],["מבול",false]],
+		        [["מהי המילה הנרדפת לשמש",lib.sun],["חמה", true],["סהר",false],["ירח",false],["לבנה",false]],
+		        [["כמה ימים יש בשנה?"],["365 ימים", true],["452 ימים",false],["600 ימים",false],["522 ימים", false],["250 ימים",false],["300 ימים",false]],
+		        [["איזה מהצמחים הבאים משמש להכנת בגדים?"],["כותנה", true],["כרכום",false],["אקליפטוס",false],["גפן",false]],
+		        [["איך קוראים לצאצא של הציפור?"],["גוזל", true],["כפיר",false],["אפרוח",false],["סייח", false],["עופר",false]],
+		        [["מה משמיע רעש?"],["רעם", true],["ברק",false]],
+		        [["איזו חיה מחליפה צבעים?"],["זיקית", true],["ג׳ירפה",false],["יען",false],["דבורה",false]],
+		        [["מי מהחיות הבאות מכינה את הדבש?"],["דבורה", true],["גירית",false],["דוב",false]],
+		        [["מי אני? אני חיה קטנה שנחשבת חרוצה, ואפשר למצוא אותי גם בבית וגם בגינה אבל הקן שלי נמצא לרוב מתחת לאדמה"],["נמלה",true],["זבוב",false],["יתוש",false],["עכביש",false]],
+		        [["איזו תמונה מייצגת את עונת האביב?"],[lib.spring, true],[lib.autumn, false],[lib.summer,false],[lib.winter, false]]
 		    ]
 		]
 		
@@ -13062,19 +13056,21 @@ if (reversed == null) { reversed = false; }
 		    gameSelectionScreen.name = "gameSelectionScreen";
 		    stage.addChild(gameSelectionScreen);
 		    stage.getChildByName("gameSelectionScreen").enterToSelectedGameBtn.gotoAndStop(2)
+		
+		    gameSelectionScreen.enterToSelectedGameBtn.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
 		}
 		
 		// inputText וב comboBoxהפעלה של בדיקת שינוי 
-		$("#dom_overlay_container").on("change", "#comboBox", changeComboBoxValue);
-		$("#dom_overlay_container").on("input", "#inputText", checkInputText1Length);
-		$("#dom_overlay_container").on("input", "#inputText2", checkInputText2Length); 
+		$("#dom_overlay_container").on("change", "#comboBox", changeComboBoxValue); // זיהוי שינוי בחירה בקומבו בוקס
+		$("#dom_overlay_container").on("input", "#inputText", checkInputText1Length); // זיהוי של כתיבה בתיבת הטקסט של שם שחקן 1
+		$("#dom_overlay_container").on("input", "#inputText2", checkInputText2Length); // זיהוי של כתיבה בתיבת הטקסט של שם שחקן 2
 		
 		// פונקציית שרצה בכל לחיצה של מקש כשהשחקן מזין את השם שלו
 		function checkInputText1Length()
 		{
 		    var checkLength = document.getElementById("inputText").value
-		    console.log("check Input Text")
 		    document.getElementById("inputText").setAttribute('maxlength',8); // הגבלה של כמות התווים שאפשר להכניס לתיבת הטקסט
+		    // במידה ואורך השם גדול מ 0
 		    if(checkLength.length > 0)
 		    {
 		        stage.getChildByName("playersProperties").nextToChoosingCharacter1.gotoAndStop(0) 
@@ -13092,8 +13088,8 @@ if (reversed == null) { reversed = false; }
 		function checkInputText2Length()
 		{
 		    var checkLength = document.getElementById("inputText2").value
-		    console.log("check Input Text")
 		    document.getElementById("inputText2").setAttribute('maxlength',8);// הגבלה של כמות התווים שאפשר להכניס לתיבת הטקסט
+		    // במידה ואורך השם גדול מ 0
 		    if(checkLength.length > 0)
 		    {
 		        stage.getChildByName("playersProperties").nextToChoosingCharacter2.gotoAndStop(0) 
@@ -13121,6 +13117,7 @@ if (reversed == null) { reversed = false; }
 		// הפעלה של הכפתור לאישור המשחק הבחור
 		function enableEnterGameBtn()
 		{
+		    // בדיקה אם נבחר משחק
 		    if(gameCode >=0)
 		    {
 		        stage.getChildByName("gameSelectionScreen").enterToSelectedGameBtn.gotoAndStop(0)
@@ -13155,21 +13152,25 @@ if (reversed == null) { reversed = false; }
 		    startSceneAnimation.continueToChooseCharacter.addEventListener("mouseout",ButtonOut);
 		    startSceneAnimation.continueToChooseCharacter.addEventListener("click",BuildPlayersProperties);
 		    startSceneAnimation.x = -16;
-		    startSceneAnimation.y = 148
+		    startSceneAnimation.y = 148;
 		
 		    soundOffButton = startSceneAnimation.soundOffBtnSingle
-		    startSceneAnimation.soundOffBtnSingle.addEventListener("click", soundOff )
-		    startSceneAnimation.soundOffBtnSingle.addEventListener("mouseover", ButtonOver )
-		    startSceneAnimation.soundOffBtnSingle.addEventListener("mouseout", ButtonOut )
+		    startSceneAnimation.soundOffBtnSingle.addEventListener("click", soundOff);
+		    startSceneAnimation.soundOffBtnSingle.addEventListener("mouseover", ButtonOver);
+		    startSceneAnimation.soundOffBtnSingle.addEventListener("mouseout", ButtonOut);
+		
+		    startSceneAnimation.continueToChooseCharacter.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
 		}
 		
 		// הפעלת מסכי בחירת שחקנים  - מסך ראשון בחירת שם שחקן 1
 		function BuildPlayersProperties(event)
 		{
+		    // בדיקה האם המשחק הופעל מחדש
 		     if(event.currentTarget.name == "playAgainBtn")
 		     {
 		       var mainMusicrestart= createjs.Sound.stop("mainMusic");
 		     }
+		
 		    removeAllChildrenFromStage();
 		
 		    restartVars()
@@ -13183,6 +13184,8 @@ if (reversed == null) { reversed = false; }
 		    playersProperties.x = canvasSize/2 - 200;
 		    stage.addChild(playersProperties);
 		    stage.getChildByName("playersProperties").nextToChoosingCharacter1.gotoAndStop(2) 
+		
+		    playersProperties.nextToChoosingCharacter1.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
 		
 		    CurrentPlayer = 1
 		
@@ -13236,6 +13239,7 @@ if (reversed == null) { reversed = false; }
 		        evt.currentTarget.characterMC7
 		    ]
 		
+		    // בדיקה איזו דמות נבחרה ושינוי המשתנה והמסך בהתאם
 		    switch (evt.currentTarget.name) {
 		        case "chooseMan":
 		            player1Gender = 0
@@ -13274,6 +13278,8 @@ if (reversed == null) { reversed = false; }
 		
 		    playersProperties.confirmCharacter1Btn.addEventListener("click", chooseCharacter2Name);
 		    playersProperties.confirmCharacter1Btn.addEventListener("mouseover", ButtonOver);
+		
+		    playersProperties.confirmCharacter1Btn.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
 		}
 		
 		// בחירת שם לדמות 2
@@ -13282,12 +13288,12 @@ if (reversed == null) { reversed = false; }
 		    var mainMusic= createjs.Sound.play("clickSound");
 		
 		    stage.getChildByName("playersProperties").gotoAndStop(4)
-		    playersProperties.nextToChoosingCharacter2.addEventListener("click", chooseCharacter2)
-		    playersProperties.nextToChoosingCharacter2.addEventListener("mouseover", ButtonOver)
 		
 		    stage.getChildByName("playersProperties").nextToChoosingCharacter2.gotoAndStop(2) 
 		
 		    CurrentPlayer = 2
+		
+		    playersProperties.nextToChoosingCharacter2.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
 		}
 		
 		
@@ -13300,9 +13306,6 @@ if (reversed == null) { reversed = false; }
 		    player2Name = document.getElementById("inputText2").value 
 		    stage.getChildByName("playersProperties").gotoAndStop(5)
 		    playersProperties.player2LampName.text = player2Name;
-		
-		    playersProperties.chooseMan.gotoAndStop(0)
-		    playersProperties.chooseWoman.gotoAndStop(0)
 		
 		    playersProperties.chooseWoman2.addEventListener("click", chooseCharacter2Color);
 		    playersProperties.chooseMan2.addEventListener("click", chooseCharacter2Color);
@@ -13330,7 +13333,7 @@ if (reversed == null) { reversed = false; }
 		    ]
 		
 		  
-		
+		  // בדיקה איזו דמות נבחרה ושינוי המשתנה והמסך בהתאם
 		    switch (evt.currentTarget.name) {
 		        case "chooseMan2":
 		            player2Gender = 0
@@ -13372,13 +13375,15 @@ if (reversed == null) { reversed = false; }
 		
 		    playersProperties.confirmCharacter2Btn.addEventListener("click",firstPlayerlotteryButton);
 		    playersProperties.confirmCharacter2Btn.addEventListener("mouseover", ButtonOver);
+		
+		    playersProperties.confirmCharacter2Btn.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
 		}
+		
 		
 		// מסך ראשון של הגרלת שחקן ראשון
 		function firstPlayerlotteryButton()
 		{
 		    var mainMusic= createjs.Sound.play("clickSound");
-		    var mainMusic= createjs.Sound.play("lotteryMusic");
 		
 		    removeAllChildrenFromStage();
 		    var lotteryAnimation = new lib.lotteryAnimation;
@@ -13389,6 +13394,8 @@ if (reversed == null) { reversed = false; }
 		    lotteryAnimation.startLotteryBtn.addEventListener("click", firstPlayerlottery);
 		    lotteryAnimation.startLotteryBtn.addEventListener("mouseover", ButtonOver);
 		    lotteryAnimation.startLotteryBtn.addEventListener("mouseout", ButtonOut);
+		
+		    lotteryAnimation.startLotteryBtn.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
 		}
 		
 		// אנימציית הגרלת שחקן ראשון
@@ -13400,8 +13407,10 @@ if (reversed == null) { reversed = false; }
 		    var lotteryAnimation = stage.getChildByName("lotteryAnimation")
 		
 		    lotteryAnimation.gotoAndStop(1)
+		    // הגרלת מספר בין 1-2 כדי לבחור את השחקן הראשון
 		    var rndPlayer = Math.floor((Math.random() * 2))+1;
 		
+		    // פעולה מתאימה לפי השחקן הנבחר
 		    switch (rndPlayer) {
 		        case 1:
 		            lotteryAnimation.lotteryMaster.playerName.text = player1Name;
@@ -13416,14 +13425,12 @@ if (reversed == null) { reversed = false; }
 		            OtherPlayer = 1;
 		            firstPlayer = 2
 		            break;
-		    
 		
 		        default:
 		            break;
 		    }
 		   
 		    interval = setInterval(BuildCurrentGame, 6000);
-		    console.log(firstPlayer)
 		
 		}
 		
@@ -13474,6 +13481,7 @@ if (reversed == null) { reversed = false; }
 		    staticWall.player1FlagNameDisable.text = player1Name
 		    staticWall.player2FlagNameDisable.text = player2Name
 		
+		    // שינוי צבע שם השחקן על הדגל
 		    staticWall.player1FlagName.color = flagTextColors[player1Color];
 		    staticWall.player2FlagName.color = flagTextColors[player2Color];
 		
@@ -13491,7 +13499,7 @@ if (reversed == null) { reversed = false; }
 		
 		    soundOffButton = upperMenu.soundOffBtn
 		
-		
+		    // לכפתורי התפריט העליון Events הוספת
 		    upperMenu.pauseBtn.addEventListener("click", pauseGame)
 		    upperMenu.howToPlayBtn.addEventListener("click", howToPlayScreen)
 		    upperMenu.soundOffBtn.addEventListener("click", soundOff )
@@ -13609,16 +13617,13 @@ if (reversed == null) { reversed = false; }
 		    changeCharacterColorByChoosing()
 		
 		    PlayerLocation()
-		    
 		}
 		
 		// מיקום הדמויות על המסך
 		function PlayerLocation()
 		{
-		
 		    if(CurrentPlayer == 1)
 		    {
-		        
 		        stage.getChildByName("player1").x = 1140 ;
 		        stage.getChildByName("player1").y = 630;
 		        stage.getChildByName("player1").gotoAndStop(1)
@@ -13647,7 +13652,6 @@ if (reversed == null) { reversed = false; }
 		
 		    if(P1CorrectAnswers == currentGameFullLength/2)
 		    {
-		            console.log("stand in the pagoda")
 		            stage.getChildByName("player1").x -= 30
 		            stage.getChildByName("player1").y = 158;
 		            stage.getChildByName("player1").scaleX = stage.getChildByName("player1").scaleY = 0.3
@@ -13655,7 +13659,6 @@ if (reversed == null) { reversed = false; }
 		    
 		    else if(P2CorrectAnswers == currentGameFullLength/2)
 		    {
-		        console.log("stand in the pagoda")
 		         stage.getChildByName("player2").x += 30 ;
 		         stage.getChildByName("player2").y = 158;
 		         stage.getChildByName("player2").scaleX = -0.3
@@ -13685,20 +13688,15 @@ if (reversed == null) { reversed = false; }
 		    stage.removeChild(stage.getChildByName("NextTurnButton"))
 		    stage.removeChild(stage.getChildByName("setLeftConfetty"))
 		    stage.removeChild(stage.getChildByName("setRightConfetty"))
-		    
-		    console.log("CurrentPlayer")
-		    console.log(CurrentPlayer)
-		    console.log("OtherPlayer")
-		    console.log(OtherPlayer)
 		
 		}
 		
 		// סידור משחק לפי תור השחקן הרלוונטי
 		function SetPlayerTurn()
 		{
-		 
 		    upperMenu.pauseBtn.addEventListener("click", pauseGame)
 		
+		    // החלפה בין חומות רגילות לחומות אפורות
 		    for( i=0 ; i < currentGameFullLength/2 ; i++)
 		    {
 		        stage.getChildByName("staticWall").getChildByName("P"+CurrentPlayer+"WallPiece"+i).visible = true;
@@ -13720,6 +13718,7 @@ if (reversed == null) { reversed = false; }
 		    }
 		
 		    PlayerLocation()
+		    // בדיקה האם זה התור הראשון של השחקן על מנת להציג מסך איך משחקים
 		    if(P1QuestionsAmount == 0 || P2QuestionsAmount == 0)
 		    {
 		        howToPlayScreen()
@@ -13729,6 +13728,7 @@ if (reversed == null) { reversed = false; }
 		// יצירה של השאלה הנוכחית על המסך
 		function setQuestion()
 		{
+		    // ההגרלת שאלה מתוך מערך המשחק
 		    currentQuestion =  Math.floor((Math.random() * currentGameArray.length));
 		
 		     var questionText = stage.getChildByName("nearBackground").questionText;
@@ -13743,6 +13743,7 @@ if (reversed == null) { reversed = false; }
 		     questionText.y = 53.65
 		     questionText.x = 887.65   
 		
+		     // מירכוז השאלה לפי הצורך
 		   if(questionText.text.length < 50 )
 		   {
 		        if(currentGameArray[currentQuestion][0].length == 1)
@@ -13760,6 +13761,7 @@ if (reversed == null) { reversed = false; }
 		    
 		   } 
 		 
+		   // בדיקה האם השאלה מכילה תמונה והוספת התמונה במקרה הצורך
 		    if(currentGameArray[currentQuestion][0].length == 2)
 		    {
 		        questionText.lineWidth = 300;
@@ -13778,7 +13780,7 @@ if (reversed == null) { reversed = false; }
 		        questionImage.addEventListener("mouseover", showBigPicture);
 		        questionImage.addEventListener("mouseout", hideBigPicture);
 		
-		        //----------MAGNIFIRE-----------
+		        // הוספת זכוכית מגדלת לתמונה
 		        var magnifire = new (lib.magnifire)
 		        magnifire.name = "questionMagnifire"
 		        stage.getChildByName("nearBackground").addChildAt(magnifire, 2)
@@ -13795,7 +13797,7 @@ if (reversed == null) { reversed = false; }
 		        stage.getChildByName("nearBackground").timerText.text = countdown;
 		}
 		
-		// יצירת קונטיינר בתוכו יוכנסו אפשרויות הבחירה
+		// יצירת קונטיינר שבתוכו יוכנסו אפשרויות הבחירה
 		function setAnswersContainer()
 		{
 		    answersContainer = new createjs.Container();
@@ -13813,6 +13815,7 @@ if (reversed == null) { reversed = false; }
 		    window.addEventListener("keydown", changeSelectionAndConfirmByArrow)
 		
 		    var space;
+		    // הגדרת מרחק בין כל אפשרות בחירה בהתאם לכמות זוגית או אי זוגית
 		    if((currentGameArray[currentQuestion].length-1)%2 ==0)
 		    {
 		        space = 27;
@@ -13822,18 +13825,19 @@ if (reversed == null) { reversed = false; }
 		    }
 		    
 		    var optionWidth = 148.27;
+		
+		    // חישוב מיקום ההתחלה של אפשרות הבחירה הראשונה ע"י קריאה לפונקציה
 		    var OptionsXStart = optionsPositionCalculate(space, optionWidth);
 		
 		    for(i = 0 ; i < currentQuestionOptions.length ; i++)
 		    {
-		    
 		        var possibleAnswer = new lib.possibleAnswer();
 		        answersContainer.addChild(possibleAnswer)
 		        possibleAnswer.name = "possibleAnswer" + i ;
 		        possibleAnswer.x = OptionsXStart + (space + optionWidth) * i ;
 		        possibleAnswer.y = 410;
 		
-		        // Import string or image
+		        // הוספת טקסט או תמונה לאפשרות הבחירה
 		        if (typeof currentQuestionOptions[i][0] == 'string')
 		            {
 		                var answerText = answersContainer.getChildByName(possibleAnswer.name).answersText;
@@ -13870,7 +13874,7 @@ if (reversed == null) { reversed = false; }
 		                answerPicture.addEventListener("mouseover", showBigPicture);
 		                answerPicture.addEventListener("mouseout", hideBigPicture);
 		
-		                //----------MAGNIFIRE-----------
+		                // הוספת זכוכית מגדלת לתמונה
 		                var magnifire = new (lib.magnifire)
 		                answersContainer.getChildByName(possibleAnswer.name).addChildAt(magnifire, 2)
 		                magnifire.regX = (magnifire.getBounds().width) / 2;
@@ -13914,6 +13918,7 @@ if (reversed == null) { reversed = false; }
 		{
 		    clearOptionSelection();
 		
+		    // ביצוע פעולה בהתאם למקש שנלחץ ע"י השחקן
 		    switch (evt.keyCode) {
 		        case 39:
 		            currentOptionSelect +=1
@@ -13975,6 +13980,7 @@ if (reversed == null) { reversed = false; }
 		
 		        answersContainer.getChildByName("possibleAnswer" + currentOptionSelect).gotoAndStop(2) 
 		        setConfetty()
+		
 		        if(CurrentPlayer == 1)
 		        {
 		            P1QuestionsAmount++
@@ -13983,7 +13989,7 @@ if (reversed == null) { reversed = false; }
 		            animationName = "P1GoOutAnimation"
 		            stage.getChildByName("player1").gotoAndStop(5)
 		            stage.getChildByName("player1").characterMC5.addEventListener("complete", playAnimation)
-		        
+		
 		        } else 
 		        {
 		            P2QuestionsAmount++
@@ -13992,9 +13998,6 @@ if (reversed == null) { reversed = false; }
 		            animationName = "P2GoOutAnimation"
 		            stage.getChildByName("player2").gotoAndStop(5)
 		            stage.getChildByName("player2").characterMC5.addEventListener("complete", playAnimation)
-		            
-		           
-		
 		        }
 		
 		    } else
@@ -14032,6 +14035,7 @@ if (reversed == null) { reversed = false; }
 		    removeAllChildrenFromStage()
 		    clearInterval(interval);
 		    
+		    // חישוב ציון לכל שחקן
 		    P2Grade = parseInt(((P2QuestionsAmount-P2ErrorsAmount)/P2QuestionsAmount)*100) ;
 		    P1Grade = parseInt(((P1QuestionsAmount-P1ErrorsAmount)/P1QuestionsAmount)*100) ;
 		
@@ -14056,6 +14060,10 @@ if (reversed == null) { reversed = false; }
 		    endScreen.playAgainBtn.addEventListener("mouseover", ButtonOver)
 		    endScreen.playAgainBtn.addEventListener("mouseout", ButtonOut)
 		
+		    endScreen.endGameBtn.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
+		    endScreen.playAgainBtn.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
+		
+		    // בדיקה מי השחקן שניצח
 		    if(P1Grade > P2Grade)
 		    {
 		        endScreen.winnerText.text = player1Name + " ניצח/ה!"
@@ -14100,6 +14108,7 @@ if (reversed == null) { reversed = false; }
 		    
 		    }
 		
+		    // קריאה לפונקציה שמחשבת את גודל התמונה הרצוי בהתאם לפרמטרים
 		    bigPicture.scaleX = bigPicture.scaleY = SetImageSize(bigPicture, 250, 200);
 		
 		    bigPicture.regX = (bigPicture.getBounds().width) / 2;
@@ -14143,6 +14152,7 @@ if (reversed == null) { reversed = false; }
 		// הגדרת גודל לתמונות על המסך
 		function SetImageSize(curImage,maxWidth,maxHeight)
 		{
+		    // בדיקה האם התמונה לאורך או לרוחב
 		    if (curImage.getBounds().width > curImage.getBounds().height)
 		    {
 		        var picWidth = maxWidth / curImage.getBounds().width;
@@ -14161,6 +14171,7 @@ if (reversed == null) { reversed = false; }
 		    var timeInMinutes = [];
 		    timeInMinutes[0] =  Math.floor(playerAnswersTime/60);
 		
+		    // בדיקה האם מספר השניות הוא חד סיפרתי או דו ספרתי
 		    if((playerAnswersTime%60).toString().length == 1)
 		    {
 		        timeInMinutes[1] = "0" + playerAnswersTime%60;
@@ -14352,16 +14363,9 @@ if (reversed == null) { reversed = false; }
 		                stage.getChildByName("player2").x += 5
 		            } else
 		            {
-		                //console.log("stopPlayers")
 		                playerAnimationStop = "stop"
 		                endGamePlayersStop()
 		            }
-		            // else if((stage.getChildByName("player2")).x > 380)
-		            // {
-		            //     // playerAnimationStop = "stop"
-		            //     // endGamePlayersStop()
-		                 
-		            // }
 		        }
 		 
 		    }
@@ -14371,6 +14375,7 @@ if (reversed == null) { reversed = false; }
 		function dropBricks()
 		{
 		    stage.getChildByName("player" + CurrentPlayer).gotoAndStop(7)
+		
 		    stage.getChildByName("player" + CurrentPlayer).characterMC7.addEventListener("complete", changeWallAlphaManager)
 		}
 		
@@ -14429,6 +14434,7 @@ if (reversed == null) { reversed = false; }
 		    stage.getChildByName("player2").scaleX = -1.1
 		    stage.getChildByName("player2").scaleY = 1.1
 		
+		    // בדיקה מי ניצח
 		    if(P1Grade > P2Grade)
 		    {
 		        stage.getChildByName("player1").gotoAndStop(2)
@@ -14494,9 +14500,6 @@ if (reversed == null) { reversed = false; }
 		        if(CurrentPlayer == firstPlayer)
 		        { 
 		            buildNextButton()
-		            console.log("current player in alpha function")
-		
-		
 		        } else
 		        {
 		            interval = setInterval(endGame, 900);
@@ -14507,12 +14510,10 @@ if (reversed == null) { reversed = false; }
 		    {
 		  
 		        buildNextButton()
-		      
-		     
 		    }
 		}
 		
-		// חישוב גודל החומות בהתאם לכמות השאלות במשחקf
+		// חישוב גודל החומות בהתאם לכמות השאלות במשחק
 		function wallSizeCalc(questionsAmount)
 		{
 		    var staticWall = 100;
@@ -14584,6 +14585,9 @@ if (reversed == null) { reversed = false; }
 		    timeIsOverScreen.continueGame.addEventListener("mouseover", ButtonOver)
 		    timeIsOverScreen.continueGame.addEventListener("click", TimeIsOverContinue);
 		
+		    timeIsOverScreen.continueGame.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
+		
+		    // ביקה איזה שחקן משחק על מנת להגדיל את ערכי המשתנים שלו
 		    switch (CurrentPlayer) {
 		        case 1:
 		            P1ErrorsAmount++
@@ -14634,6 +14638,8 @@ if (reversed == null) { reversed = false; }
 		    pauseScreen.continueGame.addEventListener("click", pauseGameContinue);
 		    pauseScreen.continueGame.addEventListener("mouseover", ButtonOver);
 		    pauseScreen.continueGame.addEventListener("mouseout", ButtonOut);
+		
+		    pauseScreen.continueGame.shadow = new createjs.Shadow("rgba(0,0,0,0.08)", 5, 5, 10);
 		}
 		
 		
@@ -14656,7 +14662,6 @@ if (reversed == null) { reversed = false; }
 		// הוספת זמן שלקח לשחקן לענות על השאלה
 		function addTimeToAnswer()
 		{
-		    
 		    switch (CurrentPlayer) {
 		        case 1:
 		            P1AnswersTime += timeToQuestion - countdown
@@ -14709,8 +14714,8 @@ if (reversed == null) { reversed = false; }
 		function changeColorByChoosing(evt)
 		{
 		    var mainMusic= createjs.Sound.play("clickSound");
-		   // console.log(evt.currentTarget.name)
 		
+		    // בדיקה איזה כפתור צבע נבחר על ידי השחקן
 		    switch (evt.currentTarget.name) {
 		        case "greenBtn":
 		            choosedColor = 0
@@ -14732,7 +14737,7 @@ if (reversed == null) { reversed = false; }
 		            break;
 		    }
 		
-		    
+		    // הכנסה של ערך הצבע הנבחר למשתנה המתאים לפי כל שחקן
 		    switch (CurrentPlayer) {
 		        case 1:
 		            player1Color = choosedColor
@@ -14752,7 +14757,7 @@ if (reversed == null) { reversed = false; }
 		// שינוי צבע הדמות
 		function changeCharacterColorByChoosing()
 		{
-		
+		    // של הדמות ושינוי הצבע לצבע הנבחר MovieClipsמעבר על כל ה
 		    for(i = 0 ; i<8 ; i ++)
 		    {
 		        playerCharacterFrames[i].body.gotoAndStop(choosedColor)
@@ -14770,6 +14775,7 @@ if (reversed == null) { reversed = false; }
 		// איפוס צבע הדמות
 		function clearColorChoosing()
 		{
+		    // של הדמות ושינוי הצבע לצבע הראשוני MovieClipsמעבר על כל ה
 		    for(i = 0 ; i<8 ; i ++)
 		    {
 		        playerCharacterFrames[i].body.gotoAndStop(0)
@@ -14813,124 +14819,124 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/CachedBmp_836.png?1644154064516", id:"CachedBmp_836"},
-		{src:"images/CachedBmp_835.png?1644154064516", id:"CachedBmp_835"},
-		{src:"images/CachedBmp_708.png?1644154064516", id:"CachedBmp_708"},
-		{src:"images/CachedBmp_707.png?1644154064516", id:"CachedBmp_707"},
-		{src:"images/CachedBmp_704.png?1644154064516", id:"CachedBmp_704"},
-		{src:"images/CachedBmp_703.png?1644154064516", id:"CachedBmp_703"},
-		{src:"images/CachedBmp_702.png?1644154064516", id:"CachedBmp_702"},
-		{src:"images/CachedBmp_700.png?1644154064516", id:"CachedBmp_700"},
-		{src:"images/CachedBmp_699.png?1644154064516", id:"CachedBmp_699"},
-		{src:"images/CachedBmp_698.png?1644154064516", id:"CachedBmp_698"},
-		{src:"images/CachedBmp_695.png?1644154064516", id:"CachedBmp_695"},
-		{src:"images/CachedBmp_694.png?1644154064516", id:"CachedBmp_694"},
-		{src:"images/CachedBmp_693.png?1644154064516", id:"CachedBmp_693"},
-		{src:"images/CachedBmp_681.png?1644154064516", id:"CachedBmp_681"},
-		{src:"images/CachedBmp_680.png?1644154064516", id:"CachedBmp_680"},
-		{src:"images/CachedBmp_679.png?1644154064516", id:"CachedBmp_679"},
-		{src:"images/CachedBmp_678.png?1644154064516", id:"CachedBmp_678"},
-		{src:"images/CachedBmp_672.png?1644154064516", id:"CachedBmp_672"},
-		{src:"images/CachedBmp_671.png?1644154064516", id:"CachedBmp_671"},
-		{src:"images/CachedBmp_665.png?1644154064516", id:"CachedBmp_665"},
-		{src:"images/CachedBmp_664.png?1644154064516", id:"CachedBmp_664"},
-		{src:"images/CachedBmp_663.png?1644154064516", id:"CachedBmp_663"},
-		{src:"images/CachedBmp_670.png?1644154064516", id:"CachedBmp_670"},
-		{src:"images/CachedBmp_657.png?1644154064516", id:"CachedBmp_657"},
-		{src:"images/CachedBmp_621.png?1644154064516", id:"CachedBmp_621"},
-		{src:"images/CachedBmp_620.png?1644154064516", id:"CachedBmp_620"},
-		{src:"images/CachedBmp_618.png?1644154064516", id:"CachedBmp_618"},
-		{src:"images/CachedBmp_615.png?1644154064516", id:"CachedBmp_615"},
-		{src:"images/CachedBmp_613.png?1644154064516", id:"CachedBmp_613"},
-		{src:"images/CachedBmp_611.png?1644154064516", id:"CachedBmp_611"},
-		{src:"images/CachedBmp_609.png?1644154064516", id:"CachedBmp_609"},
-		{src:"images/CachedBmp_607.png?1644154064516", id:"CachedBmp_607"},
-		{src:"images/CachedBmp_605.png?1644154064516", id:"CachedBmp_605"},
-		{src:"images/CachedBmp_617.png?1644154064516", id:"CachedBmp_617"},
-		{src:"images/CachedBmp_603.png?1644154064516", id:"CachedBmp_603"},
-		{src:"images/CachedBmp_602.png?1644154064516", id:"CachedBmp_602"},
-		{src:"images/CachedBmp_601.png?1644154064516", id:"CachedBmp_601"},
-		{src:"images/CachedBmp_600.png?1644154064516", id:"CachedBmp_600"},
-		{src:"images/CachedBmp_599.png?1644154064516", id:"CachedBmp_599"},
-		{src:"images/CachedBmp_598.png?1644154064516", id:"CachedBmp_598"},
-		{src:"images/CachedBmp_597.png?1644154064516", id:"CachedBmp_597"},
-		{src:"images/CachedBmp_596.png?1644154064516", id:"CachedBmp_596"},
-		{src:"images/CachedBmp_595.png?1644154064516", id:"CachedBmp_595"},
-		{src:"images/CachedBmp_594.png?1644154064516", id:"CachedBmp_594"},
-		{src:"images/CachedBmp_593.png?1644154064516", id:"CachedBmp_593"},
-		{src:"images/CachedBmp_581.png?1644154064516", id:"CachedBmp_581"},
-		{src:"images/CachedBmp_579.png?1644154064516", id:"CachedBmp_579"},
-		{src:"images/CachedBmp_577.png?1644154064516", id:"CachedBmp_577"},
-		{src:"images/CachedBmp_564.png?1644154064516", id:"CachedBmp_564"},
-		{src:"images/CachedBmp_563.png?1644154064516", id:"CachedBmp_563"},
-		{src:"images/CachedBmp_562.png?1644154064516", id:"CachedBmp_562"},
-		{src:"images/CachedBmp_561.png?1644154064516", id:"CachedBmp_561"},
-		{src:"images/CachedBmp_560.png?1644154064516", id:"CachedBmp_560"},
-		{src:"images/CachedBmp_559.png?1644154064516", id:"CachedBmp_559"},
-		{src:"images/CachedBmp_558.png?1644154064516", id:"CachedBmp_558"},
-		{src:"images/CachedBmp_557.png?1644154064516", id:"CachedBmp_557"},
-		{src:"images/CachedBmp_556.png?1644154064516", id:"CachedBmp_556"},
-		{src:"images/CachedBmp_555.png?1644154064516", id:"CachedBmp_555"},
-		{src:"images/CachedBmp_554.png?1644154064516", id:"CachedBmp_554"},
-		{src:"images/CachedBmp_490.png?1644154064516", id:"CachedBmp_490"},
-		{src:"images/CachedBmp_491.png?1644154064516", id:"CachedBmp_491"},
-		{src:"images/CachedBmp_462.png?1644154064517", id:"CachedBmp_462"},
-		{src:"images/CachedBmp_460.png?1644154064517", id:"CachedBmp_460"},
-		{src:"images/CachedBmp_459.png?1644154064517", id:"CachedBmp_459"},
-		{src:"images/CachedBmp_705.png?1644154064517", id:"CachedBmp_705"},
-		{src:"images/CachedBmp_439.png?1644154064517", id:"CachedBmp_439"},
-		{src:"images/CachedBmp_438.png?1644154064517", id:"CachedBmp_438"},
-		{src:"images/CachedBmp_437.png?1644154064517", id:"CachedBmp_437"},
-		{src:"images/CachedBmp_424.png?1644154064517", id:"CachedBmp_424"},
-		{src:"images/CachedBmp_423.png?1644154064517", id:"CachedBmp_423"},
-		{src:"images/CachedBmp_422.png?1644154064517", id:"CachedBmp_422"},
-		{src:"images/CachedBmp_419.png?1644154064517", id:"CachedBmp_419"},
-		{src:"images/2Chineese_atlas_1.png?1644154062768", id:"2Chineese_atlas_1"},
-		{src:"images/2Chineese_atlas_2.png?1644154062768", id:"2Chineese_atlas_2"},
-		{src:"images/2Chineese_atlas_3.png?1644154062769", id:"2Chineese_atlas_3"},
-		{src:"images/2Chineese_atlas_4.png?1644154062769", id:"2Chineese_atlas_4"},
-		{src:"images/2Chineese_atlas_5.png?1644154062769", id:"2Chineese_atlas_5"},
-		{src:"images/2Chineese_atlas_6.png?1644154062769", id:"2Chineese_atlas_6"},
-		{src:"images/2Chineese_atlas_7.png?1644154062770", id:"2Chineese_atlas_7"},
-		{src:"images/2Chineese_atlas_8.png?1644154062770", id:"2Chineese_atlas_8"},
-		{src:"images/2Chineese_atlas_9.png?1644154062770", id:"2Chineese_atlas_9"},
-		{src:"images/2Chineese_atlas_10.png?1644154062770", id:"2Chineese_atlas_10"},
-		{src:"images/2Chineese_atlas_11.png?1644154062771", id:"2Chineese_atlas_11"},
-		{src:"images/2Chineese_atlas_12.png?1644154062771", id:"2Chineese_atlas_12"},
-		{src:"images/2Chineese_atlas_13.png?1644154062771", id:"2Chineese_atlas_13"},
-		{src:"images/2Chineese_atlas_14.png?1644154062771", id:"2Chineese_atlas_14"},
-		{src:"images/2Chineese_atlas_15.png?1644154062772", id:"2Chineese_atlas_15"},
-		{src:"images/2Chineese_atlas_16.png?1644154062772", id:"2Chineese_atlas_16"},
-		{src:"images/2Chineese_atlas_17.png?1644154062772", id:"2Chineese_atlas_17"},
-		{src:"images/2Chineese_atlas_18.png?1644154062772", id:"2Chineese_atlas_18"},
-		{src:"images/2Chineese_atlas_19.png?1644154062773", id:"2Chineese_atlas_19"},
-		{src:"images/2Chineese_atlas_20.png?1644154062773", id:"2Chineese_atlas_20"},
-		{src:"images/2Chineese_atlas_21.png?1644154062773", id:"2Chineese_atlas_21"},
-		{src:"images/2Chineese_atlas_22.png?1644154062774", id:"2Chineese_atlas_22"},
-		{src:"images/2Chineese_atlas_23.png?1644154062774", id:"2Chineese_atlas_23"},
-		{src:"images/2Chineese_atlas_24.png?1644154062774", id:"2Chineese_atlas_24"},
-		{src:"images/2Chineese_atlas_25.png?1644154062775", id:"2Chineese_atlas_25"},
-		{src:"images/2Chineese_atlas_26.png?1644154062775", id:"2Chineese_atlas_26"},
-		{src:"images/2Chineese_atlas_27.png?1644154062775", id:"2Chineese_atlas_27"},
-		{src:"images/2Chineese_atlas_28.png?1644154062776", id:"2Chineese_atlas_28"},
-		{src:"images/2Chineese_atlas_29.png?1644154062776", id:"2Chineese_atlas_29"},
-		{src:"images/2Chineese_atlas_30.png?1644154062777", id:"2Chineese_atlas_30"},
-		{src:"images/2Chineese_atlas_31.png?1644154062778", id:"2Chineese_atlas_31"},
-		{src:"images/2Chineese_atlas_32.png?1644154062779", id:"2Chineese_atlas_32"},
-		{src:"images/2Chineese_atlas_33.png?1644154062782", id:"2Chineese_atlas_33"},
-		{src:"sounds/clickSound.mp3?1644154064517", id:"clickSound"},
-		{src:"sounds/failure.mp3?1644154064517", id:"failure"},
-		{src:"sounds/failureManSound.mp3?1644154064517", id:"failureManSound"},
-		{src:"sounds/lotterySound.mp3?1644154064517", id:"lotterySound"},
-		{src:"sounds/mainMusic.mp3?1644154064517", id:"mainMusic"},
-		{src:"sounds/startScene.mp3?1644154064517", id:"startScene"},
-		{src:"sounds/success.mp3?1644154064517", id:"success"},
-		{src:"sounds/successManSound.mp3?1644154064517", id:"successManSound"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1644154064517", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1644154064517", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1644154064517", id:"an.TextInput"},
-		{src:"components/ui/src/css.js?1644154064517", id:"an.CSS"},
-		{src:"components/ui/src/combobox.js?1644154064517", id:"an.ComboBox"}
+		{src:"images/CachedBmp_836.png?1644159645075", id:"CachedBmp_836"},
+		{src:"images/CachedBmp_835.png?1644159645075", id:"CachedBmp_835"},
+		{src:"images/CachedBmp_708.png?1644159645075", id:"CachedBmp_708"},
+		{src:"images/CachedBmp_707.png?1644159645075", id:"CachedBmp_707"},
+		{src:"images/CachedBmp_704.png?1644159645075", id:"CachedBmp_704"},
+		{src:"images/CachedBmp_703.png?1644159645075", id:"CachedBmp_703"},
+		{src:"images/CachedBmp_702.png?1644159645075", id:"CachedBmp_702"},
+		{src:"images/CachedBmp_700.png?1644159645075", id:"CachedBmp_700"},
+		{src:"images/CachedBmp_699.png?1644159645075", id:"CachedBmp_699"},
+		{src:"images/CachedBmp_698.png?1644159645075", id:"CachedBmp_698"},
+		{src:"images/CachedBmp_695.png?1644159645075", id:"CachedBmp_695"},
+		{src:"images/CachedBmp_694.png?1644159645075", id:"CachedBmp_694"},
+		{src:"images/CachedBmp_693.png?1644159645075", id:"CachedBmp_693"},
+		{src:"images/CachedBmp_681.png?1644159645075", id:"CachedBmp_681"},
+		{src:"images/CachedBmp_680.png?1644159645075", id:"CachedBmp_680"},
+		{src:"images/CachedBmp_679.png?1644159645075", id:"CachedBmp_679"},
+		{src:"images/CachedBmp_678.png?1644159645075", id:"CachedBmp_678"},
+		{src:"images/CachedBmp_672.png?1644159645075", id:"CachedBmp_672"},
+		{src:"images/CachedBmp_671.png?1644159645075", id:"CachedBmp_671"},
+		{src:"images/CachedBmp_665.png?1644159645075", id:"CachedBmp_665"},
+		{src:"images/CachedBmp_664.png?1644159645075", id:"CachedBmp_664"},
+		{src:"images/CachedBmp_663.png?1644159645075", id:"CachedBmp_663"},
+		{src:"images/CachedBmp_670.png?1644159645075", id:"CachedBmp_670"},
+		{src:"images/CachedBmp_657.png?1644159645075", id:"CachedBmp_657"},
+		{src:"images/CachedBmp_621.png?1644159645075", id:"CachedBmp_621"},
+		{src:"images/CachedBmp_620.png?1644159645075", id:"CachedBmp_620"},
+		{src:"images/CachedBmp_618.png?1644159645075", id:"CachedBmp_618"},
+		{src:"images/CachedBmp_615.png?1644159645075", id:"CachedBmp_615"},
+		{src:"images/CachedBmp_613.png?1644159645075", id:"CachedBmp_613"},
+		{src:"images/CachedBmp_611.png?1644159645075", id:"CachedBmp_611"},
+		{src:"images/CachedBmp_609.png?1644159645075", id:"CachedBmp_609"},
+		{src:"images/CachedBmp_607.png?1644159645075", id:"CachedBmp_607"},
+		{src:"images/CachedBmp_605.png?1644159645075", id:"CachedBmp_605"},
+		{src:"images/CachedBmp_617.png?1644159645075", id:"CachedBmp_617"},
+		{src:"images/CachedBmp_603.png?1644159645075", id:"CachedBmp_603"},
+		{src:"images/CachedBmp_602.png?1644159645075", id:"CachedBmp_602"},
+		{src:"images/CachedBmp_601.png?1644159645075", id:"CachedBmp_601"},
+		{src:"images/CachedBmp_600.png?1644159645075", id:"CachedBmp_600"},
+		{src:"images/CachedBmp_599.png?1644159645075", id:"CachedBmp_599"},
+		{src:"images/CachedBmp_598.png?1644159645075", id:"CachedBmp_598"},
+		{src:"images/CachedBmp_597.png?1644159645075", id:"CachedBmp_597"},
+		{src:"images/CachedBmp_596.png?1644159645075", id:"CachedBmp_596"},
+		{src:"images/CachedBmp_595.png?1644159645075", id:"CachedBmp_595"},
+		{src:"images/CachedBmp_594.png?1644159645075", id:"CachedBmp_594"},
+		{src:"images/CachedBmp_593.png?1644159645075", id:"CachedBmp_593"},
+		{src:"images/CachedBmp_581.png?1644159645075", id:"CachedBmp_581"},
+		{src:"images/CachedBmp_579.png?1644159645075", id:"CachedBmp_579"},
+		{src:"images/CachedBmp_577.png?1644159645075", id:"CachedBmp_577"},
+		{src:"images/CachedBmp_564.png?1644159645075", id:"CachedBmp_564"},
+		{src:"images/CachedBmp_563.png?1644159645075", id:"CachedBmp_563"},
+		{src:"images/CachedBmp_562.png?1644159645075", id:"CachedBmp_562"},
+		{src:"images/CachedBmp_561.png?1644159645075", id:"CachedBmp_561"},
+		{src:"images/CachedBmp_560.png?1644159645075", id:"CachedBmp_560"},
+		{src:"images/CachedBmp_559.png?1644159645075", id:"CachedBmp_559"},
+		{src:"images/CachedBmp_558.png?1644159645076", id:"CachedBmp_558"},
+		{src:"images/CachedBmp_557.png?1644159645076", id:"CachedBmp_557"},
+		{src:"images/CachedBmp_556.png?1644159645076", id:"CachedBmp_556"},
+		{src:"images/CachedBmp_555.png?1644159645076", id:"CachedBmp_555"},
+		{src:"images/CachedBmp_554.png?1644159645076", id:"CachedBmp_554"},
+		{src:"images/CachedBmp_490.png?1644159645076", id:"CachedBmp_490"},
+		{src:"images/CachedBmp_491.png?1644159645076", id:"CachedBmp_491"},
+		{src:"images/CachedBmp_462.png?1644159645076", id:"CachedBmp_462"},
+		{src:"images/CachedBmp_460.png?1644159645076", id:"CachedBmp_460"},
+		{src:"images/CachedBmp_459.png?1644159645076", id:"CachedBmp_459"},
+		{src:"images/CachedBmp_705.png?1644159645076", id:"CachedBmp_705"},
+		{src:"images/CachedBmp_439.png?1644159645076", id:"CachedBmp_439"},
+		{src:"images/CachedBmp_438.png?1644159645076", id:"CachedBmp_438"},
+		{src:"images/CachedBmp_437.png?1644159645076", id:"CachedBmp_437"},
+		{src:"images/CachedBmp_424.png?1644159645076", id:"CachedBmp_424"},
+		{src:"images/CachedBmp_423.png?1644159645076", id:"CachedBmp_423"},
+		{src:"images/CachedBmp_422.png?1644159645076", id:"CachedBmp_422"},
+		{src:"images/CachedBmp_419.png?1644159645076", id:"CachedBmp_419"},
+		{src:"images/2Chineese_atlas_1.png?1644159642514", id:"2Chineese_atlas_1"},
+		{src:"images/2Chineese_atlas_2.png?1644159642514", id:"2Chineese_atlas_2"},
+		{src:"images/2Chineese_atlas_3.png?1644159642515", id:"2Chineese_atlas_3"},
+		{src:"images/2Chineese_atlas_4.png?1644159642516", id:"2Chineese_atlas_4"},
+		{src:"images/2Chineese_atlas_5.png?1644159642517", id:"2Chineese_atlas_5"},
+		{src:"images/2Chineese_atlas_6.png?1644159642517", id:"2Chineese_atlas_6"},
+		{src:"images/2Chineese_atlas_7.png?1644159642518", id:"2Chineese_atlas_7"},
+		{src:"images/2Chineese_atlas_8.png?1644159642519", id:"2Chineese_atlas_8"},
+		{src:"images/2Chineese_atlas_9.png?1644159642520", id:"2Chineese_atlas_9"},
+		{src:"images/2Chineese_atlas_10.png?1644159642520", id:"2Chineese_atlas_10"},
+		{src:"images/2Chineese_atlas_11.png?1644159642526", id:"2Chineese_atlas_11"},
+		{src:"images/2Chineese_atlas_12.png?1644159642528", id:"2Chineese_atlas_12"},
+		{src:"images/2Chineese_atlas_13.png?1644159642528", id:"2Chineese_atlas_13"},
+		{src:"images/2Chineese_atlas_14.png?1644159642529", id:"2Chineese_atlas_14"},
+		{src:"images/2Chineese_atlas_15.png?1644159642530", id:"2Chineese_atlas_15"},
+		{src:"images/2Chineese_atlas_16.png?1644159642532", id:"2Chineese_atlas_16"},
+		{src:"images/2Chineese_atlas_17.png?1644159642533", id:"2Chineese_atlas_17"},
+		{src:"images/2Chineese_atlas_18.png?1644159642533", id:"2Chineese_atlas_18"},
+		{src:"images/2Chineese_atlas_19.png?1644159642534", id:"2Chineese_atlas_19"},
+		{src:"images/2Chineese_atlas_20.png?1644159642535", id:"2Chineese_atlas_20"},
+		{src:"images/2Chineese_atlas_21.png?1644159642536", id:"2Chineese_atlas_21"},
+		{src:"images/2Chineese_atlas_22.png?1644159642538", id:"2Chineese_atlas_22"},
+		{src:"images/2Chineese_atlas_23.png?1644159642539", id:"2Chineese_atlas_23"},
+		{src:"images/2Chineese_atlas_24.png?1644159642540", id:"2Chineese_atlas_24"},
+		{src:"images/2Chineese_atlas_25.png?1644159642542", id:"2Chineese_atlas_25"},
+		{src:"images/2Chineese_atlas_26.png?1644159642543", id:"2Chineese_atlas_26"},
+		{src:"images/2Chineese_atlas_27.png?1644159642544", id:"2Chineese_atlas_27"},
+		{src:"images/2Chineese_atlas_28.png?1644159642544", id:"2Chineese_atlas_28"},
+		{src:"images/2Chineese_atlas_29.png?1644159642546", id:"2Chineese_atlas_29"},
+		{src:"images/2Chineese_atlas_30.png?1644159642547", id:"2Chineese_atlas_30"},
+		{src:"images/2Chineese_atlas_31.png?1644159642547", id:"2Chineese_atlas_31"},
+		{src:"images/2Chineese_atlas_32.png?1644159642548", id:"2Chineese_atlas_32"},
+		{src:"images/2Chineese_atlas_33.png?1644159642549", id:"2Chineese_atlas_33"},
+		{src:"sounds/clickSound.mp3?1644159645076", id:"clickSound"},
+		{src:"sounds/failure.mp3?1644159645076", id:"failure"},
+		{src:"sounds/failureManSound.mp3?1644159645076", id:"failureManSound"},
+		{src:"sounds/lotterySound.mp3?1644159645076", id:"lotterySound"},
+		{src:"sounds/mainMusic.mp3?1644159645076", id:"mainMusic"},
+		{src:"sounds/startScene.mp3?1644159645076", id:"startScene"},
+		{src:"sounds/success.mp3?1644159645076", id:"success"},
+		{src:"sounds/successManSound.mp3?1644159645076", id:"successManSound"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1644159645076", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1644159645076", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1644159645076", id:"an.TextInput"},
+		{src:"components/ui/src/css.js?1644159645076", id:"an.CSS"},
+		{src:"components/ui/src/combobox.js?1644159645076", id:"an.ComboBox"}
 	],
 	preloads: []
 };
