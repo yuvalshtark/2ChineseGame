@@ -1094,14 +1094,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 
-(lib.CachedBmp_842 = function() {
+(lib.CachedBmp_848 = function() {
 	this.initialize(ss["2Chineese_atlas_24"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_841 = function() {
+(lib.CachedBmp_847 = function() {
 	this.initialize(ss["2Chineese_atlas_11"]);
 	this.gotoAndStop(98);
 }).prototype = p = new cjs.Sprite();
@@ -1122,7 +1122,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3840,1020);
 
 
 
-(lib.CachedBmp_840 = function() {
+(lib.CachedBmp_846 = function() {
 	this.initialize(ss["2Chineese_atlas_12"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
@@ -7192,10 +7192,10 @@ if (reversed == null) { reversed = false; }
 	mask.setTransform(641.6,360.725);
 
 	// basta
-	this.instance_1 = new lib.CachedBmp_842();
+	this.instance_1 = new lib.CachedBmp_848();
 	this.instance_1.setTransform(818.2,346.2,0.3333,0.3333);
 
-	this.instance_2 = new lib.CachedBmp_841();
+	this.instance_2 = new lib.CachedBmp_847();
 	this.instance_2.setTransform(854.05,362.5,0.3333,0.3333);
 
 	this.instance_3 = new lib.CachedBmp_688();
@@ -7204,7 +7204,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_4 = new lib.CachedBmp_687();
 	this.instance_4.setTransform(825.25,338.15,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_840();
+	this.instance_5 = new lib.CachedBmp_846();
 	this.instance_5.setTransform(871,440.5,0.3333,0.3333);
 
 	this.instance_6 = new lib.CachedBmp_685();
@@ -8577,9 +8577,9 @@ if (reversed == null) { reversed = false; }
 	// clouds
 	this.shape_4 = new cjs.Shape();
 	this.shape_4.graphics.f("rgba(255,255,255,0.208)").s().p("EhelAOhIlYh8IAAnOQCngXCLAJQC/AMBvBIQCeBnCiB2QBRA7AxAmQALgJATgNQAlgaAmgQQB5g0BSA+QBCAxBDA4QA4AnB3AqQCmA7CuASQj/A3lRAaQiyAOigAAQm6AAkqhqgEBROAOdQFdh2CChLQCDhMCMgTQBGgKAsAGQBQiFB1hiQA/g0BMghIAAHxQkzBXp/BIQjHAXjRASIipAOgEAs5AO1IjlgUIEagWQExgWB1AAQBPAADIgXQDlgaEBgrQK2h0HbilQExhrFKieQD2h2DriGIAADCQmzC9p+DpQtME0vrAkQh5AEh2AAQi7AAizgKgEA7yAHUQDUg0BlgvQCchKCBhwIAshuQAchFBdgVQAvgLApADQBphuBSiEQA3hZDAgYQBhgNBVAGIAVgsQAdg3Arg8QCJjBDcikQBfhJB2gkIGXAAIAjALIAANVQjpB6i0BNQmMCqvxChQk/AzlXArQjTAbhUAJIDLgsgEhHHAHHQzmgBpQlGIAAkAQFJDAHdCiQH1CsN3AOQG8AHFXgcQh/AQjNAQQmVAgmCAAIgMAAgEhcLgADQkniLjLiQIAArsIS1AAQDDBPArCAQAwCQAZC4QAMBcADA/IAvgZQA6gdA4gRQCyg3BZBTQCIB/BfCeIAYgNQAegPAegFQBggQA+BSQBjCDAhAhIA3gYQBHgTBTAVQBSAUDWAOQBsAHBaADQnpBCpOARQiaAFiPAAQu3AAm6jQgEA6+AAGQGCibDniBQC7hoE+kAQDPinDpjPIDbAAQpCI/s7FYQkEBrj+BIIjTA1IFdiFgAcMA6QBYgGBTgLQELgjB1hLQCJhZBZglQBWgkAyAIQBCALAsALIAIgTQAMgWATgTQA8g8BuAAQBuAABjAFIBNAGQgBgNAEgUQAHgnAVghQBFhoC5AAQCVAADMADQCTAABTgOQBSgOB5hHQA8gkAsghQiMB5jmCJQnOETnFBSQnGBRowAhQiuALimAEIiCACgEgjlgE7Qq3gumxhnQlJhOmsjBQkmiEktinIH9AAQI+FmQkDlQISBzGfArQkFgClbgYg");
-	this.shape_4.setTransform(651.425,-44.5602);
+	this.shape_4.setTransform(655.433,-46.5602,1.0094,1);
 
-	this.timeline.addTween(cjs.Tween.get(this.shape_4).wait(143).to({x:655.425},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.shape_4).wait(144));
 
 	// far_mountains
 	this.shape_5 = new cjs.Shape();
@@ -12887,21 +12887,21 @@ if (reversed == null) { reversed = false; }
 		        [["אילו מהמקומות הבאים אינו נמצא בסין?",lib.chinaFlag],["העיר האסורה", false],[lib.taracota,false],[lib.mountFuji,true],[lib.leshan, false],["בייג׳ין", false],["שנגחאי", false]],
 		        [["כמה אנשים חיים בסין?",lib.chinesePeople],["1.4 מילארד", true],["25 מיליון",false],["מיליארד",false],["2.2 מיליארד", false],["250 מיליון", false],["30.2 מיליון", false]],
 		        [["סין ידועה באוכלוסייתה הגדולה, ושנגחאי היא הדוגמה הטובה ביותר לכך. כמה אנשים חיים בשנגחאי?"],["כ-25 מיליון",true],["כ-200 אלף",false],["כ-2 מיליון",false]],
-		        [["מהו אורך החומה הסינית?"],["19.57 ק״מ", false],["24.972 ק״מ",false],["21.196 ק״מ",true],["31.29 ק״מ",false]],
-		        [["שני ההרים הגבוהים בעולם נמצאים בחלקם בסין"],["לא נכון", false],["נכון",true]],
-		        [["מהו השם המלא והרשמי של סין?"],["הרפובליקה העממית של סין", true],["ממלכת סין", false],["אימפריית סין", false],["ארצות הברית של סין", false]],
-		        [["מי אני? חיה חמודה שנפוצה באיזור סצ'ואן שבסין. יש לי פרווה בצבע חום אדמדם ועל אף שמי, אני לא דוב אמיתי"],["אני דוב חום יונק, גדול ואחד מהטורפים הגדולים ביותר בעולם", false],["אני פנדה אדומה, יונק קטן ואני לא קרובה של הפנדה הענקית",true],["אני דוב שחור אסייתי, אני יונק גדול שאוכל הכל", false]],
-		        [["מהו המאכל שנמצא כמעט בכל ארוחה סינית?"],[lib.rice, true],["נודלס", false],[lib.cheese, false],["סושי", false],["סמוסה", false],[lib.dimSum, false]],
-		        [["מאיזה חומר עשויים הפסלים שבתמונה?",lib.taracota],["טרקוטה",true],["חימר",false],["בוץ",false],["פלדה",false]],
-		        [["דים סאם הוא מאכל סיני שמוגש ככיסונים מאודים או מטוגנים. לרוב אוכלים אותו בבוקר, וניתן למצוא אותו בבתי תה",lib.dimSum],["נכון", true],["לא נכון", false]],
-		        [["מהי עיר הבירה של סין?"],["שנגחאי", false],["בייג׳ין", true],["ווהאן", false]],
-		        [["ישנם הרבה אתרי מורשת של אונסק״ו הנמתאים בסין. איזה מהם הוא אחד משבעת פלאי תבל?"],["העיר האסורה", false],["מקדש השמיים", false],["טירת הקיץ", false],["החומה הסינית", true]],
-		        [["מי אני? אני נמצאת בביג׳יין, הייתי ארמונם של קיסרי סין במשך שנים רבות, ולקח 18 שנה לבנות אותי?"],["העיר האסורה", true],[lib.theGoosePagoda, false],["מגדל הפעמון", false],[lib.chineseWall, false],[lib.templeOfHeaven, false]],
+		        // [["מהו אורך החומה הסינית?"],["19.57 ק״מ", false],["24.972 ק״מ",false],["21.196 ק״מ",true],["31.29 ק״מ",false]],
+		        // [["שני ההרים הגבוהים בעולם נמצאים בחלקם בסין"],["לא נכון", false],["נכון",true]],
+		        // [["מהו השם המלא והרשמי של סין?"],["הרפובליקה העממית של סין", true],["ממלכת סין", false],["אימפריית סין", false],["ארצות הברית של סין", false]],
+		        // [["מי אני? חיה חמודה שנפוצה באיזור סצ'ואן שבסין. יש לי פרווה בצבע חום אדמדם ועל אף שמי, אני לא דוב אמיתי"],["אני דוב חום יונק, גדול ואחד מהטורפים הגדולים ביותר בעולם", false],["אני פנדה אדומה, יונק קטן ואני לא קרובה של הפנדה הענקית",true],["אני דוב שחור אסייתי, אני יונק גדול שאוכל הכל", false]],
+		        // [["מהו המאכל שנמצא כמעט בכל ארוחה סינית?"],[lib.rice, true],["נודלס", false],[lib.cheese, false],["סושי", false],["סמוסה", false],[lib.dimSum, false]],
+		        // [["מאיזה חומר עשויים הפסלים שבתמונה?",lib.taracota],["טרקוטה",true],["חימר",false],["בוץ",false],["פלדה",false]],
+		        // [["דים סאם הוא מאכל סיני שמוגש ככיסונים מאודים או מטוגנים. לרוב אוכלים אותו בבוקר, וניתן למצוא אותו בבתי תה",lib.dimSum],["נכון", true],["לא נכון", false]],
+		        // [["מהי עיר הבירה של סין?"],["שנגחאי", false],["בייג׳ין", true],["ווהאן", false]],
+		        // [["ישנם הרבה אתרי מורשת של אונסק״ו הנמתאים בסין. איזה מהם הוא אחד משבעת פלאי תבל?"],["העיר האסורה", false],["מקדש השמיים", false],["טירת הקיץ", false],["החומה הסינית", true]],
+		        // [["מי אני? אני נמצאת בביג׳יין, הייתי ארמונם של קיסרי סין במשך שנים רבות, ולקח 18 שנה לבנות אותי?"],["העיר האסורה", true],[lib.theGoosePagoda, false],["מגדל הפעמון", false],[lib.chineseWall, false],[lib.templeOfHeaven, false]],
 		        [["מהי החיה הלאומית של סין?"],[lib.turtle, false],[lib.dragon,false],[lib.pandaBear,true],[lib.rat, false],[lib.snake, false]]
 		    ],
 		    [
 		        [["איזה משפט מתאים לעונות הסתיו?"],["כל העלים הכתומים נשרו מן העצים",true],["מאוד חם בחוץ, השמש חזקה ומסנוורת",false],["לא כל כך קר והרבה פרחים פורחים",false],["לבשתי מעיל חם וגרבתי גרבי צמר",false]],
-		        [["אילו פעילויות עושים בקיץ?"],["לובשים בגד ים",true],["קופצים בשלולית",false],["גולשים סקי",false],["לובשים מעיל", false]],
+		        [["איזו פעילות עושים בקיץ?"],["לובשים בגד ים",true],["קופצים בשלולית",false],["גולשים סקי",false],["לובשים מעיל", false]],
 		        [["איזו עונה מגיעה אחרי הקיץ?"],["סתיו",true],["חורף",false],["אביב",false]],
 		        [["מי אני? אני צמח גבוה עם פרחים לבנים ואני מבשר את בוא הסתיו"],["חצב", true],["כלנית",false],[lib.sunflower,false],[lib.groundsel, false],["נרקיס",false]],
 		        [["איזו ציפור מסמלת את בוא הגשם?"],[lib.motacilla,true],[lib.passer,false],[lib.pelecanus,false],[lib.upupa,false],[lib.alcedinidae,false],[lib.psittacula,false]],
@@ -12937,7 +12937,7 @@ if (reversed == null) { reversed = false; }
 		
 		var interval; // משתנה לשימוש באירועי זמן במהלך המשחק
 		var countdown; // משך הזמן שנותר לשחקן לענות על השאלה
-		var timeToQuestion; // כמה זמן יש לכל שאלה
+		var timeToQuestion = 30; // כמה זמן יש לכל שאלה
 		var pauseTime = 0; // משך הזמן שלקח לשחקן לענות על השאלה
 		var playerAnimationStop = "stop" // משתנה שממפעיל ועוצר את תזוזת הדמויות על המסך באמצעות הטיקר
 		var animationName // שם האנימציה שתופעל בטיקר
@@ -12968,7 +12968,6 @@ if (reversed == null) { reversed = false; }
 		var soundOffButton; // משתנה שיכיל את כפתור השתקת המשחק
 		var playersProperties; // משתנה שיכיל ת מסך בחירת הדמויות וההגדרות שלהן
 		
-		//var playerAnswerIsCorrect; // delete
 		var playerCharacterFrames; // משתנה המכיל את המוביקליפים של הדמויות על מנת לשנות את צבע הדמות
 		var choosedColor; // הצבע שאליו פונקציית שינוי הצבע משנה את הדמות 
 		
@@ -13492,7 +13491,6 @@ if (reversed == null) { reversed = false; }
 		{
 		    upperMenu = new lib.upperMenu();
 		    upperMenu.name = "upperMenu"
-		    //stage.addChildAt(upperMenu,3);
 		    stage.addChild(upperMenu);
 		    upperMenu.y = -2.55;
 		    upperMenu.gameSubject.text = gamesNames[gameCode]
@@ -13792,8 +13790,7 @@ if (reversed == null) { reversed = false; }
 		        magnifire.scaleX = magnifire.scaleY = 0.3;
 		    }
 		        interval = setInterval(countDownFunction, 1000);
-		        countdown = 30 - pauseTime;
-		        timeToQuestion = countdown
+		        countdown = timeToQuestion - pauseTime;
 		        stage.getChildByName("nearBackground").timerText.text = countdown;
 		}
 		
@@ -14819,124 +14816,124 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/CachedBmp_836.png?1644159645075", id:"CachedBmp_836"},
-		{src:"images/CachedBmp_835.png?1644159645075", id:"CachedBmp_835"},
-		{src:"images/CachedBmp_708.png?1644159645075", id:"CachedBmp_708"},
-		{src:"images/CachedBmp_707.png?1644159645075", id:"CachedBmp_707"},
-		{src:"images/CachedBmp_704.png?1644159645075", id:"CachedBmp_704"},
-		{src:"images/CachedBmp_703.png?1644159645075", id:"CachedBmp_703"},
-		{src:"images/CachedBmp_702.png?1644159645075", id:"CachedBmp_702"},
-		{src:"images/CachedBmp_700.png?1644159645075", id:"CachedBmp_700"},
-		{src:"images/CachedBmp_699.png?1644159645075", id:"CachedBmp_699"},
-		{src:"images/CachedBmp_698.png?1644159645075", id:"CachedBmp_698"},
-		{src:"images/CachedBmp_695.png?1644159645075", id:"CachedBmp_695"},
-		{src:"images/CachedBmp_694.png?1644159645075", id:"CachedBmp_694"},
-		{src:"images/CachedBmp_693.png?1644159645075", id:"CachedBmp_693"},
-		{src:"images/CachedBmp_681.png?1644159645075", id:"CachedBmp_681"},
-		{src:"images/CachedBmp_680.png?1644159645075", id:"CachedBmp_680"},
-		{src:"images/CachedBmp_679.png?1644159645075", id:"CachedBmp_679"},
-		{src:"images/CachedBmp_678.png?1644159645075", id:"CachedBmp_678"},
-		{src:"images/CachedBmp_672.png?1644159645075", id:"CachedBmp_672"},
-		{src:"images/CachedBmp_671.png?1644159645075", id:"CachedBmp_671"},
-		{src:"images/CachedBmp_665.png?1644159645075", id:"CachedBmp_665"},
-		{src:"images/CachedBmp_664.png?1644159645075", id:"CachedBmp_664"},
-		{src:"images/CachedBmp_663.png?1644159645075", id:"CachedBmp_663"},
-		{src:"images/CachedBmp_670.png?1644159645075", id:"CachedBmp_670"},
-		{src:"images/CachedBmp_657.png?1644159645075", id:"CachedBmp_657"},
-		{src:"images/CachedBmp_621.png?1644159645075", id:"CachedBmp_621"},
-		{src:"images/CachedBmp_620.png?1644159645075", id:"CachedBmp_620"},
-		{src:"images/CachedBmp_618.png?1644159645075", id:"CachedBmp_618"},
-		{src:"images/CachedBmp_615.png?1644159645075", id:"CachedBmp_615"},
-		{src:"images/CachedBmp_613.png?1644159645075", id:"CachedBmp_613"},
-		{src:"images/CachedBmp_611.png?1644159645075", id:"CachedBmp_611"},
-		{src:"images/CachedBmp_609.png?1644159645075", id:"CachedBmp_609"},
-		{src:"images/CachedBmp_607.png?1644159645075", id:"CachedBmp_607"},
-		{src:"images/CachedBmp_605.png?1644159645075", id:"CachedBmp_605"},
-		{src:"images/CachedBmp_617.png?1644159645075", id:"CachedBmp_617"},
-		{src:"images/CachedBmp_603.png?1644159645075", id:"CachedBmp_603"},
-		{src:"images/CachedBmp_602.png?1644159645075", id:"CachedBmp_602"},
-		{src:"images/CachedBmp_601.png?1644159645075", id:"CachedBmp_601"},
-		{src:"images/CachedBmp_600.png?1644159645075", id:"CachedBmp_600"},
-		{src:"images/CachedBmp_599.png?1644159645075", id:"CachedBmp_599"},
-		{src:"images/CachedBmp_598.png?1644159645075", id:"CachedBmp_598"},
-		{src:"images/CachedBmp_597.png?1644159645075", id:"CachedBmp_597"},
-		{src:"images/CachedBmp_596.png?1644159645075", id:"CachedBmp_596"},
-		{src:"images/CachedBmp_595.png?1644159645075", id:"CachedBmp_595"},
-		{src:"images/CachedBmp_594.png?1644159645075", id:"CachedBmp_594"},
-		{src:"images/CachedBmp_593.png?1644159645075", id:"CachedBmp_593"},
-		{src:"images/CachedBmp_581.png?1644159645075", id:"CachedBmp_581"},
-		{src:"images/CachedBmp_579.png?1644159645075", id:"CachedBmp_579"},
-		{src:"images/CachedBmp_577.png?1644159645075", id:"CachedBmp_577"},
-		{src:"images/CachedBmp_564.png?1644159645075", id:"CachedBmp_564"},
-		{src:"images/CachedBmp_563.png?1644159645075", id:"CachedBmp_563"},
-		{src:"images/CachedBmp_562.png?1644159645075", id:"CachedBmp_562"},
-		{src:"images/CachedBmp_561.png?1644159645075", id:"CachedBmp_561"},
-		{src:"images/CachedBmp_560.png?1644159645075", id:"CachedBmp_560"},
-		{src:"images/CachedBmp_559.png?1644159645075", id:"CachedBmp_559"},
-		{src:"images/CachedBmp_558.png?1644159645076", id:"CachedBmp_558"},
-		{src:"images/CachedBmp_557.png?1644159645076", id:"CachedBmp_557"},
-		{src:"images/CachedBmp_556.png?1644159645076", id:"CachedBmp_556"},
-		{src:"images/CachedBmp_555.png?1644159645076", id:"CachedBmp_555"},
-		{src:"images/CachedBmp_554.png?1644159645076", id:"CachedBmp_554"},
-		{src:"images/CachedBmp_490.png?1644159645076", id:"CachedBmp_490"},
-		{src:"images/CachedBmp_491.png?1644159645076", id:"CachedBmp_491"},
-		{src:"images/CachedBmp_462.png?1644159645076", id:"CachedBmp_462"},
-		{src:"images/CachedBmp_460.png?1644159645076", id:"CachedBmp_460"},
-		{src:"images/CachedBmp_459.png?1644159645076", id:"CachedBmp_459"},
-		{src:"images/CachedBmp_705.png?1644159645076", id:"CachedBmp_705"},
-		{src:"images/CachedBmp_439.png?1644159645076", id:"CachedBmp_439"},
-		{src:"images/CachedBmp_438.png?1644159645076", id:"CachedBmp_438"},
-		{src:"images/CachedBmp_437.png?1644159645076", id:"CachedBmp_437"},
-		{src:"images/CachedBmp_424.png?1644159645076", id:"CachedBmp_424"},
-		{src:"images/CachedBmp_423.png?1644159645076", id:"CachedBmp_423"},
-		{src:"images/CachedBmp_422.png?1644159645076", id:"CachedBmp_422"},
-		{src:"images/CachedBmp_419.png?1644159645076", id:"CachedBmp_419"},
-		{src:"images/2Chineese_atlas_1.png?1644159642514", id:"2Chineese_atlas_1"},
-		{src:"images/2Chineese_atlas_2.png?1644159642514", id:"2Chineese_atlas_2"},
-		{src:"images/2Chineese_atlas_3.png?1644159642515", id:"2Chineese_atlas_3"},
-		{src:"images/2Chineese_atlas_4.png?1644159642516", id:"2Chineese_atlas_4"},
-		{src:"images/2Chineese_atlas_5.png?1644159642517", id:"2Chineese_atlas_5"},
-		{src:"images/2Chineese_atlas_6.png?1644159642517", id:"2Chineese_atlas_6"},
-		{src:"images/2Chineese_atlas_7.png?1644159642518", id:"2Chineese_atlas_7"},
-		{src:"images/2Chineese_atlas_8.png?1644159642519", id:"2Chineese_atlas_8"},
-		{src:"images/2Chineese_atlas_9.png?1644159642520", id:"2Chineese_atlas_9"},
-		{src:"images/2Chineese_atlas_10.png?1644159642520", id:"2Chineese_atlas_10"},
-		{src:"images/2Chineese_atlas_11.png?1644159642526", id:"2Chineese_atlas_11"},
-		{src:"images/2Chineese_atlas_12.png?1644159642528", id:"2Chineese_atlas_12"},
-		{src:"images/2Chineese_atlas_13.png?1644159642528", id:"2Chineese_atlas_13"},
-		{src:"images/2Chineese_atlas_14.png?1644159642529", id:"2Chineese_atlas_14"},
-		{src:"images/2Chineese_atlas_15.png?1644159642530", id:"2Chineese_atlas_15"},
-		{src:"images/2Chineese_atlas_16.png?1644159642532", id:"2Chineese_atlas_16"},
-		{src:"images/2Chineese_atlas_17.png?1644159642533", id:"2Chineese_atlas_17"},
-		{src:"images/2Chineese_atlas_18.png?1644159642533", id:"2Chineese_atlas_18"},
-		{src:"images/2Chineese_atlas_19.png?1644159642534", id:"2Chineese_atlas_19"},
-		{src:"images/2Chineese_atlas_20.png?1644159642535", id:"2Chineese_atlas_20"},
-		{src:"images/2Chineese_atlas_21.png?1644159642536", id:"2Chineese_atlas_21"},
-		{src:"images/2Chineese_atlas_22.png?1644159642538", id:"2Chineese_atlas_22"},
-		{src:"images/2Chineese_atlas_23.png?1644159642539", id:"2Chineese_atlas_23"},
-		{src:"images/2Chineese_atlas_24.png?1644159642540", id:"2Chineese_atlas_24"},
-		{src:"images/2Chineese_atlas_25.png?1644159642542", id:"2Chineese_atlas_25"},
-		{src:"images/2Chineese_atlas_26.png?1644159642543", id:"2Chineese_atlas_26"},
-		{src:"images/2Chineese_atlas_27.png?1644159642544", id:"2Chineese_atlas_27"},
-		{src:"images/2Chineese_atlas_28.png?1644159642544", id:"2Chineese_atlas_28"},
-		{src:"images/2Chineese_atlas_29.png?1644159642546", id:"2Chineese_atlas_29"},
-		{src:"images/2Chineese_atlas_30.png?1644159642547", id:"2Chineese_atlas_30"},
-		{src:"images/2Chineese_atlas_31.png?1644159642547", id:"2Chineese_atlas_31"},
-		{src:"images/2Chineese_atlas_32.png?1644159642548", id:"2Chineese_atlas_32"},
-		{src:"images/2Chineese_atlas_33.png?1644159642549", id:"2Chineese_atlas_33"},
-		{src:"sounds/clickSound.mp3?1644159645076", id:"clickSound"},
-		{src:"sounds/failure.mp3?1644159645076", id:"failure"},
-		{src:"sounds/failureManSound.mp3?1644159645076", id:"failureManSound"},
-		{src:"sounds/lotterySound.mp3?1644159645076", id:"lotterySound"},
-		{src:"sounds/mainMusic.mp3?1644159645076", id:"mainMusic"},
-		{src:"sounds/startScene.mp3?1644159645076", id:"startScene"},
-		{src:"sounds/success.mp3?1644159645076", id:"success"},
-		{src:"sounds/successManSound.mp3?1644159645076", id:"successManSound"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1644159645076", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1644159645076", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1644159645076", id:"an.TextInput"},
-		{src:"components/ui/src/css.js?1644159645076", id:"an.CSS"},
-		{src:"components/ui/src/combobox.js?1644159645076", id:"an.ComboBox"}
+		{src:"images/CachedBmp_836.png?1644170222858", id:"CachedBmp_836"},
+		{src:"images/CachedBmp_835.png?1644170222858", id:"CachedBmp_835"},
+		{src:"images/CachedBmp_708.png?1644170222858", id:"CachedBmp_708"},
+		{src:"images/CachedBmp_707.png?1644170222858", id:"CachedBmp_707"},
+		{src:"images/CachedBmp_704.png?1644170222858", id:"CachedBmp_704"},
+		{src:"images/CachedBmp_703.png?1644170222858", id:"CachedBmp_703"},
+		{src:"images/CachedBmp_702.png?1644170222858", id:"CachedBmp_702"},
+		{src:"images/CachedBmp_700.png?1644170222858", id:"CachedBmp_700"},
+		{src:"images/CachedBmp_699.png?1644170222858", id:"CachedBmp_699"},
+		{src:"images/CachedBmp_698.png?1644170222858", id:"CachedBmp_698"},
+		{src:"images/CachedBmp_695.png?1644170222858", id:"CachedBmp_695"},
+		{src:"images/CachedBmp_694.png?1644170222858", id:"CachedBmp_694"},
+		{src:"images/CachedBmp_693.png?1644170222858", id:"CachedBmp_693"},
+		{src:"images/CachedBmp_681.png?1644170222858", id:"CachedBmp_681"},
+		{src:"images/CachedBmp_680.png?1644170222858", id:"CachedBmp_680"},
+		{src:"images/CachedBmp_679.png?1644170222858", id:"CachedBmp_679"},
+		{src:"images/CachedBmp_678.png?1644170222858", id:"CachedBmp_678"},
+		{src:"images/CachedBmp_672.png?1644170222858", id:"CachedBmp_672"},
+		{src:"images/CachedBmp_671.png?1644170222858", id:"CachedBmp_671"},
+		{src:"images/CachedBmp_665.png?1644170222858", id:"CachedBmp_665"},
+		{src:"images/CachedBmp_664.png?1644170222858", id:"CachedBmp_664"},
+		{src:"images/CachedBmp_663.png?1644170222858", id:"CachedBmp_663"},
+		{src:"images/CachedBmp_670.png?1644170222858", id:"CachedBmp_670"},
+		{src:"images/CachedBmp_657.png?1644170222858", id:"CachedBmp_657"},
+		{src:"images/CachedBmp_621.png?1644170222858", id:"CachedBmp_621"},
+		{src:"images/CachedBmp_620.png?1644170222858", id:"CachedBmp_620"},
+		{src:"images/CachedBmp_618.png?1644170222858", id:"CachedBmp_618"},
+		{src:"images/CachedBmp_615.png?1644170222858", id:"CachedBmp_615"},
+		{src:"images/CachedBmp_613.png?1644170222858", id:"CachedBmp_613"},
+		{src:"images/CachedBmp_611.png?1644170222858", id:"CachedBmp_611"},
+		{src:"images/CachedBmp_609.png?1644170222858", id:"CachedBmp_609"},
+		{src:"images/CachedBmp_607.png?1644170222858", id:"CachedBmp_607"},
+		{src:"images/CachedBmp_605.png?1644170222858", id:"CachedBmp_605"},
+		{src:"images/CachedBmp_617.png?1644170222858", id:"CachedBmp_617"},
+		{src:"images/CachedBmp_603.png?1644170222858", id:"CachedBmp_603"},
+		{src:"images/CachedBmp_602.png?1644170222858", id:"CachedBmp_602"},
+		{src:"images/CachedBmp_601.png?1644170222858", id:"CachedBmp_601"},
+		{src:"images/CachedBmp_600.png?1644170222858", id:"CachedBmp_600"},
+		{src:"images/CachedBmp_599.png?1644170222858", id:"CachedBmp_599"},
+		{src:"images/CachedBmp_598.png?1644170222858", id:"CachedBmp_598"},
+		{src:"images/CachedBmp_597.png?1644170222858", id:"CachedBmp_597"},
+		{src:"images/CachedBmp_596.png?1644170222858", id:"CachedBmp_596"},
+		{src:"images/CachedBmp_595.png?1644170222858", id:"CachedBmp_595"},
+		{src:"images/CachedBmp_594.png?1644170222858", id:"CachedBmp_594"},
+		{src:"images/CachedBmp_593.png?1644170222858", id:"CachedBmp_593"},
+		{src:"images/CachedBmp_581.png?1644170222858", id:"CachedBmp_581"},
+		{src:"images/CachedBmp_579.png?1644170222858", id:"CachedBmp_579"},
+		{src:"images/CachedBmp_577.png?1644170222858", id:"CachedBmp_577"},
+		{src:"images/CachedBmp_564.png?1644170222858", id:"CachedBmp_564"},
+		{src:"images/CachedBmp_563.png?1644170222858", id:"CachedBmp_563"},
+		{src:"images/CachedBmp_562.png?1644170222858", id:"CachedBmp_562"},
+		{src:"images/CachedBmp_561.png?1644170222858", id:"CachedBmp_561"},
+		{src:"images/CachedBmp_560.png?1644170222858", id:"CachedBmp_560"},
+		{src:"images/CachedBmp_559.png?1644170222858", id:"CachedBmp_559"},
+		{src:"images/CachedBmp_558.png?1644170222858", id:"CachedBmp_558"},
+		{src:"images/CachedBmp_557.png?1644170222858", id:"CachedBmp_557"},
+		{src:"images/CachedBmp_556.png?1644170222858", id:"CachedBmp_556"},
+		{src:"images/CachedBmp_555.png?1644170222858", id:"CachedBmp_555"},
+		{src:"images/CachedBmp_554.png?1644170222858", id:"CachedBmp_554"},
+		{src:"images/CachedBmp_490.png?1644170222858", id:"CachedBmp_490"},
+		{src:"images/CachedBmp_491.png?1644170222858", id:"CachedBmp_491"},
+		{src:"images/CachedBmp_462.png?1644170222858", id:"CachedBmp_462"},
+		{src:"images/CachedBmp_460.png?1644170222858", id:"CachedBmp_460"},
+		{src:"images/CachedBmp_459.png?1644170222858", id:"CachedBmp_459"},
+		{src:"images/CachedBmp_705.png?1644170222858", id:"CachedBmp_705"},
+		{src:"images/CachedBmp_439.png?1644170222858", id:"CachedBmp_439"},
+		{src:"images/CachedBmp_438.png?1644170222858", id:"CachedBmp_438"},
+		{src:"images/CachedBmp_437.png?1644170222858", id:"CachedBmp_437"},
+		{src:"images/CachedBmp_424.png?1644170222858", id:"CachedBmp_424"},
+		{src:"images/CachedBmp_423.png?1644170222858", id:"CachedBmp_423"},
+		{src:"images/CachedBmp_422.png?1644170222858", id:"CachedBmp_422"},
+		{src:"images/CachedBmp_419.png?1644170222858", id:"CachedBmp_419"},
+		{src:"images/2Chineese_atlas_1.png?1644170221260", id:"2Chineese_atlas_1"},
+		{src:"images/2Chineese_atlas_2.png?1644170221260", id:"2Chineese_atlas_2"},
+		{src:"images/2Chineese_atlas_3.png?1644170221260", id:"2Chineese_atlas_3"},
+		{src:"images/2Chineese_atlas_4.png?1644170221260", id:"2Chineese_atlas_4"},
+		{src:"images/2Chineese_atlas_5.png?1644170221260", id:"2Chineese_atlas_5"},
+		{src:"images/2Chineese_atlas_6.png?1644170221260", id:"2Chineese_atlas_6"},
+		{src:"images/2Chineese_atlas_7.png?1644170221261", id:"2Chineese_atlas_7"},
+		{src:"images/2Chineese_atlas_8.png?1644170221261", id:"2Chineese_atlas_8"},
+		{src:"images/2Chineese_atlas_9.png?1644170221261", id:"2Chineese_atlas_9"},
+		{src:"images/2Chineese_atlas_10.png?1644170221261", id:"2Chineese_atlas_10"},
+		{src:"images/2Chineese_atlas_11.png?1644170221264", id:"2Chineese_atlas_11"},
+		{src:"images/2Chineese_atlas_12.png?1644170221265", id:"2Chineese_atlas_12"},
+		{src:"images/2Chineese_atlas_13.png?1644170221265", id:"2Chineese_atlas_13"},
+		{src:"images/2Chineese_atlas_14.png?1644170221266", id:"2Chineese_atlas_14"},
+		{src:"images/2Chineese_atlas_15.png?1644170221266", id:"2Chineese_atlas_15"},
+		{src:"images/2Chineese_atlas_16.png?1644170221266", id:"2Chineese_atlas_16"},
+		{src:"images/2Chineese_atlas_17.png?1644170221267", id:"2Chineese_atlas_17"},
+		{src:"images/2Chineese_atlas_18.png?1644170221267", id:"2Chineese_atlas_18"},
+		{src:"images/2Chineese_atlas_19.png?1644170221267", id:"2Chineese_atlas_19"},
+		{src:"images/2Chineese_atlas_20.png?1644170221268", id:"2Chineese_atlas_20"},
+		{src:"images/2Chineese_atlas_21.png?1644170221268", id:"2Chineese_atlas_21"},
+		{src:"images/2Chineese_atlas_22.png?1644170221268", id:"2Chineese_atlas_22"},
+		{src:"images/2Chineese_atlas_23.png?1644170221269", id:"2Chineese_atlas_23"},
+		{src:"images/2Chineese_atlas_24.png?1644170221269", id:"2Chineese_atlas_24"},
+		{src:"images/2Chineese_atlas_25.png?1644170221270", id:"2Chineese_atlas_25"},
+		{src:"images/2Chineese_atlas_26.png?1644170221270", id:"2Chineese_atlas_26"},
+		{src:"images/2Chineese_atlas_27.png?1644170221270", id:"2Chineese_atlas_27"},
+		{src:"images/2Chineese_atlas_28.png?1644170221271", id:"2Chineese_atlas_28"},
+		{src:"images/2Chineese_atlas_29.png?1644170221272", id:"2Chineese_atlas_29"},
+		{src:"images/2Chineese_atlas_30.png?1644170221272", id:"2Chineese_atlas_30"},
+		{src:"images/2Chineese_atlas_31.png?1644170221272", id:"2Chineese_atlas_31"},
+		{src:"images/2Chineese_atlas_32.png?1644170221273", id:"2Chineese_atlas_32"},
+		{src:"images/2Chineese_atlas_33.png?1644170221273", id:"2Chineese_atlas_33"},
+		{src:"sounds/clickSound.mp3?1644170222858", id:"clickSound"},
+		{src:"sounds/failure.mp3?1644170222858", id:"failure"},
+		{src:"sounds/failureManSound.mp3?1644170222858", id:"failureManSound"},
+		{src:"sounds/lotterySound.mp3?1644170222858", id:"lotterySound"},
+		{src:"sounds/mainMusic.mp3?1644170222858", id:"mainMusic"},
+		{src:"sounds/startScene.mp3?1644170222858", id:"startScene"},
+		{src:"sounds/success.mp3?1644170222858", id:"success"},
+		{src:"sounds/successManSound.mp3?1644170222858", id:"successManSound"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1644170222858", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1644170222858", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1644170222858", id:"an.TextInput"},
+		{src:"components/ui/src/css.js?1644170222858", id:"an.CSS"},
+		{src:"components/ui/src/combobox.js?1644170222858", id:"an.ComboBox"}
 	],
 	preloads: []
 };
