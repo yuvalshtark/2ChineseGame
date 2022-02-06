@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');
+
+#comboBox{
+    direction: rtl;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Assistant';
+    border-radius: 0.5em;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: transparent;
+    background: url(../cssImages/arrow.svg) no-repeat white;
+    background-size: 8%;
+    background-position-y: 50%;
+    background-position-x: 5%;
+}
+
+
+/* .ui-combobox{
+    font-size: 40px !important; 
+    float: left !important;
+} */
+
+#inputText, #inputText2{
+direction: rtl;
+font-size: 45px;
+text-align: center;
+font-family: 'Assistant';
+border-radius: 0.5em;
+
+}
