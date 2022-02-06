@@ -106,7 +106,7 @@ nav ul li a {
     text-align: center;
     padding: 0 10px;
     font-weight: 400;
-    font-size: 17pt;
+    font-size: 15pt;
     font-family: 'Assistant', sans-serif;
     direction: rtl;
     text-decoration: none;
@@ -226,49 +226,50 @@ width: 170px;
 }
 
 #titlehowToPlay{
-    font-size: 30pt;
-    margin-top: -50px;
+    font-size: 25pt;
+    margin-top: -33px;
     color:#7c020c;
     font-weight: 700;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 #pText{
     width: 650px;
     margin-right: 60px;
     font-size: 14pt;
-    margin-top: -3px;
+    margin-top: 2px;
 }
 .howToPlayText{
+    margin-top: 10px;
     text-align: right;
     margin-right: 190px;
     width: 500px;
     margin-bottom: 30px;
-    font-size: 12pt;
+    font-size: 13pt;
     font-weight: 600;
 }
 
 #howToPlayTextArrows{
-transform: translateY(5px);
+transform: translateY(11px);
 display: block;
 }
 
 #howToPlayTextSpace{
-transform: translateY(11px);
+transform: translateY(10px);
 }
 
 #howToPlayTextPause{
-transform: translateY(36px);
+transform: translateY(33px);
 }
 
 #howToPlayTextMagnifyingGlass{
-transform: translateY(63px);
+transform: translateY(48px);
 }
 
 #howToPlayLastText{
-    margin-top: 78px;
+    margin-top: 72px;
     text-align: center;
     font-weight: 700;
-    font-size: 18pt;
+    font-size: 16pt;
 
 }
 .closeHowToPlay{
