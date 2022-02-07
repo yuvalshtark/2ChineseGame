@@ -141,14 +141,14 @@ border: none;
 #about
 {
 background-image: url('../cssImages/BackgroundAbout.svg');
-background-size: 100%;
+background-size: 101%;
 background-repeat: no-repeat;
 background-position: center;
 border-radius: 60px;
 height: 500px;
 width: 800px;
 margin: 0 auto;
-margin-top: 66px;
+margin-top: 55px;
 border: 5px solid #ffffff;
 position: relative;
 }
@@ -211,14 +211,14 @@ width: 170px;
 
 #howToPlay{
     background-image: url('../cssImages/Backgroundhowtoplay.svg');
-    background-size: 100%;
+    background-size: 101%;
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 60px;
     height: 500px;
     width: 800px;
     margin: 0 auto;
-    margin-top: 66px;
+    margin-top: 55px;
     border: 5px solid #ffffff;
 }
 
