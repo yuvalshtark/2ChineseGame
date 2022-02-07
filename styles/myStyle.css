@@ -148,8 +148,9 @@ border-radius: 60px;
 height: 500px;
 width: 800px;
 margin: 0 auto;
-margin-top: 200px;
+margin-top: 66px;
 border: 5px solid #ffffff;
+position: relative;
 }
 
 #titleAbout{
@@ -217,7 +218,7 @@ width: 170px;
     height: 500px;
     width: 800px;
     margin: 0 auto;
-    margin-top: 200px;
+    margin-top: 66px;
     border: 5px solid #ffffff;
 }
 
